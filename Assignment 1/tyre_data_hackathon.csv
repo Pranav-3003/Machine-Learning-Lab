@@ -1,0 +1,1001 @@
+Tyre Life Span (Years),Tyre Life in Kilometers,Tyre Width,Required Tyre Pressure,Maximum Safe Tyre Speed,Tyre Brand/Company,Tyre Load Capacity (kg),Tyre Position,Tread Depth (mm),Tyre Temperature (°C),Tyre Type,Seasonal Type,Speed Index,Load Index,Manufacturing Date,Wheel Alignment History,Road Condition Usage,Last Rotation Date,Vehicle Type Compatibility,Tyre Noise Level (dB),TPMS Pressure,TPMS Temperature,Leak Detection,Tread Wear Pattern,Mileage Since Installation,Expected Replacement Date
+3,41993,215,30,220,Pirelli,781,Rear Left,7.8,53,Tube-type,All-season,W,96,2023-03-08,Misaligned,Highway,2025-01-26,Truck,67.6,33,45,No,Center,24881,2026-03-07
+5,65083,165,30,198,Goodyear,544,Rear Left,7.6,38,Tube-type,Winter,T,85,2022-11-22,Needs Check,City,2025-02-04,Truck,71.2,33,50,Yes,Outer,3200,2027-11-21
+3,68282,195,33,194,Bridgestone,742,Rear Left,2.8,48,Tubeless,Summer,T,80,2024-08-01,Misaligned,Off-road,2024-08-03,Sedan,74.2,36,31,No,Even,27136,2027-08-01
+6,65944,195,32,193,Pirelli,470,Front Right,4.3,46,Tubeless,Summer,Y,102,2021-07-21,Needs Check,Mixed,2025-05-06,Truck,68.7,36,25,No,Center,18774,2027-07-20
+7,39770,225,33,230,MRF,717,Rear Right,2.9,58,Tube-type,Winter,W,89,2022-01-06,Misaligned,Mixed,2025-01-15,SUV,71.1,29,71,Yes,Outer,5673,2029-01-04
+3,45454,225,34,224,Continental,597,Front Left,4.0,69,Tubeless,All-season,V,82,2020-09-10,Needs Check,Mixed,2024-08-17,Sedan,68.6,28,37,Yes,Inner,24413,2023-09-10
+3,52707,225,35,182,Pirelli,519,Rear Right,5.4,43,Tubeless,Winter,Y,80,2021-05-12,Needs Check,Mixed,2025-05-19,SUV,71.5,36,25,No,Inner,21929,2024-05-11
+3,62128,175,30,199,MRF,681,Rear Left,4.1,36,Tubeless,All-season,H,103,2020-10-29,Good,Highway,2024-11-06,Sedan,73.4,34,54,Yes,Even,22046,2023-10-29
+6,38459,195,35,184,Continental,753,Rear Right,7.4,66,Tube-type,All-season,T,94,2022-08-29,Needs Check,City,2025-02-27,SUV,69.7,33,80,No,Center,25328,2028-08-27
+4,45031,195,32,212,Michelin,658,Rear Right,5.8,51,Tubeless,All-season,V,104,2020-09-28,Needs Check,Mixed,2024-11-09,SUV,65.1,29,61,Yes,Center,42085,2024-09-27
+7,44879,165,31,195,Bridgestone,651,Front Left,7.6,25,Tubeless,All-season,T,84,2021-01-18,Misaligned,City,2025-05-07,Hatchback,71.3,32,45,No,Center,38548,2028-01-17
+6,63590,175,31,219,MRF,669,Rear Left,5.5,47,Tubeless,Winter,W,99,2024-09-29,Good,Off-road,2024-08-12,Truck,73.2,29,79,No,Even,20219,2030-09-28
+6,31341,185,32,190,Apollo,678,Front Left,7.8,51,Tubeless,Winter,W,86,2025-04-12,Good,Mixed,2025-04-17,SUV,66.7,32,36,No,Inner,19320,2031-04-11
+4,64661,175,31,213,Bridgestone,705,Rear Left,5.2,29,Tubeless,All-season,H,95,2023-08-10,Good,City,2025-06-18,Sedan,74.7,31,31,Yes,Center,49395,2027-08-09
+6,56173,165,35,209,Continental,583,Rear Right,7.1,77,Tubeless,All-season,W,92,2020-09-06,Good,City,2025-01-09,Sedan,71.2,29,56,No,Outer,28630,2026-09-05
+4,64986,175,31,229,Apollo,733,Rear Left,5.4,29,Tube-type,Summer,H,106,2024-04-27,Good,Mixed,2024-10-22,Truck,68.6,29,49,Yes,Center,36601,2028-04-26
+3,49974,225,31,201,Goodyear,438,Front Left,4.2,27,Tubeless,All-season,W,107,2024-03-06,Misaligned,City,2025-01-28,Truck,74.0,35,42,Yes,Even,43307,2027-03-06
+4,36410,175,31,202,Michelin,513,Rear Left,6.8,79,Tubeless,All-season,H,89,2022-08-27,Needs Check,Mixed,2024-11-04,SUV,69.7,31,37,Yes,Even,31492,2026-08-26
+4,71494,225,30,203,Apollo,609,Rear Right,5.8,72,Tubeless,Summer,T,109,2023-01-24,Misaligned,City,2024-09-17,Sedan,66.5,35,52,Yes,Outer,10071,2027-01-23
+7,75104,225,31,239,MRF,568,Front Right,3.5,64,Tubeless,All-season,V,93,2023-03-01,Good,Highway,2024-12-18,Truck,67.0,34,75,Yes,Even,3558,2030-02-27
+7,60384,225,34,216,Apollo,630,Rear Right,7.6,62,Tubeless,Summer,T,101,2023-07-09,Misaligned,Highway,2024-09-25,SUV,70.4,29,33,No,Inner,35978,2030-07-07
+3,54826,195,33,183,Bridgestone,690,Rear Left,2.0,36,Tubeless,Summer,V,98,2022-06-16,Needs Check,Mixed,2024-10-26,SUV,74.7,29,71,Yes,Even,33667,2025-06-15
+7,79852,225,34,183,Pirelli,595,Front Left,5.5,59,Tube-type,All-season,Y,110,2023-04-01,Good,Mixed,2025-03-26,Truck,69.9,33,32,No,Outer,54665,2030-03-30
+6,45589,225,32,196,Goodyear,647,Rear Right,7.6,72,Tubeless,Summer,Y,91,2021-10-20,Needs Check,Highway,2025-04-15,SUV,68.1,33,56,Yes,Center,21754,2027-10-19
+5,73052,215,30,193,Michelin,473,Rear Left,4.9,77,Tubeless,Summer,H,90,2021-09-30,Good,Highway,2024-07-30,Hatchback,66.6,30,40,Yes,Inner,29335,2026-09-29
+7,62388,195,34,196,Pirelli,627,Front Right,3.3,78,Tubeless,Summer,W,102,2022-04-30,Misaligned,Highway,2024-08-07,Hatchback,74.9,34,55,No,Inner,57954,2029-04-28
+4,35159,185,31,237,Continental,648,Front Right,6.6,67,Tube-type,All-season,H,93,2021-03-20,Misaligned,Highway,2025-05-22,Sedan,73.5,28,42,No,Outer,12598,2025-03-19
+4,39484,175,33,200,Pirelli,498,Front Right,8.0,65,Tubeless,All-season,W,97,2023-02-14,Needs Check,Highway,2024-12-09,Sedan,70.8,32,39,No,Even,37209,2027-02-13
+6,43760,185,33,194,MRF,480,Rear Right,3.6,34,Tubeless,All-season,Y,110,2024-11-20,Good,City,2025-05-09,Sedan,68.9,32,49,Yes,Center,41472,2030-11-19
+3,78315,165,30,198,MRF,689,Rear Left,5.0,71,Tubeless,Winter,V,101,2023-05-21,Misaligned,City,2024-12-03,SUV,65.7,31,31,No,Inner,46707,2026-05-20
+3,41617,205,33,218,Goodyear,638,Front Right,3.0,74,Tubeless,Winter,V,104,2021-06-01,Misaligned,City,2025-03-05,Sedan,65.5,35,28,No,Inner,7385,2024-05-31
+4,60896,215,34,222,Bridgestone,784,Rear Right,7.6,53,Tube-type,All-season,T,86,2023-02-23,Good,Highway,2025-04-07,Sedan,69.9,28,43,No,Outer,20552,2027-02-22
+6,58258,205,34,192,Continental,487,Rear Right,2.1,30,Tube-type,Summer,V,110,2024-07-23,Misaligned,City,2025-04-28,Sedan,65.4,30,30,Yes,Inner,1226,2030-07-22
+7,73066,225,31,232,Goodyear,543,Front Left,2.4,74,Tube-type,All-season,Y,109,2024-11-01,Needs Check,Mixed,2024-10-06,SUV,65.2,36,33,Yes,Even,53484,2031-10-31
+3,48166,225,33,229,MRF,725,Rear Left,5.8,77,Tube-type,Summer,H,105,2023-03-25,Misaligned,City,2024-09-24,Truck,67.4,36,29,Yes,Inner,24047,2026-03-24
+7,49456,165,32,199,Apollo,586,Rear Right,4.6,72,Tubeless,Winter,T,105,2024-08-02,Needs Check,Off-road,2024-11-18,Sedan,68.3,30,61,Yes,Outer,38302,2031-08-01
+3,78716,185,35,237,Michelin,572,Rear Left,6.1,47,Tubeless,Summer,H,92,2024-03-21,Good,Off-road,2024-11-21,Hatchback,69.4,30,55,Yes,Even,28719,2027-03-21
+6,78531,225,35,186,Continental,670,Front Left,5.5,75,Tubeless,Winter,V,95,2024-12-09,Good,Highway,2025-04-16,SUV,66.5,29,63,No,Center,3042,2030-12-08
+7,33922,165,31,185,Michelin,414,Front Left,5.8,80,Tube-type,Summer,H,82,2022-08-31,Good,Off-road,2024-11-30,Hatchback,68.9,29,45,Yes,Outer,32957,2029-08-29
+4,49567,195,32,234,Continental,656,Front Right,2.7,73,Tubeless,Winter,Y,83,2021-04-05,Misaligned,Mixed,2025-04-10,Truck,73.4,33,76,No,Inner,45127,2025-04-04
+4,37130,195,35,192,Continental,633,Front Left,6.4,76,Tube-type,Winter,T,98,2025-03-02,Misaligned,Off-road,2025-03-08,Truck,74.4,35,53,Yes,Even,36042,2029-03-01
+6,48373,205,31,188,Continental,702,Front Right,2.7,64,Tubeless,All-season,V,103,2023-02-04,Misaligned,Highway,2024-08-15,SUV,67.0,35,26,No,Center,24987,2029-02-02
+4,65445,185,35,200,MRF,509,Rear Left,3.8,59,Tubeless,Summer,W,107,2023-12-25,Good,Off-road,2025-02-05,Truck,67.0,36,79,Yes,Outer,3181,2027-12-24
+3,71442,195,30,223,Bridgestone,480,Rear Right,7.2,46,Tube-type,Winter,Y,85,2020-12-10,Needs Check,Mixed,2024-12-04,SUV,74.8,30,62,No,Even,52790,2023-12-10
+7,71513,225,33,200,Pirelli,656,Front Left,2.5,33,Tubeless,Summer,T,93,2023-03-02,Needs Check,City,2025-06-09,Truck,72.9,29,56,Yes,Center,31548,2030-02-28
+7,35410,195,33,238,Bridgestone,770,Rear Right,7.8,78,Tubeless,All-season,H,83,2024-08-27,Needs Check,Highway,2025-05-27,Hatchback,70.0,30,65,Yes,Inner,11755,2031-08-26
+5,57182,205,35,232,Pirelli,600,Front Right,7.0,48,Tube-type,Summer,Y,91,2024-01-22,Needs Check,Highway,2024-10-26,SUV,69.9,33,44,No,Center,7429,2029-01-20
+7,59017,225,30,234,Pirelli,767,Front Right,2.3,43,Tubeless,All-season,V,105,2023-11-16,Needs Check,Mixed,2025-01-28,Truck,70.6,33,36,Yes,Outer,3664,2030-11-14
+5,64775,185,30,189,Bridgestone,668,Front Left,3.7,57,Tubeless,Summer,V,91,2023-03-27,Good,Mixed,2025-05-08,Truck,72.9,32,50,Yes,Center,52896,2028-03-25
+6,49754,195,32,181,Pirelli,619,Rear Left,2.1,74,Tube-type,Winter,V,93,2025-02-09,Needs Check,Mixed,2025-05-16,Truck,71.6,29,75,No,Outer,23402,2031-02-08
+3,52111,205,31,226,Continental,511,Front Left,7.8,72,Tube-type,All-season,W,88,2020-08-23,Needs Check,Off-road,2025-02-11,SUV,71.0,30,43,Yes,Inner,16696,2023-08-23
+7,34401,225,34,206,Apollo,425,Rear Right,6.7,32,Tube-type,Summer,Y,101,2022-12-25,Misaligned,Off-road,2024-11-21,SUV,72.5,28,72,Yes,Center,30559,2029-12-23
+5,50646,205,33,198,MRF,756,Front Left,4.1,72,Tubeless,Summer,Y,97,2022-07-22,Good,City,2025-03-08,Sedan,67.5,36,57,No,Center,40226,2027-07-21
+6,34512,195,35,201,Bridgestone,760,Rear Right,6.5,70,Tubeless,Summer,Y,107,2023-01-04,Needs Check,City,2025-01-22,Sedan,69.5,29,39,Yes,Inner,22526,2029-01-02
+7,78733,225,30,194,Michelin,640,Rear Right,2.4,43,Tube-type,Winter,W,83,2024-12-10,Misaligned,Highway,2024-08-08,Hatchback,70.5,33,29,Yes,Even,42306,2031-12-09
+6,63990,215,35,193,Continental,754,Rear Right,3.2,54,Tubeless,All-season,W,97,2022-05-26,Good,Highway,2025-05-06,Truck,69.2,33,28,No,Outer,39603,2028-05-24
+4,62336,205,34,213,Goodyear,722,Front Right,2.2,39,Tube-type,Winter,Y,84,2024-09-14,Needs Check,City,2025-01-01,Truck,69.3,33,30,No,Center,18484,2028-09-13
+7,74208,205,32,209,Apollo,688,Rear Right,4.7,78,Tubeless,Summer,H,87,2023-06-14,Misaligned,Highway,2025-06-21,Truck,73.0,29,67,No,Center,30906,2030-06-12
+4,32091,175,32,184,Apollo,550,Front Right,6.5,34,Tube-type,All-season,V,97,2021-01-31,Misaligned,Mixed,2025-06-11,Sedan,65.7,33,30,Yes,Inner,4650,2025-01-30
+7,36250,185,30,227,MRF,534,Front Left,5.3,34,Tube-type,Summer,T,83,2025-04-16,Needs Check,City,2024-09-05,SUV,66.5,31,50,Yes,Outer,35863,2032-04-14
+7,51247,175,31,227,Goodyear,673,Rear Left,6.0,53,Tube-type,Winter,T,88,2023-01-31,Good,City,2024-09-24,Truck,66.8,32,79,Yes,Center,3194,2030-01-29
+7,38215,165,31,185,Pirelli,493,Front Left,6.0,59,Tube-type,Winter,Y,109,2021-05-06,Good,City,2025-05-15,Hatchback,74.5,31,76,No,Inner,17582,2028-05-04
+6,65623,175,33,189,Goodyear,581,Front Right,3.5,68,Tube-type,Winter,Y,98,2024-11-10,Needs Check,Highway,2025-04-07,SUV,65.3,31,35,Yes,Inner,32627,2030-11-09
+6,33091,185,30,205,Pirelli,525,Rear Left,4.7,38,Tubeless,Winter,W,84,2023-05-25,Needs Check,Off-road,2024-08-02,SUV,70.5,28,67,No,Even,9487,2029-05-23
+3,72420,225,31,221,Pirelli,734,Rear Right,5.2,63,Tube-type,Summer,Y,108,2024-11-09,Needs Check,Off-road,2024-10-17,Sedan,67.8,35,76,No,Inner,18710,2027-11-09
+7,71911,185,35,211,Apollo,726,Rear Left,4.3,49,Tubeless,All-season,V,86,2020-09-20,Good,Mixed,2025-02-08,Hatchback,70.1,28,30,No,Inner,63918,2027-09-19
+4,47192,205,31,192,Apollo,498,Front Left,7.4,80,Tube-type,Winter,T,105,2022-02-10,Misaligned,Mixed,2024-11-23,Truck,66.4,29,48,No,Outer,2690,2026-02-09
+4,33549,205,34,224,Apollo,689,Front Right,2.9,57,Tube-type,All-season,T,109,2024-04-19,Good,Off-road,2025-03-31,Hatchback,72.6,30,50,Yes,Inner,13773,2028-04-18
+4,78572,205,34,213,Apollo,462,Rear Right,4.7,69,Tube-type,Summer,Y,87,2021-08-06,Misaligned,City,2025-04-30,SUV,72.9,31,57,No,Inner,7849,2025-08-05
+6,68161,185,34,212,Continental,567,Front Left,2.7,66,Tubeless,Winter,Y,103,2021-07-04,Needs Check,Off-road,2025-02-16,Hatchback,70.1,35,35,Yes,Even,39790,2027-07-03
+7,48042,195,35,194,Bridgestone,580,Rear Right,7.7,67,Tube-type,Winter,V,95,2023-10-04,Needs Check,Off-road,2025-04-09,Hatchback,70.3,28,25,Yes,Outer,35693,2030-10-02
+6,68428,225,34,236,Bridgestone,648,Rear Left,2.2,38,Tubeless,All-season,T,102,2022-06-18,Needs Check,City,2024-07-27,Truck,72.6,33,77,Yes,Even,3172,2028-06-16
+4,64874,215,31,207,Apollo,721,Front Right,3.3,44,Tubeless,All-season,W,110,2022-01-26,Misaligned,Highway,2025-01-09,Sedan,65.6,32,25,Yes,Inner,28670,2026-01-25
+6,30630,185,33,222,Goodyear,548,Rear Left,7.6,53,Tubeless,All-season,H,80,2023-08-26,Good,Highway,2025-03-05,Hatchback,71.7,34,31,No,Outer,26446,2029-08-24
+7,68720,205,35,187,Continental,619,Rear Right,4.3,32,Tubeless,Summer,V,91,2021-04-20,Misaligned,Highway,2024-09-19,SUV,72.4,34,63,Yes,Even,25271,2028-04-18
+7,34160,215,30,188,Michelin,587,Front Left,2.9,59,Tube-type,Summer,H,108,2023-06-13,Misaligned,City,2025-05-23,SUV,72.7,31,74,No,Outer,708,2030-06-11
+3,61210,175,34,187,Apollo,595,Rear Right,7.7,55,Tube-type,Summer,W,87,2023-06-19,Needs Check,Highway,2024-10-23,SUV,69.4,33,40,Yes,Even,46905,2026-06-18
+5,34524,215,34,203,Bridgestone,593,Rear Left,6.8,35,Tubeless,All-season,T,102,2021-10-17,Misaligned,Mixed,2024-11-09,Sedan,65.2,36,56,Yes,Even,6358,2026-10-16
+4,57522,215,31,225,Continental,440,Rear Left,3.3,53,Tube-type,Summer,Y,101,2020-12-28,Needs Check,Off-road,2024-10-13,Truck,73.3,33,72,No,Center,48598,2024-12-27
+6,53145,225,33,219,Continental,762,Front Right,4.5,59,Tube-type,Winter,H,99,2022-11-15,Needs Check,City,2024-11-22,Sedan,73.3,28,49,Yes,Inner,52209,2028-11-13
+3,34990,185,31,183,MRF,619,Front Right,7.0,30,Tube-type,Winter,V,86,2023-01-19,Needs Check,Off-road,2025-06-02,SUV,65.8,36,65,No,Even,5367,2026-01-18
+3,44749,175,35,238,Pirelli,800,Rear Left,7.5,32,Tube-type,All-season,W,96,2023-01-07,Misaligned,Highway,2024-09-23,Truck,65.5,33,34,No,Outer,29949,2026-01-06
+3,71788,215,32,193,Apollo,405,Front Left,4.9,62,Tubeless,Winter,Y,103,2021-10-03,Misaligned,Mixed,2024-11-27,SUV,71.4,35,42,No,Outer,12745,2024-10-02
+4,61503,205,30,231,Bridgestone,663,Front Left,5.8,47,Tubeless,All-season,H,89,2022-12-13,Needs Check,Off-road,2025-01-30,Sedan,65.8,34,73,Yes,Center,8209,2026-12-12
+3,79606,195,32,234,Continental,686,Front Left,7.7,66,Tubeless,All-season,T,96,2023-10-22,Needs Check,City,2024-09-18,Hatchback,74.6,30,67,Yes,Center,69358,2026-10-21
+3,59673,185,34,222,Michelin,531,Rear Right,3.4,69,Tubeless,Summer,V,80,2021-03-02,Misaligned,City,2024-08-16,Sedan,74.8,35,57,No,Center,33078,2024-03-01
+7,75794,185,33,217,Bridgestone,705,Front Right,6.4,53,Tube-type,All-season,H,84,2021-01-07,Needs Check,Off-road,2025-05-22,Truck,69.4,31,63,Yes,Even,9080,2028-01-06
+6,75920,175,34,219,Pirelli,705,Rear Right,6.3,50,Tubeless,Winter,W,82,2023-07-21,Misaligned,Mixed,2025-01-17,Truck,70.4,29,67,Yes,Center,31392,2029-07-19
+7,68826,195,35,230,Goodyear,512,Front Right,2.4,67,Tube-type,Summer,Y,93,2021-03-20,Misaligned,Highway,2024-08-30,Hatchback,68.2,29,42,Yes,Outer,5531,2028-03-18
+6,62790,205,33,218,Pirelli,606,Front Right,6.0,74,Tube-type,Summer,Y,94,2025-03-26,Misaligned,Off-road,2024-10-24,Sedan,67.6,32,59,Yes,Even,1478,2031-03-25
+6,35960,225,31,211,Goodyear,717,Front Right,2.3,67,Tube-type,Winter,H,101,2021-03-05,Good,Highway,2025-05-08,Sedan,65.5,28,46,Yes,Inner,29407,2027-03-04
+5,58806,165,31,231,Continental,675,Rear Right,6.1,54,Tubeless,Winter,H,87,2021-08-09,Needs Check,Highway,2024-08-01,SUV,70.7,29,58,Yes,Outer,15794,2026-08-08
+5,56272,185,35,201,Goodyear,479,Rear Left,5.7,53,Tubeless,Winter,H,108,2024-09-17,Misaligned,Mixed,2024-11-11,Hatchback,71.2,35,70,Yes,Even,30967,2029-09-16
+7,78277,215,34,231,MRF,777,Rear Right,3.5,30,Tubeless,Summer,W,87,2024-10-30,Good,City,2025-02-13,Hatchback,73.3,31,44,No,Even,62047,2031-10-29
+4,55521,195,30,186,Goodyear,750,Rear Right,7.4,63,Tube-type,All-season,T,96,2022-01-17,Misaligned,Off-road,2025-03-25,Hatchback,71.9,36,53,Yes,Even,24720,2026-01-16
+7,35727,175,31,230,Bridgestone,745,Front Left,4.3,64,Tube-type,Winter,H,96,2021-03-29,Needs Check,Highway,2024-10-03,Sedan,68.0,31,77,Yes,Outer,16071,2028-03-27
+5,36304,195,32,184,Continental,429,Front Right,5.0,75,Tube-type,Summer,W,106,2022-08-09,Needs Check,City,2025-01-28,Hatchback,73.4,34,47,No,Inner,14049,2027-08-08
+6,42821,225,33,203,Bridgestone,593,Rear Left,3.4,68,Tubeless,All-season,V,102,2020-08-20,Needs Check,Highway,2025-04-13,Sedan,70.0,29,59,Yes,Outer,9870,2026-08-19
+7,58166,225,32,197,Apollo,423,Front Left,7.4,28,Tube-type,All-season,W,106,2024-09-22,Misaligned,Off-road,2025-05-26,Truck,69.8,28,30,No,Even,27180,2031-09-21
+5,77744,165,32,213,Goodyear,431,Rear Left,4.9,46,Tube-type,Summer,W,86,2021-08-02,Misaligned,City,2025-02-19,Sedan,70.7,33,27,No,Inner,17559,2026-08-01
+5,60741,175,32,228,Bridgestone,794,Front Right,4.0,26,Tube-type,All-season,W,80,2022-03-10,Good,Off-road,2025-04-27,SUV,69.0,35,49,No,Center,32203,2027-03-09
+6,53001,185,35,231,Bridgestone,646,Rear Right,6.4,50,Tube-type,Summer,H,91,2022-11-22,Good,Mixed,2025-04-09,Hatchback,73.8,29,53,No,Inner,19857,2028-11-20
+6,76439,225,35,206,Pirelli,498,Front Right,2.5,33,Tubeless,Summer,V,94,2020-10-30,Good,Mixed,2025-04-12,Sedan,71.4,33,57,No,Center,15518,2026-10-29
+6,62435,165,32,184,Continental,658,Rear Right,4.6,54,Tubeless,All-season,H,107,2024-03-07,Good,Mixed,2025-02-22,Hatchback,66.3,34,48,Yes,Inner,31104,2030-03-06
+5,34160,215,30,205,Goodyear,485,Front Left,3.0,49,Tube-type,Winter,W,87,2020-09-30,Good,Mixed,2024-12-23,Truck,67.3,31,38,No,Inner,17430,2025-09-29
+7,75992,175,33,185,Continental,449,Front Right,4.7,54,Tubeless,All-season,Y,90,2020-10-26,Needs Check,Off-road,2024-08-26,Sedan,74.3,36,62,No,Outer,14027,2027-10-25
+6,65669,215,32,202,Pirelli,499,Rear Right,3.8,32,Tubeless,Summer,T,95,2022-07-18,Misaligned,Mixed,2024-12-26,Sedan,66.3,35,68,No,Center,57414,2028-07-16
+5,71485,215,35,188,MRF,760,Front Left,7.8,80,Tubeless,All-season,Y,94,2024-05-04,Misaligned,Highway,2025-01-15,Sedan,65.4,36,72,Yes,Even,21715,2029-05-03
+3,34746,205,30,203,Apollo,589,Rear Left,5.7,37,Tubeless,Summer,Y,109,2022-07-20,Good,City,2025-05-21,Hatchback,66.8,28,76,Yes,Inner,24546,2025-07-19
+3,50846,215,30,232,Continental,457,Front Right,5.3,74,Tubeless,Winter,V,86,2021-04-07,Good,Highway,2024-12-23,SUV,73.6,34,43,No,Center,26926,2024-04-06
+5,31210,225,31,196,MRF,484,Rear Right,7.7,52,Tube-type,Summer,T,81,2021-01-04,Needs Check,Highway,2025-04-14,Truck,71.9,32,52,No,Inner,25071,2026-01-03
+5,44228,165,35,191,Bridgestone,776,Rear Left,5.8,74,Tube-type,Summer,W,88,2024-10-25,Good,Highway,2025-01-23,SUV,71.3,31,29,Yes,Outer,16449,2029-10-24
+3,48461,175,33,192,Pirelli,580,Rear Right,3.2,56,Tubeless,Summer,W,93,2023-07-21,Good,Off-road,2024-09-28,Truck,67.5,31,79,No,Center,37404,2026-07-20
+5,44215,185,35,188,Bridgestone,584,Front Left,2.9,61,Tube-type,Summer,T,99,2024-03-12,Good,Mixed,2024-11-21,Hatchback,73.7,34,25,Yes,Center,34458,2029-03-11
+7,33318,175,34,213,Michelin,557,Front Left,5.8,33,Tubeless,Winter,Y,105,2022-11-19,Misaligned,Highway,2024-08-06,SUV,70.3,29,39,Yes,Even,7634,2029-11-17
+5,34367,205,30,181,Continental,567,Rear Right,3.0,75,Tube-type,All-season,T,88,2021-03-03,Good,Highway,2024-08-05,Truck,70.9,33,48,Yes,Even,6081,2026-03-02
+7,74282,185,32,231,Apollo,711,Front Right,4.7,52,Tube-type,Winter,H,101,2023-03-12,Good,Highway,2024-09-24,Sedan,65.0,30,35,No,Inner,29293,2030-03-10
+7,66919,215,33,206,Pirelli,510,Rear Right,4.5,52,Tubeless,Summer,Y,95,2025-01-21,Misaligned,Highway,2025-01-30,Truck,71.3,36,74,Yes,Center,50468,2032-01-20
+4,72756,165,30,205,Michelin,425,Front Right,5.6,67,Tube-type,All-season,W,97,2023-05-22,Misaligned,City,2025-05-07,Hatchback,70.1,29,49,Yes,Even,23249,2027-05-21
+7,72082,225,34,202,Goodyear,710,Front Left,5.0,75,Tubeless,All-season,Y,108,2022-08-23,Good,Off-road,2025-04-13,Sedan,67.6,30,35,No,Center,7983,2029-08-21
+5,53621,215,31,209,Pirelli,693,Front Left,4.1,54,Tube-type,Summer,T,85,2023-11-08,Misaligned,Mixed,2025-02-04,Sedan,72.2,29,34,Yes,Inner,50975,2028-11-06
+5,41576,185,34,189,Apollo,446,Front Right,7.2,59,Tubeless,Winter,H,80,2023-08-28,Needs Check,Off-road,2025-06-20,Hatchback,71.3,36,38,No,Center,32520,2028-08-26
+4,54104,185,34,207,Goodyear,447,Front Right,3.9,74,Tube-type,All-season,Y,86,2023-08-31,Misaligned,Off-road,2025-05-11,Hatchback,72.3,28,78,Yes,Outer,29220,2027-08-30
+3,71765,175,32,216,Apollo,775,Rear Left,7.0,68,Tubeless,All-season,T,83,2022-03-02,Misaligned,Off-road,2024-08-09,Hatchback,71.3,34,79,No,Inner,39203,2025-03-01
+7,52237,195,30,230,Continental,646,Rear Left,7.2,35,Tubeless,Summer,T,82,2023-01-21,Needs Check,Off-road,2025-05-28,Sedan,74.1,36,46,Yes,Outer,47877,2030-01-19
+7,57168,175,30,197,Apollo,633,Front Left,7.3,32,Tube-type,Winter,T,101,2021-09-24,Misaligned,Off-road,2025-05-22,Hatchback,65.8,31,71,No,Outer,44495,2028-09-22
+5,45680,225,33,204,Bridgestone,673,Rear Left,3.0,47,Tube-type,All-season,V,93,2023-04-27,Good,Off-road,2024-09-03,Sedan,72.2,31,32,Yes,Outer,5427,2028-04-25
+5,57162,205,31,220,Michelin,523,Rear Left,7.9,38,Tubeless,Winter,Y,101,2021-05-08,Good,Mixed,2024-12-31,Hatchback,74.8,29,29,No,Inner,31893,2026-05-07
+3,30357,215,30,196,MRF,592,Front Left,3.8,65,Tube-type,Winter,W,94,2022-12-18,Misaligned,City,2024-08-16,Hatchback,74.4,36,80,Yes,Outer,9257,2025-12-17
+3,79839,185,32,240,Goodyear,574,Rear Right,4.6,77,Tube-type,Summer,Y,99,2022-09-15,Misaligned,Highway,2025-03-06,SUV,72.1,34,79,No,Center,21378,2025-09-14
+5,77800,175,33,213,Michelin,613,Rear Left,3.1,56,Tubeless,All-season,W,109,2025-04-03,Good,Highway,2025-04-06,Sedan,65.9,36,40,No,Center,8730,2030-04-02
+5,70757,165,33,194,Pirelli,614,Rear Left,6.7,71,Tube-type,All-season,Y,110,2022-03-01,Needs Check,Highway,2024-08-05,Sedan,66.5,32,31,Yes,Outer,4707,2027-02-28
+6,42172,185,30,196,Pirelli,545,Rear Right,5.5,28,Tube-type,Summer,V,92,2024-03-30,Misaligned,City,2025-06-14,Truck,71.1,29,33,Yes,Outer,8131,2030-03-29
+7,44304,205,31,226,Apollo,499,Front Left,7.2,76,Tube-type,Summer,W,89,2024-11-14,Good,Highway,2025-06-09,Hatchback,74.2,28,68,No,Outer,19334,2031-11-13
+4,36826,165,30,190,Michelin,594,Rear Left,7.9,77,Tubeless,Summer,H,92,2021-06-01,Good,Mixed,2024-12-03,SUV,70.8,35,26,Yes,Outer,36267,2025-05-31
+3,61062,205,34,212,Michelin,466,Rear Right,4.1,33,Tubeless,All-season,Y,105,2021-03-20,Misaligned,Mixed,2025-06-08,Truck,74.9,31,44,No,Outer,33422,2024-03-19
+3,52085,185,33,240,Apollo,469,Rear Right,3.3,62,Tubeless,Winter,H,89,2021-04-01,Misaligned,Highway,2025-05-31,Sedan,74.9,30,43,Yes,Center,279,2024-03-31
+4,33120,185,32,183,Goodyear,459,Rear Right,5.8,40,Tubeless,Summer,H,110,2024-09-10,Needs Check,City,2024-08-12,Truck,65.9,35,72,No,Center,31616,2028-09-09
+7,52729,185,32,234,Goodyear,800,Rear Left,6.0,68,Tube-type,Summer,W,109,2022-12-05,Needs Check,Highway,2025-03-25,Sedan,74.3,30,75,Yes,Even,17841,2029-12-03
+5,43102,225,32,197,Michelin,673,Rear Right,6.2,43,Tubeless,All-season,W,102,2024-10-17,Good,Off-road,2025-02-25,Sedan,70.9,34,49,Yes,Center,33944,2029-10-16
+4,63073,205,34,213,Continental,588,Front Left,5.4,79,Tubeless,All-season,Y,98,2022-11-20,Misaligned,Mixed,2025-06-13,Hatchback,68.2,35,54,No,Even,57423,2026-11-19
+6,76835,165,34,194,Pirelli,672,Rear Left,5.0,49,Tube-type,All-season,V,83,2024-12-11,Needs Check,Off-road,2025-02-18,SUV,70.4,28,77,No,Even,65503,2030-12-10
+3,63727,205,33,185,Goodyear,618,Front Right,5.3,66,Tube-type,Summer,V,88,2021-12-24,Misaligned,City,2024-11-13,Sedan,70.8,33,53,No,Outer,37864,2024-12-23
+7,75045,175,33,216,Continental,672,Front Left,5.6,39,Tubeless,Winter,T,104,2023-10-09,Good,Highway,2024-08-08,Hatchback,71.5,31,52,No,Center,41179,2030-10-07
+3,72961,215,32,202,Continental,610,Rear Right,7.7,49,Tube-type,Winter,T,86,2023-09-15,Needs Check,City,2025-02-20,Sedan,71.5,29,44,Yes,Even,72920,2026-09-14
+3,35702,225,34,218,MRF,477,Front Right,6.1,36,Tubeless,Summer,W,96,2023-08-08,Good,Mixed,2024-11-16,Hatchback,67.8,34,41,No,Center,28818,2026-08-07
+7,34286,205,32,219,MRF,521,Rear Left,3.9,73,Tubeless,Winter,V,92,2024-08-13,Needs Check,Highway,2025-06-23,Sedan,70.8,29,54,Yes,Even,17186,2031-08-12
+3,56251,195,33,204,MRF,580,Front Right,7.2,47,Tube-type,All-season,Y,102,2021-02-13,Needs Check,Off-road,2025-04-19,Sedan,73.7,32,80,Yes,Even,32018,2024-02-13
+3,65869,195,35,204,Goodyear,773,Rear Right,5.3,80,Tube-type,Summer,Y,95,2024-09-19,Needs Check,Highway,2024-09-24,SUV,69.2,36,76,Yes,Inner,40589,2027-09-19
+3,36804,215,30,181,Goodyear,675,Front Left,6.5,38,Tube-type,Winter,V,86,2021-03-07,Misaligned,Off-road,2025-04-11,Sedan,71.2,30,65,Yes,Even,4866,2024-03-06
+5,32048,165,34,180,Bridgestone,422,Rear Left,6.3,56,Tubeless,Winter,V,80,2023-01-15,Misaligned,City,2024-08-16,Hatchback,65.9,35,47,No,Outer,22451,2028-01-14
+4,76389,205,32,192,Apollo,517,Front Left,2.4,68,Tube-type,Summer,H,102,2023-01-08,Misaligned,City,2024-12-04,Sedan,74.8,31,33,Yes,Even,33027,2027-01-07
+7,32915,225,35,218,Goodyear,622,Front Left,2.0,53,Tubeless,Summer,W,107,2023-06-16,Misaligned,Off-road,2025-06-06,Sedan,71.1,34,63,Yes,Outer,26015,2030-06-14
+4,72022,185,30,188,Continental,643,Front Left,2.9,26,Tube-type,Winter,T,110,2023-02-21,Good,Highway,2024-10-15,Sedan,67.0,30,79,No,Even,53306,2027-02-20
+6,50363,225,32,203,Continental,400,Rear Right,4.9,49,Tube-type,Summer,T,89,2022-12-15,Good,City,2024-12-21,Truck,70.2,28,37,Yes,Even,48312,2028-12-13
+4,55941,175,33,240,Apollo,524,Rear Left,6.0,41,Tubeless,All-season,Y,110,2024-02-20,Good,Mixed,2024-11-19,Hatchback,71.0,34,59,No,Inner,12660,2028-02-19
+6,38312,185,30,217,Pirelli,583,Rear Left,5.3,25,Tubeless,Winter,V,103,2023-05-09,Needs Check,Highway,2025-06-22,Sedan,74.1,32,77,Yes,Even,8136,2029-05-07
+7,41286,205,32,180,Apollo,507,Rear Left,2.9,77,Tubeless,All-season,W,88,2022-04-07,Needs Check,City,2025-03-15,Sedan,66.7,31,33,No,Center,14695,2029-04-05
+5,73414,175,30,199,Pirelli,685,Rear Right,2.3,46,Tubeless,Winter,V,98,2023-08-14,Good,Off-road,2024-07-25,SUV,73.4,33,30,No,Inner,31825,2028-08-12
+3,51258,205,30,233,Apollo,772,Rear Left,5.6,72,Tube-type,Winter,T,93,2024-03-10,Needs Check,Mixed,2024-09-05,Hatchback,65.1,34,74,No,Outer,7541,2027-03-10
+5,44564,165,32,201,Apollo,494,Rear Left,3.7,28,Tubeless,All-season,H,106,2020-11-05,Needs Check,Highway,2025-06-11,Truck,74.6,34,38,Yes,Even,4945,2025-11-04
+5,30100,195,31,220,Pirelli,775,Rear Left,2.4,59,Tubeless,Summer,T,88,2023-03-09,Misaligned,Off-road,2025-03-17,SUV,70.4,29,37,Yes,Even,14870,2028-03-07
+4,48643,205,34,227,Michelin,736,Rear Right,6.6,44,Tube-type,Summer,V,82,2021-11-30,Good,Highway,2024-11-09,Hatchback,69.6,33,27,Yes,Even,48498,2025-11-29
+6,56685,205,33,193,MRF,482,Front Left,5.1,66,Tubeless,All-season,H,87,2023-10-22,Misaligned,Off-road,2024-11-27,Hatchback,66.1,28,48,Yes,Even,33245,2029-10-20
+5,37560,185,30,228,Bridgestone,446,Front Left,3.0,29,Tubeless,Winter,T,101,2023-08-24,Good,Mixed,2024-09-21,Truck,65.4,35,36,No,Outer,29729,2028-08-22
+7,37367,165,34,232,Continental,507,Rear Right,4.0,73,Tube-type,All-season,W,91,2021-04-15,Good,Highway,2024-10-11,SUV,72.4,31,60,No,Center,5395,2028-04-13
+7,32850,205,34,180,Apollo,662,Rear Right,2.1,40,Tubeless,All-season,H,97,2021-09-16,Needs Check,Mixed,2025-02-06,SUV,71.5,31,32,Yes,Center,27723,2028-09-14
+5,75778,175,35,223,MRF,526,Front Left,4.0,49,Tube-type,Summer,V,105,2024-03-10,Needs Check,City,2024-09-26,Truck,67.8,36,59,Yes,Even,39141,2029-03-09
+3,38787,205,33,188,MRF,702,Rear Right,6.7,35,Tube-type,Winter,H,102,2024-09-11,Misaligned,City,2024-07-27,SUV,69.1,31,69,Yes,Inner,14688,2027-09-11
+6,46958,165,31,202,Continental,626,Front Right,7.7,58,Tubeless,All-season,V,93,2021-11-30,Misaligned,Highway,2024-11-09,Truck,73.5,36,28,Yes,Inner,17651,2027-11-29
+4,71536,225,32,194,Bridgestone,422,Rear Left,6.0,78,Tubeless,All-season,Y,82,2021-04-06,Good,City,2025-05-30,Hatchback,65.4,34,26,No,Outer,61294,2025-04-05
+5,34225,225,31,194,Continental,602,Front Left,4.1,28,Tubeless,Summer,V,98,2024-07-20,Good,Highway,2025-03-18,SUV,66.0,34,31,Yes,Inner,31534,2029-07-19
+6,72954,205,31,187,MRF,703,Rear Left,3.5,60,Tube-type,Winter,H,84,2023-09-21,Misaligned,Mixed,2024-11-21,Truck,68.6,35,41,Yes,Even,72263,2029-09-19
+5,76756,225,33,229,Continental,768,Rear Right,2.3,41,Tube-type,Winter,H,105,2021-10-26,Needs Check,Highway,2024-09-13,Hatchback,69.5,29,50,No,Inner,18274,2026-10-25
+3,33659,205,33,229,Pirelli,775,Rear Right,7.8,49,Tube-type,Winter,T,86,2023-09-14,Misaligned,Mixed,2024-09-09,Hatchback,74.2,28,59,No,Even,32786,2026-09-13
+5,68665,165,33,211,Pirelli,400,Front Right,6.6,29,Tubeless,Summer,T,86,2021-01-27,Misaligned,City,2024-12-10,Truck,69.6,35,60,Yes,Inner,35769,2026-01-26
+6,47548,165,32,193,Pirelli,751,Rear Right,6.4,66,Tube-type,Summer,V,94,2024-01-18,Misaligned,City,2024-12-22,Truck,71.3,30,33,No,Inner,20752,2030-01-16
+3,67030,165,35,232,Pirelli,653,Front Left,7.7,71,Tubeless,All-season,T,102,2024-10-17,Needs Check,Highway,2025-04-08,SUV,70.0,34,55,No,Even,42462,2027-10-17
+6,78920,175,32,211,Michelin,589,Front Left,7.7,32,Tubeless,Winter,H,105,2021-06-11,Good,Mixed,2025-01-21,Hatchback,66.2,35,65,No,Center,3108,2027-06-10
+3,35352,225,34,190,Apollo,575,Rear Left,2.9,67,Tubeless,Winter,V,94,2023-07-25,Needs Check,Off-road,2025-03-02,Truck,73.9,36,53,Yes,Center,18894,2026-07-24
+3,47698,205,34,197,Bridgestone,694,Front Left,4.1,47,Tube-type,Summer,W,108,2021-01-24,Needs Check,Off-road,2024-11-13,Hatchback,65.9,35,56,Yes,Center,9792,2024-01-24
+3,67833,205,35,180,MRF,646,Rear Left,3.6,66,Tube-type,All-season,H,95,2022-05-02,Misaligned,Highway,2025-05-18,Hatchback,74.6,29,35,No,Inner,56462,2025-05-01
+4,60300,225,33,201,Continental,485,Rear Right,3.3,69,Tube-type,All-season,T,101,2021-12-29,Good,City,2025-01-19,Truck,70.7,33,66,No,Even,48703,2025-12-28
+5,63699,185,33,196,Michelin,424,Rear Right,7.0,36,Tubeless,Winter,V,83,2020-11-23,Needs Check,Highway,2024-11-26,Sedan,70.9,35,57,Yes,Center,9862,2025-11-22
+5,57611,215,31,205,Continental,410,Front Left,6.8,62,Tubeless,Summer,Y,81,2023-06-27,Good,Off-road,2024-09-30,Truck,65.8,29,50,No,Center,44403,2028-06-25
+7,57117,175,31,212,Michelin,726,Rear Left,3.7,67,Tube-type,Winter,V,85,2022-07-02,Misaligned,Off-road,2024-08-25,SUV,68.8,29,75,Yes,Center,35386,2029-06-30
+5,61108,225,33,228,Michelin,787,Rear Left,5.9,55,Tube-type,All-season,T,82,2024-03-21,Good,City,2024-07-28,Sedan,67.9,33,65,Yes,Center,32075,2029-03-20
+5,70749,175,30,184,Continental,643,Rear Right,3.4,46,Tube-type,Winter,T,105,2021-04-07,Good,Off-road,2025-04-06,Truck,74.9,33,73,No,Outer,10684,2026-04-06
+5,49595,185,34,234,Bridgestone,608,Rear Right,4.8,54,Tube-type,Winter,H,100,2023-09-02,Needs Check,Highway,2025-01-10,Truck,70.4,31,74,Yes,Inner,8785,2028-08-31
+6,48489,215,31,208,MRF,568,Rear Left,7.4,64,Tubeless,Summer,Y,98,2021-02-26,Good,Highway,2025-03-17,Hatchback,72.8,36,63,No,Inner,6859,2027-02-25
+7,66754,195,31,240,Bridgestone,669,Front Left,3.7,67,Tubeless,Summer,Y,87,2024-05-06,Misaligned,Off-road,2025-02-09,Sedan,70.8,33,32,Yes,Even,57541,2031-05-05
+4,78950,185,30,209,Michelin,739,Rear Right,6.3,59,Tubeless,All-season,H,109,2024-09-26,Needs Check,Highway,2024-11-09,Hatchback,74.1,29,44,No,Inner,72478,2028-09-25
+6,74962,225,34,221,MRF,559,Front Right,6.6,49,Tube-type,Winter,T,108,2023-03-21,Misaligned,City,2024-08-23,Truck,72.5,29,54,No,Outer,32958,2029-03-19
+4,79367,225,31,214,Goodyear,732,Front Right,3.8,79,Tubeless,Winter,Y,97,2022-12-01,Needs Check,Off-road,2025-04-14,Truck,71.5,36,55,Yes,Center,54049,2026-11-30
+6,40303,225,32,192,Continental,781,Rear Right,4.2,63,Tubeless,Winter,W,85,2024-03-11,Good,Off-road,2025-03-17,Hatchback,73.9,36,69,Yes,Even,2656,2030-03-10
+7,57376,175,31,210,Pirelli,713,Front Left,3.0,72,Tube-type,All-season,W,97,2022-08-21,Needs Check,Highway,2025-01-24,SUV,68.4,36,52,No,Inner,16056,2029-08-19
+6,56323,165,32,186,Pirelli,404,Rear Left,6.6,65,Tubeless,Winter,V,98,2024-01-26,Good,Off-road,2025-04-30,Hatchback,73.3,36,67,No,Inner,33201,2030-01-24
+4,47649,225,32,195,Pirelli,428,Rear Left,3.2,43,Tube-type,Summer,Y,108,2020-12-18,Misaligned,City,2024-11-21,Hatchback,68.9,36,64,Yes,Center,11632,2024-12-17
+6,34529,195,30,221,Goodyear,566,Rear Left,3.0,32,Tube-type,All-season,Y,89,2024-09-26,Good,Mixed,2024-10-31,Hatchback,70.8,36,75,No,Inner,8803,2030-09-25
+4,37873,165,35,198,Michelin,754,Rear Right,3.3,43,Tubeless,Summer,H,87,2021-03-01,Good,Off-road,2024-12-14,Sedan,65.6,33,42,No,Outer,8924,2025-02-28
+7,76183,195,30,221,MRF,597,Rear Left,4.4,70,Tube-type,Winter,W,104,2024-09-14,Needs Check,Off-road,2024-10-08,Hatchback,71.9,36,60,No,Outer,278,2031-09-13
+3,45836,185,31,205,Michelin,555,Front Left,7.0,73,Tubeless,Winter,T,90,2023-01-12,Misaligned,Off-road,2024-08-07,SUV,72.6,30,57,No,Inner,5974,2026-01-11
+4,40487,165,32,189,Goodyear,609,Rear Left,3.5,45,Tubeless,Summer,T,84,2023-02-03,Misaligned,City,2025-01-15,Sedan,73.3,35,71,No,Center,6303,2027-02-02
+3,46107,195,35,226,Apollo,581,Rear Right,2.4,36,Tubeless,Winter,V,99,2024-09-16,Good,Off-road,2025-03-30,Truck,69.5,33,65,No,Inner,8660,2027-09-16
+7,63736,215,33,235,Apollo,458,Front Right,7.2,71,Tube-type,All-season,W,80,2022-10-01,Good,City,2025-03-25,Hatchback,66.5,31,69,Yes,Outer,3371,2029-09-29
+3,44946,195,35,238,Michelin,427,Front Left,6.0,25,Tube-type,All-season,Y,102,2022-06-15,Good,Mixed,2025-05-28,Truck,73.9,34,46,No,Inner,42967,2025-06-14
+3,65262,225,30,209,Continental,779,Front Left,4.0,53,Tube-type,Summer,T,91,2022-12-29,Needs Check,Highway,2025-05-18,Truck,74.1,34,32,Yes,Center,62659,2025-12-28
+7,32748,205,34,206,Bridgestone,756,Front Left,6.9,71,Tubeless,Summer,W,101,2024-05-27,Needs Check,Off-road,2024-07-29,Hatchback,71.6,32,28,Yes,Even,17700,2031-05-26
+5,64702,225,34,215,Bridgestone,525,Rear Right,6.6,53,Tube-type,All-season,Y,104,2022-03-31,Misaligned,Highway,2025-02-09,Sedan,74.2,33,68,No,Outer,43702,2027-03-30
+4,59144,185,34,185,Apollo,638,Front Left,5.2,77,Tube-type,Winter,T,99,2022-04-21,Good,Highway,2025-05-14,Hatchback,66.3,29,73,Yes,Center,39822,2026-04-20
+3,61628,175,32,208,Bridgestone,664,Front Left,4.8,57,Tubeless,All-season,Y,88,2022-12-27,Good,City,2025-04-18,Sedan,72.1,36,56,No,Inner,3539,2025-12-26
+3,76655,195,35,181,Pirelli,529,Front Right,6.6,44,Tube-type,Winter,W,102,2021-08-11,Needs Check,Off-road,2025-05-05,SUV,73.1,29,32,Yes,Even,56151,2024-08-10
+4,34311,165,31,188,Bridgestone,474,Front Right,6.0,42,Tube-type,All-season,H,103,2021-09-09,Good,Highway,2025-05-13,Hatchback,66.2,32,47,Yes,Inner,9064,2025-09-08
+4,35367,205,32,211,Continental,755,Front Right,4.3,77,Tubeless,Summer,V,93,2023-10-29,Good,Mixed,2024-11-05,Sedan,69.5,33,73,Yes,Inner,8520,2027-10-28
+4,48876,185,33,238,Goodyear,752,Front Right,2.2,35,Tubeless,Summer,W,93,2021-12-13,Needs Check,Highway,2024-08-13,Hatchback,67.1,35,43,Yes,Inner,30831,2025-12-12
+5,59719,165,33,213,Bridgestone,712,Rear Right,6.5,69,Tube-type,All-season,V,94,2021-03-25,Needs Check,Mixed,2024-09-19,Hatchback,68.6,28,77,Yes,Even,13087,2026-03-24
+4,74702,175,33,185,Apollo,596,Front Left,6.8,27,Tubeless,All-season,W,103,2022-03-22,Good,Off-road,2025-02-15,Truck,67.0,30,77,Yes,Center,33224,2026-03-21
+6,50265,195,32,218,Bridgestone,468,Rear Right,4.9,59,Tubeless,Summer,Y,104,2024-02-22,Misaligned,Highway,2024-08-22,SUV,65.6,35,58,No,Inner,42776,2030-02-20
+3,74152,225,33,207,Goodyear,497,Front Left,6.4,57,Tubeless,All-season,Y,98,2021-02-07,Good,City,2024-09-28,Truck,67.9,28,68,No,Outer,3509,2024-02-07
+5,40233,215,33,228,MRF,542,Rear Right,7.2,67,Tube-type,All-season,H,91,2020-09-21,Good,Highway,2025-01-10,Sedan,74.7,28,34,No,Inner,16856,2025-09-20
+6,34549,225,30,230,MRF,707,Rear Left,3.9,57,Tubeless,Summer,T,106,2022-03-30,Good,City,2025-04-05,Sedan,65.1,33,33,No,Outer,7727,2028-03-28
+4,41689,205,35,214,Apollo,696,Front Right,6.1,28,Tube-type,All-season,H,88,2024-08-23,Good,Mixed,2025-01-26,Truck,68.4,35,35,Yes,Outer,10604,2028-08-22
+6,52757,185,31,180,Continental,470,Front Left,6.0,37,Tubeless,Winter,H,89,2022-05-18,Misaligned,Highway,2025-05-28,Truck,66.0,32,28,No,Outer,45810,2028-05-16
+6,49887,185,32,219,Pirelli,603,Front Right,3.4,32,Tubeless,Summer,H,92,2025-02-07,Misaligned,Mixed,2025-02-01,SUV,74.8,29,60,No,Outer,28229,2031-02-06
+4,63321,215,34,226,Goodyear,793,Front Left,4.1,29,Tube-type,Summer,Y,82,2021-10-06,Needs Check,Mixed,2024-09-15,Sedan,72.3,32,52,Yes,Inner,45409,2025-10-05
+6,60892,165,30,210,Continental,635,Rear Right,7.3,36,Tube-type,All-season,T,81,2024-06-12,Needs Check,Highway,2025-02-20,SUV,67.5,31,54,Yes,Even,42371,2030-06-11
+7,40762,225,34,190,Apollo,498,Front Left,4.2,77,Tube-type,All-season,W,99,2023-05-14,Needs Check,City,2024-10-16,Sedan,74.8,31,38,No,Even,7104,2030-05-12
+5,72804,175,35,211,Continental,496,Front Right,3.4,58,Tubeless,Winter,H,88,2023-03-23,Needs Check,City,2025-06-08,Truck,69.7,31,74,Yes,Even,34142,2028-03-21
+3,48137,185,32,236,Michelin,576,Front Right,3.9,73,Tube-type,All-season,H,109,2020-08-23,Needs Check,Off-road,2024-08-25,Truck,65.0,28,47,No,Center,16162,2023-08-23
+4,74508,165,33,199,Pirelli,682,Front Left,2.4,62,Tubeless,Summer,Y,103,2024-03-05,Needs Check,Mixed,2024-08-26,Sedan,66.9,30,41,No,Even,61789,2028-03-04
+7,52469,165,31,195,Continental,775,Rear Left,3.9,51,Tube-type,Winter,T,104,2025-02-03,Misaligned,Highway,2024-08-19,Sedan,68.0,29,48,Yes,Outer,36006,2032-02-02
+6,77487,165,33,197,Continental,594,Rear Left,4.2,67,Tubeless,All-season,T,92,2020-12-20,Needs Check,Mixed,2024-09-25,Hatchback,66.7,33,51,No,Center,63444,2026-12-19
+5,46112,205,34,185,MRF,515,Rear Left,5.4,37,Tubeless,All-season,T,98,2023-10-15,Good,Off-road,2025-04-25,SUV,68.7,30,58,Yes,Inner,2224,2028-10-13
+4,73909,175,33,208,Pirelli,583,Rear Right,7.1,53,Tube-type,Winter,T,109,2020-11-12,Needs Check,Off-road,2025-04-15,SUV,71.1,31,75,No,Outer,46793,2024-11-11
+4,35906,225,32,192,MRF,434,Front Right,6.4,52,Tube-type,All-season,W,107,2023-01-08,Misaligned,City,2025-03-22,Truck,70.4,33,43,No,Inner,3036,2027-01-07
+4,33529,165,32,226,Goodyear,642,Front Left,7.6,36,Tube-type,Summer,H,80,2023-11-24,Misaligned,Mixed,2025-06-21,Truck,71.0,33,40,Yes,Inner,11061,2027-11-23
+4,66492,185,33,210,Pirelli,428,Front Right,7.7,25,Tube-type,Winter,T,80,2021-11-05,Needs Check,Off-road,2025-01-26,Truck,72.6,35,35,No,Even,1707,2025-11-04
+7,64084,185,32,213,Bridgestone,748,Rear Left,5.8,52,Tubeless,All-season,T,81,2022-01-18,Misaligned,Mixed,2025-03-21,SUV,71.9,29,75,No,Even,38358,2029-01-16
+5,68467,215,33,215,MRF,598,Rear Right,4.2,60,Tubeless,All-season,V,106,2022-09-28,Needs Check,Mixed,2025-06-25,Hatchback,72.3,29,73,No,Outer,33562,2027-09-27
+7,57611,165,31,226,Apollo,788,Rear Left,7.2,66,Tubeless,Summer,Y,89,2024-10-16,Good,Mixed,2025-04-07,Truck,65.2,28,76,Yes,Even,22636,2031-10-15
+3,64656,185,31,200,Bridgestone,477,Front Right,6.8,56,Tubeless,Winter,W,101,2023-03-18,Misaligned,City,2025-04-11,SUV,66.8,35,57,Yes,Outer,49296,2026-03-17
+4,76704,205,33,216,Goodyear,543,Front Right,6.6,69,Tube-type,Summer,T,92,2022-09-22,Misaligned,Off-road,2025-01-20,SUV,66.7,33,62,Yes,Outer,44638,2026-09-21
+7,46562,175,33,207,Apollo,581,Rear Left,6.4,36,Tubeless,Summer,W,96,2024-08-06,Misaligned,City,2025-02-06,SUV,73.3,31,64,No,Even,11128,2031-08-05
+5,73766,215,34,238,Goodyear,773,Front Left,2.5,63,Tubeless,Summer,T,101,2020-12-11,Good,Off-road,2024-10-04,Sedan,73.7,35,67,No,Inner,67173,2025-12-10
+3,53245,225,32,206,Pirelli,663,Front Left,6.0,57,Tube-type,Summer,T,104,2021-08-28,Misaligned,City,2024-12-08,Truck,65.4,30,58,Yes,Outer,23885,2024-08-27
+3,62165,215,30,183,Michelin,676,Front Right,2.5,61,Tube-type,Winter,T,98,2020-12-17,Good,Highway,2024-12-25,Sedan,72.4,36,55,Yes,Center,45800,2023-12-17
+5,72278,165,32,226,Continental,462,Rear Right,3.9,39,Tubeless,Winter,W,102,2023-03-24,Needs Check,Mixed,2024-12-23,Sedan,68.3,29,26,Yes,Outer,34536,2028-03-22
+4,79422,225,30,196,Michelin,626,Rear Left,6.4,42,Tube-type,All-season,T,107,2022-09-29,Needs Check,City,2024-10-28,Truck,68.9,29,71,Yes,Even,27997,2026-09-28
+7,79591,195,35,207,Continental,575,Rear Left,6.6,67,Tube-type,Summer,H,93,2021-08-27,Good,Off-road,2025-01-03,Truck,74.6,28,42,No,Center,13328,2028-08-25
+3,33616,215,34,236,Pirelli,774,Rear Right,7.3,63,Tube-type,Winter,T,97,2021-12-26,Good,City,2025-02-27,Sedan,74.6,32,58,No,Even,1296,2024-12-25
+4,36362,175,31,199,MRF,507,Rear Right,6.5,75,Tubeless,Summer,T,99,2022-01-13,Misaligned,City,2024-08-28,SUV,65.3,35,52,Yes,Inner,14975,2026-01-12
+3,37439,205,32,199,MRF,778,Rear Right,4.4,67,Tube-type,Winter,W,95,2024-11-07,Needs Check,Highway,2025-02-23,Hatchback,71.8,36,49,Yes,Outer,25716,2027-11-07
+4,54644,175,33,183,Continental,440,Rear Right,6.5,67,Tube-type,Winter,V,80,2022-05-13,Needs Check,Highway,2025-05-16,Truck,73.9,34,29,Yes,Inner,10136,2026-05-12
+3,70939,185,34,221,Continental,454,Rear Right,4.4,32,Tube-type,Winter,T,83,2020-10-06,Good,Highway,2025-01-02,SUV,66.8,30,41,Yes,Even,10238,2023-10-06
+4,38923,195,31,229,Apollo,661,Front Right,6.2,79,Tubeless,Summer,V,92,2021-11-25,Misaligned,City,2025-03-01,Truck,69.5,31,71,Yes,Inner,2610,2025-11-24
+5,38631,165,30,190,MRF,447,Front Right,6.3,37,Tubeless,Winter,V,98,2023-07-06,Good,Off-road,2024-08-08,Sedan,65.3,30,75,No,Center,13878,2028-07-04
+6,73514,175,35,198,MRF,419,Front Right,6.6,53,Tubeless,Summer,V,108,2024-07-27,Needs Check,City,2025-05-19,Sedan,73.7,28,46,No,Inner,4923,2030-07-26
+5,56478,165,31,224,Apollo,447,Front Left,2.5,31,Tube-type,Winter,Y,92,2024-06-04,Good,Highway,2025-01-06,Hatchback,72.2,29,49,Yes,Center,52717,2029-06-03
+4,39813,175,30,206,MRF,524,Front Left,7.2,64,Tube-type,Summer,V,100,2020-11-22,Good,Mixed,2024-10-19,Sedan,72.5,29,37,No,Center,15317,2024-11-21
+7,79874,205,30,211,Continental,610,Rear Right,3.6,29,Tubeless,Winter,W,96,2021-07-01,Needs Check,Mixed,2025-05-21,Hatchback,71.5,28,65,No,Center,72368,2028-06-29
+3,34502,165,34,195,Pirelli,699,Rear Right,5.0,64,Tube-type,Winter,T,93,2024-09-24,Misaligned,Off-road,2025-04-26,Truck,73.8,35,26,No,Center,27058,2027-09-24
+6,75334,175,33,214,Bridgestone,515,Rear Left,4.9,70,Tubeless,Winter,W,98,2022-03-31,Needs Check,Off-road,2025-01-03,SUV,65.1,31,56,No,Outer,74579,2028-03-29
+3,65223,185,32,189,Pirelli,741,Front Right,4.9,56,Tube-type,Winter,V,91,2025-03-16,Misaligned,City,2024-08-15,Sedan,69.4,28,70,No,Even,27640,2028-03-15
+3,61282,195,35,193,Michelin,754,Rear Right,3.7,56,Tubeless,Summer,Y,92,2024-04-06,Misaligned,Off-road,2024-12-29,Hatchback,72.4,30,47,No,Inner,5083,2027-04-06
+4,41954,195,33,225,Pirelli,733,Front Right,3.2,67,Tubeless,Summer,T,91,2022-11-21,Good,Highway,2025-01-05,SUV,73.2,36,25,Yes,Outer,2710,2026-11-20
+7,59721,175,35,198,Apollo,557,Front Right,4.4,28,Tube-type,All-season,V,90,2022-05-01,Needs Check,City,2024-08-13,SUV,67.2,29,26,Yes,Outer,10647,2029-04-29
+5,77832,205,35,233,Goodyear,550,Rear Right,3.7,65,Tubeless,Summer,V,99,2024-10-27,Good,Highway,2025-01-12,Sedan,68.7,29,26,No,Outer,2418,2029-10-26
+5,44192,175,33,188,MRF,779,Front Right,6.0,50,Tube-type,All-season,V,90,2022-12-27,Needs Check,Mixed,2024-11-28,Hatchback,72.4,32,43,No,Outer,4675,2027-12-26
+7,50692,195,32,202,Apollo,721,Rear Left,5.8,51,Tubeless,Summer,V,84,2021-11-21,Misaligned,City,2024-08-30,Truck,71.9,31,59,No,Outer,50535,2028-11-19
+3,79387,185,34,195,Michelin,582,Front Left,7.0,53,Tube-type,Summer,T,87,2025-03-25,Good,City,2025-01-20,Hatchback,73.7,33,53,No,Outer,76424,2028-03-24
+4,71359,185,31,188,Apollo,742,Rear Right,3.4,78,Tubeless,All-season,T,81,2022-04-06,Misaligned,Highway,2024-12-03,Truck,70.0,29,55,No,Outer,2125,2026-04-05
+5,42833,215,34,214,Continental,613,Rear Left,7.3,74,Tube-type,Winter,V,89,2021-05-14,Needs Check,Mixed,2024-08-28,SUV,73.9,36,28,No,Outer,21070,2026-05-13
+5,44739,175,35,237,Pirelli,461,Rear Left,2.6,45,Tubeless,Winter,V,95,2021-10-31,Needs Check,Off-road,2024-07-31,Sedan,72.0,36,27,No,Inner,3859,2026-10-30
+3,74290,225,30,196,Continental,456,Front Right,6.7,78,Tubeless,Winter,Y,96,2022-12-01,Needs Check,Highway,2024-12-24,Hatchback,66.6,33,76,No,Center,15345,2025-11-30
+4,69054,195,30,199,Bridgestone,712,Rear Left,6.1,76,Tube-type,Winter,Y,96,2025-01-08,Good,Highway,2024-07-30,Truck,65.7,30,29,No,Center,68747,2029-01-07
+5,59793,205,32,213,Continental,410,Front Left,6.9,46,Tubeless,Winter,W,110,2021-04-20,Misaligned,Highway,2025-04-16,Hatchback,74.8,33,25,Yes,Center,40581,2026-04-19
+7,40058,165,33,208,Goodyear,749,Front Left,2.8,71,Tubeless,Summer,V,97,2023-04-20,Good,City,2025-04-03,SUV,71.9,35,26,No,Center,30302,2030-04-18
+3,48651,175,33,210,Continental,480,Rear Right,7.6,55,Tubeless,Summer,T,110,2021-04-12,Misaligned,Off-road,2024-09-16,Sedan,72.4,28,79,No,Even,5872,2024-04-11
+3,68915,205,32,198,Apollo,488,Rear Right,7.7,41,Tubeless,Winter,T,81,2023-01-06,Misaligned,City,2024-11-02,SUV,68.0,32,55,No,Outer,60154,2026-01-05
+6,62154,165,35,208,Continental,551,Rear Right,3.2,49,Tube-type,All-season,H,82,2022-06-13,Misaligned,Off-road,2024-09-25,Hatchback,68.0,34,66,No,Center,54251,2028-06-11
+4,55591,225,34,239,Continental,445,Rear Left,2.2,38,Tubeless,Winter,H,81,2022-08-09,Good,Off-road,2024-08-19,Sedan,67.2,36,75,No,Outer,8185,2026-08-08
+4,60033,165,32,217,Apollo,606,Rear Left,6.5,77,Tube-type,Summer,Y,88,2022-07-04,Misaligned,Mixed,2025-05-24,Truck,69.0,35,66,Yes,Outer,58284,2026-07-03
+5,47909,165,32,182,Pirelli,604,Rear Right,7.6,49,Tube-type,All-season,H,108,2023-04-09,Needs Check,Mixed,2025-01-21,Truck,70.5,36,75,No,Even,3156,2028-04-07
+5,33413,175,33,199,MRF,408,Front Right,5.0,28,Tube-type,Summer,T,94,2023-08-10,Misaligned,Mixed,2025-06-11,SUV,66.7,28,36,Yes,Outer,18053,2028-08-08
+5,75368,225,31,210,Continental,421,Front Right,6.5,79,Tubeless,Winter,H,104,2021-10-06,Good,Mixed,2024-08-18,Sedan,70.0,33,39,No,Even,39712,2026-10-05
+7,49370,215,30,198,Continental,460,Rear Right,3.5,74,Tube-type,Summer,T,104,2025-04-16,Needs Check,Mixed,2025-05-28,Hatchback,69.9,36,27,Yes,Even,40907,2032-04-14
+6,77636,205,34,233,Continental,418,Rear Right,3.1,53,Tubeless,All-season,V,94,2022-01-26,Good,City,2025-06-18,Truck,71.2,34,69,Yes,Even,53541,2028-01-25
+7,79778,195,32,212,MRF,584,Front Right,7.8,46,Tube-type,All-season,H,107,2023-07-22,Needs Check,Highway,2025-03-01,Truck,67.3,30,60,No,Center,67963,2030-07-20
+5,73635,195,32,233,Continental,517,Front Right,6.6,74,Tubeless,All-season,Y,94,2020-09-13,Needs Check,City,2025-03-19,SUV,66.1,30,63,Yes,Center,72398,2025-09-12
+5,72384,225,30,187,Goodyear,450,Rear Left,6.1,67,Tubeless,Winter,W,106,2020-10-18,Misaligned,Mixed,2025-01-16,Hatchback,71.1,36,67,Yes,Even,41475,2025-10-17
+6,77064,165,30,222,Bridgestone,574,Rear Left,6.8,72,Tubeless,Winter,V,87,2024-05-12,Good,City,2024-09-24,SUV,73.1,29,73,Yes,Even,48031,2030-05-11
+5,35235,165,33,228,Apollo,773,Rear Left,2.2,54,Tube-type,All-season,W,86,2022-08-30,Misaligned,Off-road,2024-11-19,Truck,68.0,36,58,Yes,Even,24197,2027-08-29
+5,65097,225,32,216,Pirelli,484,Rear Right,4.2,32,Tube-type,All-season,V,88,2024-05-25,Misaligned,Mixed,2024-08-12,Sedan,70.4,28,72,Yes,Outer,51803,2029-05-24
+4,45367,215,32,231,Continental,700,Rear Left,6.4,69,Tubeless,Winter,W,89,2020-12-15,Needs Check,Mixed,2024-08-07,SUV,70.6,29,72,Yes,Center,32850,2024-12-14
+4,36037,215,31,198,Apollo,731,Front Right,4.1,78,Tube-type,Summer,H,88,2024-01-29,Needs Check,Off-road,2025-04-13,Truck,66.6,33,74,No,Center,27729,2028-01-28
+4,61746,225,33,194,Apollo,588,Front Right,5.0,56,Tube-type,All-season,Y,105,2021-06-06,Good,Off-road,2024-07-29,Sedan,68.4,36,25,No,Center,34177,2025-06-05
+4,70940,165,34,214,Bridgestone,742,Rear Right,5.2,77,Tube-type,Summer,T,89,2022-06-07,Misaligned,Highway,2025-03-22,Hatchback,72.1,31,57,Yes,Inner,13494,2026-06-06
+4,59213,185,33,200,MRF,549,Front Right,4.1,61,Tubeless,All-season,H,93,2024-11-20,Needs Check,Highway,2025-05-04,Truck,72.8,30,28,No,Center,27929,2028-11-19
+7,35526,185,33,192,Pirelli,452,Front Left,4.4,65,Tube-type,Summer,H,109,2024-06-25,Needs Check,Highway,2025-01-15,Truck,71.6,35,33,Yes,Center,11803,2031-06-24
+7,45449,175,33,211,Pirelli,609,Front Left,2.2,50,Tube-type,Summer,H,104,2022-06-30,Misaligned,Mixed,2025-04-05,Hatchback,67.4,36,32,Yes,Outer,39669,2029-06-28
+7,62907,165,34,196,MRF,581,Rear Left,6.5,62,Tubeless,Summer,W,98,2021-08-24,Misaligned,Highway,2024-12-16,Sedan,71.8,32,34,Yes,Even,23060,2028-08-22
+3,70140,185,31,228,Continental,539,Rear Left,6.4,28,Tubeless,Winter,W,110,2022-09-17,Misaligned,Mixed,2025-05-24,SUV,74.5,32,53,Yes,Even,28911,2025-09-16
+6,54356,175,30,236,Goodyear,614,Front Left,5.2,57,Tubeless,All-season,H,90,2022-06-12,Good,Highway,2024-09-10,Hatchback,70.3,31,46,No,Even,35062,2028-06-10
+4,79157,175,33,191,Michelin,513,Front Left,5.8,50,Tube-type,Summer,W,89,2023-11-02,Good,Highway,2024-09-15,SUV,69.5,36,30,No,Center,62260,2027-11-01
+3,66852,195,32,226,Pirelli,632,Rear Right,5.7,31,Tubeless,Winter,Y,98,2024-04-03,Needs Check,Off-road,2024-08-19,Sedan,69.4,29,34,No,Even,7196,2027-04-03
+3,47026,185,33,230,Pirelli,572,Front Right,5.8,32,Tubeless,Summer,V,91,2023-06-24,Good,Mixed,2025-04-23,Hatchback,72.0,28,35,Yes,Center,43335,2026-06-23
+4,61926,195,31,200,Apollo,798,Front Left,4.7,29,Tube-type,All-season,H,84,2023-09-05,Good,Off-road,2025-04-03,Hatchback,72.2,33,49,Yes,Inner,29044,2027-09-04
+3,67999,225,30,204,Pirelli,721,Rear Left,5.1,78,Tubeless,Winter,W,110,2024-01-14,Good,City,2025-02-13,Sedan,68.9,36,31,No,Center,51736,2027-01-13
+4,61962,195,31,222,MRF,426,Front Left,3.4,77,Tube-type,All-season,T,83,2023-01-02,Needs Check,Highway,2025-05-01,Sedan,73.2,36,77,Yes,Even,1138,2027-01-01
+7,35985,195,34,235,Continental,567,Front Left,2.1,65,Tube-type,Summer,T,88,2021-04-26,Needs Check,City,2025-01-04,SUV,71.5,35,78,No,Center,1460,2028-04-24
+3,46560,185,31,220,Goodyear,553,Front Right,3.7,25,Tubeless,Summer,V,97,2023-11-29,Needs Check,City,2024-09-28,Sedan,68.1,33,64,No,Outer,6428,2026-11-28
+5,79824,215,32,226,Pirelli,443,Rear Left,4.6,39,Tubeless,Summer,V,85,2024-02-18,Misaligned,Highway,2024-08-04,Sedan,72.3,28,73,No,Even,50197,2029-02-16
+7,73784,205,30,192,Continental,496,Front Left,7.7,70,Tubeless,Winter,W,90,2021-02-01,Needs Check,Highway,2024-10-16,Hatchback,66.1,31,32,No,Inner,992,2028-01-31
+4,32496,185,34,190,MRF,621,Front Right,6.2,40,Tube-type,Winter,Y,98,2024-03-12,Needs Check,City,2025-06-11,Hatchback,69.2,30,50,Yes,Center,9606,2028-03-11
+3,30137,175,35,192,MRF,452,Front Right,2.6,59,Tubeless,Summer,W,103,2021-12-21,Misaligned,City,2025-05-05,SUV,67.3,32,35,No,Inner,20769,2024-12-20
+6,56151,195,34,181,Bridgestone,593,Rear Right,6.1,30,Tubeless,All-season,T,102,2023-12-10,Good,City,2024-12-01,Truck,69.3,28,47,No,Center,28755,2029-12-08
+3,42664,175,30,185,Continental,449,Rear Left,4.7,80,Tubeless,Winter,V,103,2021-02-22,Good,Mixed,2025-02-12,Sedan,68.7,29,62,Yes,Inner,37762,2024-02-22
+7,50114,175,30,213,Apollo,758,Rear Right,7.2,46,Tube-type,Summer,W,87,2022-03-28,Needs Check,Mixed,2025-03-19,Sedan,67.4,31,44,No,Outer,21541,2029-03-26
+6,71022,225,35,204,Michelin,514,Front Left,6.8,29,Tube-type,Winter,V,101,2022-01-16,Misaligned,Highway,2024-12-09,Hatchback,65.2,35,54,Yes,Center,32758,2028-01-15
+3,36287,185,35,207,Pirelli,616,Front Right,7.9,74,Tubeless,All-season,Y,82,2020-10-25,Needs Check,City,2024-12-27,SUV,74.4,28,49,Yes,Inner,1172,2023-10-25
+4,35339,185,30,228,MRF,628,Rear Right,4.9,71,Tubeless,All-season,H,106,2024-08-22,Needs Check,City,2025-05-13,Truck,67.2,30,34,No,Inner,12498,2028-08-21
+4,43385,195,32,183,Bridgestone,426,Front Right,3.5,69,Tube-type,All-season,Y,91,2023-07-23,Misaligned,Off-road,2024-09-13,Truck,73.6,28,60,No,Center,2882,2027-07-22
+5,48884,215,33,188,Continental,732,Front Left,5.5,47,Tubeless,All-season,H,108,2025-01-12,Misaligned,Mixed,2025-02-15,Hatchback,73.7,28,26,No,Outer,5852,2030-01-11
+3,34968,215,33,182,Michelin,499,Front Left,6.4,56,Tube-type,All-season,V,95,2020-11-22,Good,City,2024-12-31,Truck,71.0,28,78,Yes,Even,32092,2023-11-22
+7,37448,215,31,203,MRF,411,Rear Left,2.1,33,Tubeless,Winter,V,84,2024-02-28,Good,Off-road,2025-05-14,Hatchback,73.5,29,41,No,Center,15408,2031-02-26
+6,52747,165,30,196,Bridgestone,546,Front Right,3.1,73,Tube-type,Summer,W,89,2022-02-07,Misaligned,Mixed,2024-11-19,Hatchback,67.2,29,65,Yes,Inner,45848,2028-02-06
+4,57942,215,30,205,Pirelli,400,Front Right,5.1,62,Tubeless,Winter,T,108,2022-08-22,Misaligned,Mixed,2024-11-01,SUV,74.0,30,32,Yes,Outer,41978,2026-08-21
+5,52994,165,32,190,Goodyear,473,Rear Left,3.0,43,Tube-type,Summer,H,98,2022-06-15,Needs Check,City,2025-03-27,Truck,65.7,31,26,No,Inner,26669,2027-06-14
+3,52645,175,31,227,MRF,481,Front Left,6.2,80,Tubeless,All-season,Y,84,2024-11-28,Misaligned,Highway,2024-11-08,Sedan,65.9,35,77,No,Outer,30215,2027-11-28
+3,63242,165,35,199,Apollo,744,Rear Right,7.3,44,Tube-type,Winter,Y,99,2022-05-05,Needs Check,Highway,2025-01-17,SUV,68.7,31,29,Yes,Center,36433,2025-05-04
+5,74300,175,30,216,Continental,772,Rear Left,6.8,50,Tubeless,Summer,H,104,2021-08-11,Misaligned,City,2025-01-04,SUV,71.5,29,68,Yes,Even,63193,2026-08-10
+7,67188,215,32,238,Bridgestone,767,Rear Left,3.3,78,Tube-type,Summer,V,97,2021-04-19,Needs Check,Off-road,2025-05-21,Truck,69.1,32,70,Yes,Outer,45004,2028-04-17
+6,51109,215,32,203,MRF,740,Front Right,5.9,26,Tube-type,Summer,W,80,2022-09-14,Needs Check,Highway,2024-09-07,Sedan,74.3,31,52,Yes,Even,43008,2028-09-12
+4,33034,215,34,232,Continental,702,Rear Right,2.6,50,Tubeless,All-season,T,98,2021-03-07,Good,Highway,2024-12-31,Sedan,69.6,31,73,Yes,Even,19443,2025-03-06
+4,74043,215,34,185,Michelin,768,Rear Right,4.6,77,Tube-type,Winter,W,81,2023-09-20,Misaligned,Off-road,2025-06-07,SUV,68.2,29,65,Yes,Center,35915,2027-09-19
+5,35396,215,30,237,Pirelli,445,Front Left,3.2,62,Tubeless,Summer,Y,92,2020-08-20,Needs Check,Off-road,2024-10-21,Sedan,68.7,35,25,Yes,Center,19658,2025-08-19
+5,62606,185,30,212,MRF,579,Front Right,2.7,42,Tube-type,Summer,V,90,2022-04-09,Misaligned,Highway,2024-08-09,Truck,72.5,35,61,Yes,Center,26375,2027-04-08
+7,62490,215,32,210,Michelin,790,Rear Right,4.6,37,Tube-type,Winter,V,98,2023-03-05,Good,Mixed,2024-08-12,Hatchback,66.6,35,52,No,Inner,31482,2030-03-03
+7,40497,195,34,221,Goodyear,571,Rear Right,7.2,25,Tubeless,Winter,W,98,2022-01-10,Misaligned,Mixed,2025-03-09,Sedan,68.1,28,28,Yes,Even,19056,2029-01-08
+3,61933,175,35,199,Pirelli,613,Front Right,3.7,47,Tube-type,Summer,T,84,2023-07-04,Misaligned,Highway,2025-05-04,SUV,67.5,35,50,No,Even,48282,2026-07-03
+3,78410,165,35,220,Goodyear,475,Rear Left,8.0,29,Tubeless,Winter,V,98,2024-12-19,Good,Off-road,2025-03-24,SUV,65.7,33,74,Yes,Inner,45954,2027-12-19
+5,41930,165,33,218,Continental,413,Rear Left,6.5,62,Tubeless,Winter,H,91,2021-09-24,Needs Check,City,2024-08-17,Truck,67.6,34,73,Yes,Center,38252,2026-09-23
+5,32822,195,31,202,Apollo,513,Front Right,7.2,28,Tube-type,Winter,H,100,2023-02-03,Misaligned,Off-road,2024-11-15,SUV,68.5,34,59,Yes,Outer,20177,2028-02-02
+3,38777,215,32,233,Continental,600,Rear Left,2.3,69,Tubeless,Winter,V,109,2025-02-07,Misaligned,Off-road,2024-08-09,Sedan,66.4,32,42,Yes,Outer,26294,2028-02-07
+7,69986,195,35,238,Michelin,737,Front Right,7.8,59,Tube-type,Summer,T,107,2022-01-04,Good,Mixed,2025-01-03,Sedan,72.7,34,33,Yes,Inner,19395,2029-01-02
+6,66038,165,33,203,Apollo,616,Front Left,6.6,52,Tubeless,All-season,W,93,2022-11-22,Good,Off-road,2025-05-11,Truck,70.8,34,51,No,Outer,12263,2028-11-20
+4,35972,225,31,232,Continental,635,Rear Left,3.0,42,Tubeless,Winter,Y,100,2022-08-15,Needs Check,Highway,2024-11-20,SUV,67.5,34,31,Yes,Even,11757,2026-08-14
+4,37048,225,34,216,Apollo,736,Front Right,7.2,30,Tube-type,Winter,T,84,2024-04-28,Good,City,2025-01-26,SUV,73.7,34,31,No,Inner,3845,2028-04-27
+6,37049,225,32,184,Apollo,790,Front Right,3.8,36,Tubeless,All-season,Y,81,2025-03-10,Needs Check,Mixed,2025-01-06,SUV,69.9,34,31,No,Even,6973,2031-03-09
+7,62776,205,30,212,Apollo,460,Rear Right,6.9,53,Tubeless,Summer,Y,105,2024-06-21,Needs Check,Off-road,2024-10-26,Truck,69.6,30,66,Yes,Even,17583,2031-06-20
+6,50160,215,31,181,Apollo,424,Front Right,4.3,49,Tubeless,Summer,W,105,2021-03-25,Good,City,2025-03-11,Hatchback,72.6,35,60,No,Center,27387,2027-03-24
+6,64458,175,34,194,MRF,591,Rear Left,2.6,36,Tube-type,All-season,H,105,2022-02-04,Needs Check,Off-road,2024-08-01,Sedan,74.7,33,79,Yes,Outer,48827,2028-02-03
+7,69886,205,33,206,MRF,731,Rear Right,6.9,34,Tubeless,All-season,T,101,2020-11-20,Good,Highway,2024-07-27,Hatchback,68.5,29,64,No,Even,36973,2027-11-19
+4,49083,185,31,229,Goodyear,672,Rear Right,7.4,28,Tube-type,Winter,W,108,2024-02-28,Good,City,2024-11-29,Truck,69.9,36,71,Yes,Even,32040,2028-02-27
+3,57269,205,34,194,Bridgestone,677,Front Right,7.5,63,Tubeless,Summer,T,101,2024-06-07,Misaligned,Mixed,2025-05-03,Sedan,69.3,35,45,No,Center,7596,2027-06-07
+5,71866,175,33,233,MRF,669,Rear Left,5.8,42,Tube-type,Summer,V,98,2021-08-31,Needs Check,City,2024-10-18,SUV,67.5,34,61,Yes,Outer,14779,2026-08-30
+3,73082,195,33,187,Pirelli,412,Rear Right,2.3,34,Tubeless,Summer,T,95,2021-12-11,Misaligned,Highway,2024-11-23,Hatchback,72.1,35,30,No,Even,70659,2024-12-10
+6,40584,175,31,236,Goodyear,599,Front Right,2.2,64,Tubeless,Winter,Y,89,2022-08-30,Needs Check,Mixed,2025-05-16,Sedan,69.8,30,40,Yes,Even,6828,2028-08-28
+3,69571,195,30,233,MRF,637,Rear Left,2.3,47,Tubeless,Summer,V,98,2024-08-01,Good,Highway,2025-03-29,Hatchback,70.0,30,36,Yes,Inner,44599,2027-08-01
+5,72846,185,31,215,Bridgestone,663,Rear Right,2.1,52,Tube-type,Summer,T,92,2022-11-08,Needs Check,Highway,2024-11-12,Truck,67.6,35,60,No,Inner,35014,2027-11-07
+6,42729,195,34,182,Goodyear,582,Front Left,4.2,66,Tubeless,Summer,H,96,2024-03-07,Good,Off-road,2025-02-08,Truck,68.8,30,75,No,Center,42339,2030-03-06
+3,68068,205,30,221,Apollo,425,Front Left,5.3,26,Tube-type,Winter,T,100,2020-09-29,Good,City,2025-06-09,Hatchback,66.9,32,64,Yes,Even,30544,2023-09-29
+4,42161,195,34,205,Michelin,714,Rear Left,5.2,48,Tube-type,All-season,Y,94,2024-01-30,Needs Check,Off-road,2025-02-22,Truck,68.3,33,64,No,Center,31146,2028-01-29
+6,71767,165,35,208,MRF,712,Rear Left,6.8,66,Tube-type,All-season,W,93,2024-10-21,Misaligned,Mixed,2025-02-18,Truck,74.1,35,50,Yes,Center,54923,2030-10-20
+6,75940,185,35,203,Michelin,686,Rear Left,7.0,73,Tubeless,Winter,W,87,2022-11-11,Misaligned,City,2024-08-12,Hatchback,72.3,33,59,No,Center,23141,2028-11-09
+3,32486,175,31,228,Bridgestone,795,Front Right,2.2,70,Tubeless,Summer,V,98,2022-09-27,Good,City,2024-10-06,Truck,72.2,28,80,No,Inner,235,2025-09-26
+7,79037,165,32,211,Michelin,720,Front Right,7.9,42,Tubeless,All-season,H,86,2022-08-06,Misaligned,Mixed,2024-09-25,SUV,67.2,34,60,No,Outer,37865,2029-08-04
+6,56260,185,34,223,MRF,593,Front Left,2.9,61,Tubeless,Summer,Y,94,2021-01-15,Misaligned,City,2025-01-18,Sedan,68.9,30,51,Yes,Center,19102,2027-01-14
+3,71691,205,30,193,Bridgestone,479,Front Right,4.9,42,Tubeless,Winter,V,95,2022-02-05,Misaligned,Off-road,2025-04-26,Truck,74.6,34,79,No,Inner,64137,2025-02-04
+7,64764,175,34,195,Apollo,582,Rear Right,7.6,61,Tubeless,All-season,Y,87,2023-03-20,Needs Check,City,2025-02-20,SUV,71.4,35,51,No,Inner,62368,2030-03-18
+7,38939,185,35,227,Apollo,634,Front Right,3.8,43,Tube-type,Summer,Y,92,2020-11-12,Good,City,2025-04-17,Hatchback,67.7,30,28,No,Center,26619,2027-11-11
+3,57029,185,34,235,Bridgestone,566,Rear Right,2.7,50,Tube-type,Summer,V,100,2021-01-11,Misaligned,Highway,2025-01-11,Truck,72.0,34,47,Yes,Center,54674,2024-01-11
+7,60643,225,30,212,Continental,698,Rear Right,6.4,50,Tubeless,Winter,Y,89,2022-01-26,Misaligned,Off-road,2025-03-31,SUV,74.0,36,52,No,Inner,32851,2029-01-24
+6,52878,175,35,240,Continental,448,Front Right,5.4,38,Tube-type,Winter,H,106,2020-11-21,Needs Check,Off-road,2024-08-19,Sedan,73.3,28,52,Yes,Outer,50391,2026-11-20
+4,42480,175,33,189,Apollo,452,Front Left,5.7,38,Tubeless,All-season,Y,88,2022-05-22,Good,City,2024-09-25,Sedan,69.4,29,54,Yes,Inner,18111,2026-05-21
+7,73201,205,31,218,Goodyear,412,Rear Right,7.8,34,Tubeless,Winter,W,95,2024-06-02,Good,City,2024-11-10,Sedan,67.5,28,49,Yes,Inner,25235,2031-06-01
+4,34399,195,34,231,Apollo,672,Front Left,2.1,71,Tube-type,All-season,Y,108,2025-04-12,Needs Check,Off-road,2024-09-24,SUV,74.2,36,43,Yes,Inner,20306,2029-04-11
+4,68920,175,34,206,Goodyear,514,Front Left,6.1,80,Tubeless,Winter,H,105,2024-09-09,Good,City,2024-08-13,Hatchback,69.1,33,32,No,Outer,52025,2028-09-08
+6,67921,225,31,203,Continental,677,Front Left,3.5,29,Tubeless,Winter,T,110,2023-12-24,Good,Mixed,2025-06-13,Hatchback,74.6,32,59,No,Inner,37064,2029-12-22
+5,47522,185,33,192,Apollo,557,Rear Left,7.0,59,Tubeless,Summer,V,85,2025-01-09,Needs Check,Highway,2024-10-26,SUV,67.0,31,54,Yes,Even,9937,2030-01-08
+4,60245,195,32,223,Bridgestone,673,Rear Right,5.7,45,Tubeless,Winter,T,89,2023-08-07,Good,Off-road,2025-06-03,SUV,68.0,32,41,No,Inner,55425,2027-08-06
+3,31321,205,34,195,Pirelli,495,Front Right,7.9,60,Tubeless,Summer,V,94,2022-12-15,Good,Mixed,2025-05-15,SUV,71.5,32,54,No,Inner,31098,2025-12-14
+5,70363,205,30,224,Bridgestone,674,Rear Right,5.8,68,Tubeless,All-season,V,89,2021-05-30,Misaligned,City,2025-02-10,Sedan,72.2,35,27,No,Outer,204,2026-05-29
+4,57886,195,30,186,Michelin,465,Front Right,5.9,30,Tubeless,Summer,W,103,2023-06-12,Good,Off-road,2024-07-26,Truck,71.2,33,62,No,Inner,15214,2027-06-11
+6,46389,165,30,229,MRF,688,Front Right,3.8,63,Tube-type,All-season,T,95,2020-11-04,Good,Highway,2024-11-29,Truck,67.0,35,80,No,Even,38659,2026-11-03
+4,55847,185,33,188,Apollo,695,Front Left,3.0,32,Tubeless,Summer,Y,104,2023-11-14,Needs Check,Off-road,2024-10-29,Hatchback,69.8,35,64,No,Center,9259,2027-11-13
+4,38172,225,31,186,Apollo,627,Rear Left,6.3,55,Tube-type,Summer,T,84,2023-02-11,Good,Mixed,2024-09-18,Truck,68.3,30,49,No,Even,36478,2027-02-10
+5,65237,205,31,234,Goodyear,405,Rear Right,6.4,51,Tube-type,Winter,V,97,2021-06-07,Needs Check,City,2024-08-26,SUV,70.7,31,62,No,Center,63709,2026-06-06
+3,34925,175,34,187,Pirelli,458,Rear Right,2.3,79,Tubeless,All-season,T,83,2023-04-04,Misaligned,Mixed,2025-01-29,Hatchback,68.0,36,58,No,Outer,3257,2026-04-03
+3,53264,175,32,210,Michelin,553,Front Left,7.2,69,Tubeless,Summer,W,101,2025-04-12,Misaligned,Highway,2024-09-18,Sedan,66.0,35,56,No,Outer,5886,2028-04-11
+5,78683,195,35,212,Pirelli,779,Rear Right,6.1,28,Tubeless,Summer,Y,103,2023-08-10,Needs Check,City,2024-12-30,SUV,68.0,31,47,Yes,Outer,46442,2028-08-08
+4,38775,165,30,185,Goodyear,732,Front Left,5.8,59,Tubeless,All-season,T,83,2023-03-15,Good,Off-road,2024-12-10,Sedan,68.6,30,64,No,Inner,9318,2027-03-14
+4,77824,195,31,214,MRF,447,Front Right,3.7,67,Tube-type,All-season,Y,101,2021-09-23,Needs Check,Off-road,2025-01-04,Hatchback,73.6,31,76,Yes,Inner,2526,2025-09-22
+7,49439,205,33,183,Apollo,537,Front Right,3.9,62,Tubeless,All-season,H,99,2023-11-03,Good,Off-road,2025-04-20,Truck,74.1,33,67,Yes,Inner,23247,2030-11-01
+4,39268,165,30,190,Goodyear,773,Front Right,7.9,70,Tubeless,Summer,V,84,2023-01-09,Good,City,2025-01-11,SUV,68.0,36,75,No,Even,17502,2027-01-08
+4,76522,175,33,200,MRF,497,Front Right,6.2,47,Tube-type,Winter,V,103,2021-11-19,Good,City,2024-12-15,SUV,69.6,34,54,Yes,Center,52939,2025-11-18
+7,44792,205,35,183,Continental,774,Rear Left,7.8,32,Tubeless,Summer,V,84,2021-08-09,Good,Highway,2025-03-03,Hatchback,74.5,36,78,No,Inner,8335,2028-08-07
+5,52219,165,32,199,Apollo,660,Rear Right,5.5,72,Tube-type,All-season,V,92,2025-04-02,Misaligned,Highway,2024-09-17,Hatchback,68.8,35,66,No,Inner,50436,2030-04-01
+5,34332,195,32,230,Bridgestone,692,Front Left,6.3,41,Tubeless,All-season,Y,84,2021-07-01,Misaligned,Highway,2024-08-08,Truck,67.2,28,62,No,Center,34117,2026-06-30
+4,63176,225,34,197,Continental,556,Front Right,3.8,60,Tube-type,All-season,Y,100,2022-06-07,Misaligned,Off-road,2024-12-22,Sedan,67.7,32,65,Yes,Inner,30639,2026-06-06
+6,64071,215,35,190,MRF,627,Front Right,7.2,45,Tubeless,Summer,W,85,2024-07-24,Needs Check,Off-road,2025-03-11,SUV,74.2,28,42,Yes,Outer,13538,2030-07-23
+3,49770,185,31,237,Bridgestone,537,Front Right,3.4,54,Tube-type,Summer,V,109,2022-11-23,Needs Check,Mixed,2024-12-23,SUV,66.6,36,59,Yes,Center,24060,2025-11-22
+6,42843,215,33,200,Goodyear,770,Front Right,7.3,45,Tubeless,Summer,W,105,2021-07-07,Misaligned,Highway,2025-05-21,Truck,73.9,31,41,No,Center,10802,2027-07-06
+5,42446,225,34,211,Continental,626,Rear Right,2.7,51,Tube-type,Summer,V,88,2021-10-23,Needs Check,Highway,2024-08-03,Sedan,74.9,31,39,No,Even,27023,2026-10-22
+6,49068,175,34,186,Pirelli,585,Front Left,6.2,39,Tubeless,Winter,Y,108,2024-01-03,Good,Mixed,2024-12-21,Truck,73.0,32,51,Yes,Outer,13431,2030-01-01
+3,55399,165,32,236,Bridgestone,573,Rear Left,7.6,48,Tube-type,Winter,V,89,2022-01-22,Needs Check,Highway,2024-10-07,SUV,74.0,35,62,No,Even,22201,2025-01-21
+4,62225,225,35,222,Apollo,734,Rear Right,5.7,65,Tubeless,All-season,T,100,2025-04-13,Good,Mixed,2024-08-03,Sedan,67.2,28,78,No,Inner,33680,2029-04-12
+4,72264,195,30,189,Bridgestone,706,Rear Right,6.1,74,Tube-type,Summer,W,101,2022-11-22,Misaligned,Mixed,2025-06-13,Truck,68.9,35,80,No,Inner,61541,2026-11-21
+4,34275,165,31,194,Michelin,467,Rear Right,2.3,45,Tubeless,Summer,W,82,2023-08-07,Needs Check,Mixed,2025-06-10,Sedan,65.2,31,36,No,Outer,12510,2027-08-06
+5,58959,205,32,238,Goodyear,400,Front Right,4.3,45,Tube-type,All-season,V,80,2021-03-03,Needs Check,Highway,2024-11-07,Truck,73.8,31,32,Yes,Center,10282,2026-03-02
+6,65374,165,33,201,Continental,514,Rear Right,4.5,26,Tube-type,Winter,H,102,2023-01-09,Misaligned,City,2024-11-30,Sedan,66.1,30,39,Yes,Even,32369,2029-01-07
+6,72664,195,31,235,Continental,620,Front Right,6.2,34,Tube-type,Summer,V,86,2024-07-04,Good,City,2025-04-28,Hatchback,71.8,31,44,No,Even,30693,2030-07-03
+5,45973,215,30,198,Goodyear,607,Front Right,6.5,55,Tube-type,All-season,Y,86,2021-12-09,Misaligned,City,2025-02-14,Truck,69.0,34,37,Yes,Even,38657,2026-12-08
+6,70425,185,31,213,Michelin,491,Rear Right,4.8,63,Tubeless,Summer,T,91,2023-08-18,Good,Highway,2025-04-22,Hatchback,74.8,28,73,Yes,Center,24234,2029-08-16
+3,63210,225,34,199,Pirelli,514,Rear Right,2.4,45,Tubeless,Winter,H,88,2025-04-11,Good,Mixed,2024-12-26,Sedan,73.5,36,49,No,Outer,41548,2028-04-10
+6,35293,165,31,202,Michelin,660,Front Right,4.0,71,Tube-type,Summer,H,89,2024-02-19,Misaligned,Off-road,2024-10-01,Hatchback,71.5,36,40,Yes,Outer,11602,2030-02-17
+3,61677,195,34,234,Pirelli,418,Rear Right,7.7,25,Tubeless,Winter,H,95,2021-10-13,Needs Check,Off-road,2025-02-09,Truck,72.0,30,78,Yes,Center,20973,2024-10-12
+7,42061,205,31,223,Goodyear,427,Rear Left,7.0,57,Tubeless,All-season,Y,89,2022-03-12,Good,Off-road,2024-11-12,Truck,65.2,31,46,No,Center,12342,2029-03-10
+6,44945,185,31,211,MRF,609,Rear Right,6.9,35,Tube-type,Summer,V,80,2022-04-10,Needs Check,Highway,2025-05-04,SUV,65.7,32,52,Yes,Center,30845,2028-04-08
+4,49104,225,32,220,Apollo,613,Front Left,7.4,53,Tube-type,All-season,T,94,2020-10-27,Misaligned,Highway,2025-06-17,Hatchback,73.1,31,41,No,Inner,31328,2024-10-26
+3,48230,185,32,234,Continental,673,Rear Left,6.3,40,Tubeless,Winter,V,87,2024-05-13,Needs Check,City,2024-09-25,Hatchback,66.3,30,46,No,Center,5538,2027-05-13
+5,42008,225,33,236,MRF,501,Front Right,3.2,61,Tubeless,Summer,V,104,2024-09-14,Needs Check,Off-road,2024-12-07,Truck,71.4,32,64,Yes,Inner,37979,2029-09-13
+7,48845,215,34,195,Michelin,522,Rear Left,6.3,37,Tube-type,All-season,V,96,2023-10-31,Needs Check,Highway,2025-01-27,Truck,72.0,29,79,Yes,Outer,39191,2030-10-29
+5,35828,175,33,226,Pirelli,663,Front Left,7.7,77,Tubeless,Winter,W,109,2022-12-02,Good,City,2025-04-05,Sedan,67.1,29,67,No,Inner,15084,2027-12-01
+7,71150,215,33,235,Michelin,408,Rear Right,6.2,79,Tube-type,Summer,Y,85,2021-05-12,Good,City,2024-12-16,Hatchback,70.0,33,61,No,Outer,12072,2028-05-10
+6,74563,185,33,189,Pirelli,567,Rear Right,5.7,25,Tubeless,Winter,W,106,2021-08-27,Misaligned,Highway,2024-11-18,Sedan,66.5,31,56,Yes,Inner,30539,2027-08-26
+6,43750,165,30,199,Goodyear,456,Front Left,6.9,69,Tubeless,Summer,T,108,2021-08-17,Needs Check,Off-road,2024-08-29,Truck,68.7,28,31,No,Center,39443,2027-08-16
+6,58837,225,32,184,Apollo,592,Rear Right,2.1,78,Tubeless,Winter,T,102,2024-02-14,Good,Highway,2024-09-04,Sedan,71.8,36,29,No,Even,6579,2030-02-12
+3,32676,225,31,209,Michelin,583,Rear Left,4.4,59,Tubeless,Winter,H,81,2022-09-29,Needs Check,Highway,2024-12-21,SUV,70.0,35,71,No,Inner,14754,2025-09-28
+3,63411,175,32,199,Continental,614,Rear Left,5.6,74,Tubeless,Summer,W,92,2023-02-17,Good,Mixed,2024-10-27,Sedan,72.6,36,32,Yes,Even,12198,2026-02-16
+3,36338,175,35,219,Michelin,784,Front Right,4.5,62,Tube-type,Winter,V,96,2020-11-29,Misaligned,Off-road,2024-11-14,Hatchback,73.3,36,80,No,Even,30751,2023-11-29
+3,53523,185,31,184,Goodyear,530,Rear Left,2.1,49,Tubeless,Summer,V,95,2022-01-16,Needs Check,Off-road,2025-05-13,Truck,73.3,33,33,Yes,Center,29312,2025-01-15
+4,60075,185,32,207,Bridgestone,583,Rear Right,6.3,77,Tubeless,Summer,V,90,2020-09-20,Needs Check,Mixed,2025-03-12,Sedan,73.4,32,25,Yes,Inner,1562,2024-09-19
+3,65190,205,31,219,Apollo,511,Rear Left,3.1,79,Tubeless,Summer,Y,95,2021-04-27,Good,Off-road,2024-09-10,Sedan,74.5,33,65,No,Center,59501,2024-04-26
+6,59802,165,31,184,Continental,577,Front Left,6.8,59,Tube-type,Winter,T,110,2023-04-12,Good,Mixed,2025-05-01,Sedan,66.4,30,54,Yes,Inner,26321,2029-04-10
+5,43535,195,31,216,Pirelli,419,Rear Left,6.3,78,Tubeless,Winter,W,98,2021-07-06,Misaligned,Mixed,2024-12-12,SUV,69.0,29,63,Yes,Even,3527,2026-07-05
+3,41099,225,32,237,Michelin,633,Rear Right,2.5,48,Tube-type,Summer,Y,107,2023-11-14,Needs Check,City,2024-09-10,SUV,74.9,28,76,Yes,Outer,22769,2026-11-13
+3,60732,215,30,202,MRF,576,Rear Left,6.9,30,Tubeless,Winter,V,87,2023-05-06,Needs Check,Highway,2025-06-15,Hatchback,71.6,36,26,Yes,Center,52790,2026-05-05
+4,55930,225,31,228,Apollo,477,Front Left,7.5,41,Tubeless,Winter,H,102,2022-06-17,Good,Mixed,2025-01-27,Hatchback,71.4,29,50,Yes,Even,28465,2026-06-16
+5,63414,225,32,214,Continental,738,Front Right,5.2,41,Tube-type,Summer,V,104,2023-12-23,Good,City,2024-10-14,Truck,66.1,34,34,No,Even,58108,2028-12-21
+3,72924,195,33,240,Apollo,467,Rear Left,2.7,63,Tubeless,Summer,W,99,2021-12-16,Needs Check,Mixed,2024-08-29,Truck,73.5,36,38,Yes,Even,56164,2024-12-15
+6,39609,225,32,191,Michelin,448,Rear Left,3.3,68,Tube-type,Winter,V,81,2021-01-05,Needs Check,City,2025-01-14,SUV,71.8,36,64,No,Outer,11053,2027-01-04
+5,65201,175,34,190,Bridgestone,503,Front Left,3.4,54,Tubeless,Summer,H,110,2023-07-27,Good,Highway,2024-08-08,Hatchback,71.5,30,63,No,Center,58629,2028-07-25
+7,43504,225,33,221,Bridgestone,489,Rear Right,4.3,28,Tube-type,Summer,Y,98,2023-04-24,Misaligned,Highway,2025-06-11,Hatchback,74.6,32,55,No,Inner,18182,2030-04-22
+5,72845,185,33,216,Michelin,721,Front Left,6.3,64,Tubeless,Summer,Y,97,2020-08-22,Needs Check,Mixed,2024-10-04,Truck,66.7,28,28,No,Inner,18925,2025-08-21
+7,44729,225,34,240,Continental,762,Rear Right,7.7,30,Tube-type,Winter,Y,98,2023-01-27,Misaligned,Off-road,2024-11-16,Sedan,74.4,36,47,Yes,Center,21217,2030-01-25
+6,74860,205,34,214,Michelin,745,Front Left,4.3,52,Tube-type,Winter,V,81,2023-11-17,Needs Check,Mixed,2024-08-08,Sedan,68.1,36,43,Yes,Inner,23302,2029-11-15
+4,73715,205,30,195,Goodyear,513,Rear Right,7.8,80,Tube-type,Summer,H,94,2020-12-18,Misaligned,Highway,2025-05-30,Hatchback,65.9,32,66,Yes,Inner,65539,2024-12-17
+4,47018,205,35,212,Continental,692,Front Right,7.3,60,Tubeless,All-season,H,84,2023-10-04,Misaligned,Off-road,2024-12-25,Hatchback,65.7,32,62,No,Center,23016,2027-10-03
+7,39801,175,30,185,Continental,641,Rear Right,7.9,74,Tubeless,Winter,Y,107,2024-05-25,Good,City,2024-11-19,SUV,73.2,30,26,No,Inner,30987,2031-05-24
+6,68236,165,33,191,Continental,491,Front Left,7.5,44,Tube-type,Summer,V,86,2021-05-07,Needs Check,Mixed,2025-01-01,Hatchback,70.1,33,25,No,Even,39,2027-05-06
+4,54132,165,35,235,Bridgestone,780,Rear Right,5.5,77,Tube-type,Winter,V,81,2023-01-09,Needs Check,Mixed,2025-05-28,Truck,71.3,34,30,Yes,Even,3207,2027-01-08
+3,79017,185,33,198,Michelin,732,Front Right,8.0,41,Tubeless,Summer,Y,108,2022-11-21,Good,City,2025-01-08,Sedan,71.9,29,71,No,Even,51555,2025-11-20
+4,77136,225,35,193,Michelin,515,Front Left,5.0,41,Tubeless,Summer,T,109,2022-12-17,Misaligned,Mixed,2024-10-29,Hatchback,66.7,32,49,Yes,Inner,52384,2026-12-16
+3,63656,215,32,205,Goodyear,769,Front Left,3.8,56,Tubeless,All-season,T,86,2023-08-30,Misaligned,Off-road,2024-10-25,SUV,73.0,29,42,Yes,Outer,6157,2026-08-29
+5,42453,185,34,230,Michelin,775,Rear Right,4.8,42,Tube-type,Winter,H,90,2023-12-20,Good,City,2025-06-17,SUV,71.9,31,37,Yes,Outer,26831,2028-12-18
+7,78697,205,30,232,Michelin,676,Rear Left,4.5,80,Tubeless,Summer,H,107,2025-01-29,Misaligned,Off-road,2025-04-19,SUV,68.7,34,28,Yes,Even,67297,2032-01-28
+3,39981,175,30,232,Continental,750,Front Right,3.9,66,Tubeless,Summer,H,106,2020-09-02,Good,Highway,2024-10-14,Sedan,65.5,30,32,Yes,Even,29713,2023-09-02
+5,32427,215,30,210,Bridgestone,654,Front Left,7.6,31,Tubeless,All-season,Y,99,2025-01-06,Misaligned,City,2024-08-20,Sedan,70.6,31,34,No,Even,9334,2030-01-05
+6,58933,185,35,226,MRF,642,Front Right,5.0,54,Tube-type,Summer,T,100,2023-11-05,Misaligned,Off-road,2025-01-31,SUV,65.4,28,64,No,Even,45041,2029-11-03
+7,77748,185,35,203,Pirelli,725,Rear Right,6.6,48,Tube-type,Summer,V,89,2021-03-24,Misaligned,Mixed,2025-04-22,Sedan,66.7,35,42,No,Outer,75450,2028-03-22
+5,76796,165,32,235,Pirelli,514,Rear Right,7.1,64,Tubeless,All-season,W,90,2020-09-10,Good,Off-road,2024-08-02,SUV,73.1,35,26,Yes,Outer,28837,2025-09-09
+7,58880,185,31,190,Goodyear,419,Rear Right,2.4,25,Tube-type,Summer,Y,109,2022-11-29,Good,Highway,2024-08-09,Truck,73.3,33,60,No,Even,5493,2029-11-27
+5,33135,215,32,196,Michelin,424,Rear Left,6.5,54,Tube-type,All-season,W,106,2021-07-16,Misaligned,City,2024-08-28,Hatchback,68.3,33,40,No,Inner,27086,2026-07-15
+5,49520,205,33,184,MRF,791,Rear Right,4.5,78,Tubeless,All-season,Y,102,2024-02-03,Needs Check,Mixed,2025-03-09,Sedan,67.5,34,68,Yes,Center,29295,2029-02-01
+6,54141,205,35,193,Apollo,618,Front Right,5.3,76,Tube-type,Summer,Y,91,2024-02-23,Needs Check,City,2025-04-27,Hatchback,70.6,34,44,No,Inner,53291,2030-02-21
+7,38745,215,30,203,Continental,479,Front Right,6.6,69,Tube-type,Summer,T,95,2023-09-29,Misaligned,Highway,2025-04-16,Sedan,69.0,30,37,No,Inner,24855,2030-09-27
+7,59796,195,34,207,Pirelli,674,Front Left,4.1,27,Tube-type,All-season,Y,84,2022-02-03,Needs Check,Off-road,2024-08-05,SUV,67.1,29,36,Yes,Inner,54261,2029-02-01
+7,59308,175,34,180,Apollo,420,Rear Left,2.3,72,Tubeless,All-season,H,87,2023-03-29,Good,Off-road,2024-10-09,Hatchback,71.1,28,30,Yes,Inner,42816,2030-03-27
+3,42039,205,33,196,Michelin,534,Rear Left,6.4,26,Tubeless,Summer,T,85,2024-08-28,Needs Check,City,2025-05-07,Hatchback,66.9,31,69,Yes,Even,40819,2027-08-28
+3,35127,175,34,211,Bridgestone,753,Front Left,5.8,39,Tubeless,Summer,T,102,2022-12-28,Misaligned,Mixed,2024-07-26,SUV,68.1,30,34,No,Inner,26452,2025-12-27
+6,36256,215,35,228,Apollo,687,Rear Right,5.7,56,Tubeless,Winter,W,97,2022-05-01,Good,Mixed,2025-02-28,Truck,69.7,36,50,No,Inner,6270,2028-04-29
+5,56112,225,35,219,Michelin,626,Front Left,4.2,52,Tubeless,Winter,H,107,2020-10-18,Good,City,2025-02-23,Sedan,70.3,35,74,Yes,Outer,37978,2025-10-17
+5,65755,225,35,201,Bridgestone,729,Front Left,4.9,31,Tubeless,Winter,W,108,2024-10-29,Misaligned,City,2024-10-04,SUV,73.1,31,32,Yes,Inner,15701,2029-10-28
+5,59296,165,32,233,Bridgestone,412,Rear Right,5.7,65,Tubeless,Summer,V,98,2024-06-21,Misaligned,Off-road,2025-03-12,Truck,66.2,33,30,Yes,Center,46328,2029-06-20
+5,45489,185,33,216,MRF,756,Front Left,2.1,71,Tubeless,Winter,H,81,2022-06-10,Needs Check,City,2025-06-11,SUV,68.9,33,45,No,Center,33714,2027-06-09
+4,59613,195,34,231,Bridgestone,689,Rear Left,6.3,37,Tubeless,Winter,T,100,2024-02-03,Misaligned,Mixed,2025-05-22,SUV,70.7,29,46,No,Center,25686,2028-02-02
+5,69898,185,33,213,Continental,519,Rear Left,7.5,50,Tube-type,Winter,W,90,2021-09-23,Misaligned,City,2025-06-20,SUV,75.0,29,60,No,Outer,22740,2026-09-22
+7,36402,185,34,191,Michelin,690,Rear Right,4.3,60,Tubeless,Winter,H,94,2024-01-07,Needs Check,City,2025-01-16,SUV,70.3,32,25,Yes,Center,26292,2031-01-05
+6,67966,175,34,214,MRF,779,Rear Right,5.9,43,Tube-type,All-season,Y,99,2021-07-02,Good,Highway,2024-08-11,Hatchback,73.8,29,68,No,Outer,62185,2027-07-01
+5,67557,185,34,208,MRF,449,Front Right,3.1,75,Tubeless,Summer,V,105,2023-09-15,Good,Highway,2025-01-12,SUV,67.0,35,74,Yes,Inner,30981,2028-09-13
+6,58928,215,34,183,Goodyear,744,Rear Left,6.8,66,Tube-type,Winter,Y,89,2021-07-20,Needs Check,City,2024-10-22,SUV,67.0,29,78,No,Inner,19907,2027-07-19
+5,54757,165,30,185,Pirelli,756,Front Left,4.6,71,Tube-type,Winter,V,80,2021-04-07,Good,Highway,2024-07-29,Hatchback,71.3,35,43,Yes,Inner,41561,2026-04-06
+3,73101,185,35,205,Pirelli,707,Rear Left,2.3,58,Tube-type,Summer,V,108,2025-03-07,Good,Mixed,2025-03-02,Sedan,71.1,33,25,No,Inner,50935,2028-03-06
+7,40900,225,34,182,Pirelli,676,Rear Right,7.3,46,Tubeless,Winter,W,95,2022-03-21,Needs Check,Highway,2025-04-22,Hatchback,68.3,35,47,No,Inner,11363,2029-03-19
+7,32850,225,35,192,Pirelli,562,Rear Right,7.0,33,Tubeless,All-season,T,80,2020-09-26,Good,Off-road,2024-11-10,Truck,68.2,28,63,Yes,Outer,19920,2027-09-25
+4,36813,205,32,182,Continental,664,Front Left,2.7,65,Tubeless,Summer,Y,80,2023-10-12,Good,Off-road,2025-06-22,Hatchback,71.6,33,50,Yes,Center,34584,2027-10-11
+5,73475,225,33,184,Michelin,722,Front Left,4.5,38,Tubeless,All-season,Y,108,2025-04-14,Good,Highway,2024-09-23,SUV,68.9,33,44,No,Even,71400,2030-04-13
+4,43805,165,30,186,MRF,796,Rear Right,5.9,67,Tube-type,Winter,Y,106,2022-01-21,Good,City,2025-02-03,Sedan,73.9,29,27,No,Even,30988,2026-01-20
+5,75491,195,35,203,Goodyear,795,Front Right,4.6,64,Tubeless,Summer,W,104,2023-09-12,Misaligned,Mixed,2024-10-30,Truck,67.1,29,75,Yes,Center,68876,2028-09-10
+7,78196,165,34,226,Goodyear,681,Front Right,2.6,38,Tubeless,Winter,W,89,2025-04-12,Needs Check,Highway,2024-09-23,Truck,70.9,28,58,Yes,Outer,1069,2032-04-10
+3,56956,215,31,180,Bridgestone,610,Front Right,2.0,53,Tubeless,Winter,V,93,2021-09-08,Needs Check,Mixed,2024-12-22,SUV,65.8,32,60,Yes,Inner,31657,2024-09-07
+6,58327,185,30,197,Pirelli,641,Rear Left,5.8,60,Tube-type,All-season,H,80,2023-11-24,Misaligned,Highway,2024-10-12,Sedan,70.8,29,45,No,Center,43202,2029-11-22
+5,69431,175,30,202,Pirelli,533,Rear Right,4.3,58,Tubeless,Summer,V,96,2021-02-17,Needs Check,Highway,2024-09-26,Truck,70.8,28,54,No,Outer,35557,2026-02-16
+5,74821,165,34,193,Continental,712,Rear Left,6.2,49,Tube-type,All-season,W,110,2022-01-26,Good,Off-road,2024-12-08,Truck,65.0,29,56,No,Inner,13635,2027-01-25
+6,61923,205,34,233,MRF,505,Front Left,5.8,73,Tube-type,Winter,Y,107,2024-06-03,Misaligned,Mixed,2024-12-02,Sedan,73.4,36,57,Yes,Center,57975,2030-06-02
+3,72858,195,31,218,Pirelli,550,Rear Right,5.1,43,Tube-type,Summer,T,103,2024-10-06,Needs Check,Highway,2024-10-29,Hatchback,68.0,35,58,Yes,Center,7645,2027-10-06
+3,61080,175,35,211,MRF,500,Front Right,6.9,69,Tube-type,Summer,W,109,2022-10-28,Needs Check,Off-road,2024-09-23,Truck,68.8,34,69,No,Center,4557,2025-10-27
+5,32672,175,32,213,Bridgestone,464,Front Right,2.5,31,Tubeless,Winter,Y,91,2025-01-06,Misaligned,Mixed,2025-05-01,SUV,72.2,28,41,Yes,Even,6378,2030-01-05
+4,42293,165,32,196,Goodyear,513,Front Right,7.1,60,Tube-type,Summer,V,101,2023-05-11,Good,Mixed,2024-09-14,Sedan,67.5,35,59,No,Even,4369,2027-05-10
+5,49109,205,30,184,Continental,794,Rear Left,5.6,30,Tube-type,Winter,V,97,2021-03-18,Needs Check,Off-road,2025-01-27,Hatchback,74.6,34,30,Yes,Center,38529,2026-03-17
+3,77224,185,35,207,Apollo,608,Front Right,2.7,30,Tube-type,Winter,Y,88,2021-09-03,Misaligned,Mixed,2024-12-16,SUV,69.6,31,28,No,Inner,61323,2024-09-02
+7,35674,165,31,193,Apollo,708,Rear Right,6.7,34,Tube-type,Winter,Y,83,2023-10-12,Good,Off-road,2024-08-27,Sedan,74.4,35,69,Yes,Outer,18720,2030-10-10
+4,56223,195,32,206,Michelin,686,Front Right,6.6,33,Tube-type,Winter,Y,87,2023-09-15,Good,Mixed,2025-03-03,Hatchback,67.8,28,31,Yes,Center,10787,2027-09-14
+5,51050,165,31,221,Continental,561,Rear Right,5.2,25,Tube-type,Winter,T,87,2022-01-23,Misaligned,Highway,2024-09-21,Hatchback,66.0,36,67,No,Outer,13748,2027-01-22
+5,63873,205,30,234,Goodyear,616,Rear Right,3.1,61,Tubeless,Winter,W,82,2024-07-30,Misaligned,Off-road,2024-10-12,SUV,72.2,29,26,No,Outer,24484,2029-07-29
+5,58011,215,30,227,Goodyear,593,Rear Left,5.3,49,Tube-type,Winter,V,97,2024-03-14,Misaligned,Off-road,2025-03-11,SUV,74.1,34,56,No,Outer,6583,2029-03-13
+5,70692,195,33,236,Michelin,412,Rear Right,2.0,63,Tubeless,Summer,H,93,2021-02-05,Needs Check,Highway,2025-03-07,Hatchback,66.3,35,68,No,Outer,10277,2026-02-04
+3,51624,185,33,205,Pirelli,586,Front Right,4.8,62,Tubeless,Winter,Y,92,2023-12-29,Needs Check,Mixed,2024-08-11,Sedan,69.2,31,37,Yes,Inner,15646,2026-12-28
+5,32016,215,31,200,Michelin,729,Front Left,7.4,26,Tubeless,All-season,H,89,2023-03-05,Misaligned,Mixed,2024-08-17,Hatchback,71.1,36,61,No,Center,24675,2028-03-03
+4,78567,165,31,208,MRF,725,Front Right,6.6,70,Tube-type,Summer,V,88,2022-12-14,Needs Check,Highway,2025-05-12,Hatchback,67.5,31,49,No,Center,4749,2026-12-13
+4,55923,215,34,206,Michelin,564,Rear Right,4.5,38,Tubeless,All-season,H,106,2022-08-13,Needs Check,Mixed,2025-01-01,Sedan,74.1,31,63,Yes,Even,19084,2026-08-12
+4,56351,185,31,228,Continental,636,Rear Right,4.9,67,Tube-type,All-season,Y,91,2022-12-19,Needs Check,City,2024-10-21,Hatchback,74.2,33,65,No,Even,41159,2026-12-18
+7,38640,195,35,230,Goodyear,759,Rear Left,4.6,44,Tubeless,Summer,H,109,2023-06-01,Misaligned,City,2025-06-05,Sedan,72.7,28,50,No,Outer,10648,2030-05-30
+4,46171,225,35,190,Goodyear,758,Rear Left,4.9,75,Tubeless,Winter,V,102,2020-10-23,Misaligned,City,2025-06-20,Hatchback,67.1,35,44,Yes,Center,36364,2024-10-22
+6,41266,215,34,238,Michelin,709,Rear Right,2.8,54,Tubeless,Winter,V,105,2022-09-16,Misaligned,Highway,2024-08-12,SUV,74.3,34,29,No,Even,40580,2028-09-14
+3,70879,185,32,230,Bridgestone,406,Front Left,6.8,73,Tubeless,All-season,T,82,2022-01-20,Needs Check,Mixed,2024-10-27,Sedan,66.8,32,29,Yes,Even,21894,2025-01-19
+6,31616,175,31,189,Continental,721,Rear Right,7.6,72,Tube-type,All-season,W,98,2021-06-04,Good,Highway,2024-09-22,SUV,73.3,30,25,Yes,Even,30793,2027-06-03
+3,79823,175,33,211,MRF,599,Rear Left,4.9,43,Tubeless,All-season,T,93,2021-06-15,Needs Check,Highway,2024-12-29,SUV,74.2,28,40,No,Inner,40294,2024-06-14
+5,71052,225,32,191,MRF,491,Front Right,2.5,44,Tubeless,Summer,V,86,2024-12-19,Good,City,2024-11-24,Sedan,69.5,34,27,Yes,Even,31566,2029-12-18
+6,36436,195,32,186,Continental,463,Front Right,2.3,40,Tube-type,Summer,Y,106,2023-01-05,Needs Check,City,2025-01-02,SUV,70.1,29,42,Yes,Inner,25224,2029-01-03
+3,52748,185,33,239,Pirelli,642,Front Right,7.6,56,Tube-type,Summer,W,101,2024-09-10,Good,City,2024-08-15,SUV,67.3,36,37,Yes,Even,24273,2027-09-10
+5,60766,205,34,229,MRF,568,Front Left,4.1,67,Tube-type,Summer,V,87,2023-10-02,Good,Highway,2024-09-06,Truck,70.9,35,29,Yes,Center,35435,2028-09-30
+3,51390,185,34,215,Apollo,478,Front Left,6.1,73,Tube-type,Winter,H,94,2021-03-14,Needs Check,Off-road,2024-09-21,SUV,67.6,32,42,Yes,Inner,46505,2024-03-13
+6,54703,175,31,202,Goodyear,509,Rear Left,4.8,63,Tubeless,Summer,W,103,2023-11-20,Good,Off-road,2024-12-14,Sedan,66.1,31,65,Yes,Outer,7714,2029-11-18
+4,41443,225,30,218,Michelin,658,Front Left,7.0,72,Tube-type,All-season,W,103,2024-05-13,Misaligned,City,2024-09-06,Truck,72.3,34,69,Yes,Even,13173,2028-05-12
+4,53698,205,32,236,Apollo,706,Front Right,4.2,70,Tubeless,All-season,W,100,2021-12-08,Misaligned,Highway,2024-12-10,Hatchback,74.3,30,65,Yes,Outer,12498,2025-12-07
+6,64647,215,35,184,Pirelli,571,Front Left,3.4,49,Tubeless,Summer,T,108,2024-07-28,Misaligned,Off-road,2024-07-31,Truck,72.6,34,43,No,Inner,31199,2030-07-27
+3,48384,175,35,221,Continental,655,Front Right,5.6,70,Tube-type,Winter,H,88,2023-05-06,Good,Highway,2025-02-14,Hatchback,67.4,28,28,No,Center,13953,2026-05-05
+6,50045,215,32,206,Goodyear,772,Rear Right,7.2,44,Tubeless,Summer,W,104,2024-01-05,Misaligned,Off-road,2025-01-11,Sedan,74.5,32,69,No,Center,11362,2030-01-03
+3,55168,225,33,188,Apollo,763,Rear Right,6.2,78,Tubeless,Summer,W,92,2024-01-17,Needs Check,City,2024-08-13,Truck,68.7,32,31,Yes,Center,13458,2027-01-16
+3,44229,225,34,208,Goodyear,432,Rear Right,3.1,72,Tubeless,Summer,H,85,2021-09-02,Good,City,2025-03-16,Hatchback,72.8,34,66,No,Inner,15366,2024-09-01
+4,62045,165,30,198,Pirelli,609,Rear Right,7.0,50,Tubeless,All-season,V,103,2023-08-28,Misaligned,Off-road,2025-01-05,SUV,72.8,35,46,Yes,Even,60782,2027-08-27
+6,38131,205,31,221,Goodyear,423,Rear Left,6.6,59,Tubeless,Summer,V,89,2024-03-24,Needs Check,Off-road,2025-06-22,SUV,65.1,29,51,Yes,Inner,20074,2030-03-23
+5,73964,195,31,225,Bridgestone,638,Rear Left,4.1,74,Tube-type,Summer,Y,80,2024-06-29,Good,Highway,2025-06-14,Hatchback,66.6,28,56,Yes,Even,27797,2029-06-28
+3,67765,175,35,196,Apollo,511,Rear Right,2.2,33,Tubeless,Winter,H,89,2021-02-19,Good,City,2025-01-06,Hatchback,70.1,29,55,Yes,Inner,44857,2024-02-19
+3,55531,185,30,199,Continental,528,Rear Right,3.6,34,Tubeless,Winter,W,104,2022-08-31,Good,Highway,2025-02-11,SUV,67.0,30,77,Yes,Even,21238,2025-08-30
+7,47293,195,31,204,MRF,690,Front Left,4.1,30,Tube-type,Summer,V,94,2022-03-13,Good,City,2024-09-23,Hatchback,65.1,34,64,Yes,Outer,9484,2029-03-11
+5,64814,195,32,222,Bridgestone,517,Front Left,3.1,68,Tube-type,Summer,H,108,2023-08-31,Good,Mixed,2024-09-25,SUV,73.0,33,44,No,Inner,11954,2028-08-29
+6,41774,225,30,191,Pirelli,560,Rear Left,5.0,53,Tube-type,Winter,Y,83,2022-04-28,Misaligned,Highway,2025-03-10,SUV,67.1,30,65,Yes,Inner,12763,2028-04-26
+3,69506,225,32,208,Pirelli,743,Front Left,3.4,66,Tubeless,Summer,H,104,2020-12-11,Good,Mixed,2025-02-15,Truck,74.0,34,62,Yes,Even,2951,2023-12-11
+5,58360,225,30,191,MRF,635,Front Right,2.7,49,Tubeless,Winter,V,88,2022-03-30,Needs Check,City,2024-11-12,SUV,65.2,34,55,Yes,Center,6206,2027-03-29
+6,51129,175,35,202,Pirelli,762,Front Right,3.4,79,Tubeless,All-season,V,106,2023-01-04,Good,City,2024-10-24,Hatchback,68.3,32,75,Yes,Inner,19688,2029-01-02
+7,35575,165,31,217,Continental,449,Front Right,6.9,67,Tubeless,All-season,V,108,2021-01-09,Needs Check,Off-road,2025-03-15,Sedan,65.6,32,41,Yes,Outer,7177,2028-01-08
+6,30514,205,34,213,MRF,485,Front Right,5.9,42,Tubeless,Summer,W,110,2021-08-15,Needs Check,City,2024-11-16,Sedan,69.2,33,77,Yes,Outer,17727,2027-08-14
+7,74431,165,33,211,Continental,421,Rear Left,7.1,60,Tubeless,Winter,W,95,2024-10-23,Misaligned,Off-road,2025-04-30,SUV,67.8,30,45,No,Center,34289,2031-10-22
+4,77447,185,30,227,Bridgestone,795,Rear Right,2.2,33,Tube-type,Summer,V,99,2022-06-28,Good,Highway,2024-09-02,SUV,72.2,28,28,Yes,Even,65642,2026-06-27
+5,39864,195,34,227,Pirelli,664,Front Right,6.6,80,Tube-type,Summer,V,90,2023-11-27,Good,City,2024-09-13,Hatchback,68.2,36,26,No,Center,6304,2028-11-25
+6,64655,165,30,206,Pirelli,566,Front Right,4.8,40,Tube-type,Winter,W,108,2024-10-14,Misaligned,City,2024-08-03,SUV,66.0,35,44,No,Center,51414,2030-10-13
+6,35059,165,33,222,Apollo,689,Rear Right,2.8,60,Tubeless,Summer,T,100,2022-11-12,Good,City,2024-09-25,SUV,71.0,36,56,No,Center,7418,2028-11-10
+4,60968,195,31,193,Continental,794,Rear Left,4.4,37,Tube-type,Winter,W,92,2023-10-26,Misaligned,Mixed,2024-07-27,SUV,66.3,30,67,No,Inner,29851,2027-10-25
+4,41131,215,33,180,MRF,736,Rear Right,7.5,64,Tube-type,Winter,W,103,2022-08-01,Needs Check,City,2025-05-06,Hatchback,67.9,30,79,Yes,Center,38932,2026-07-31
+7,53124,175,35,183,Apollo,630,Rear Left,2.7,52,Tubeless,Summer,T,98,2024-05-16,Good,Mixed,2025-06-16,Hatchback,65.9,31,42,Yes,Center,13887,2031-05-15
+7,76661,225,33,227,Apollo,533,Rear Right,4.4,79,Tube-type,Winter,Y,107,2021-04-14,Needs Check,City,2025-03-20,SUV,69.9,31,74,No,Even,52036,2028-04-12
+4,32679,215,33,234,Continental,433,Front Right,3.6,37,Tubeless,All-season,T,97,2021-12-26,Needs Check,Mixed,2024-11-09,Truck,72.7,33,42,Yes,Inner,24724,2025-12-25
+4,32303,205,32,202,Bridgestone,658,Rear Right,5.3,46,Tubeless,All-season,V,89,2024-12-01,Misaligned,Highway,2025-05-12,Truck,69.9,29,69,No,Inner,2836,2028-11-30
+5,51343,195,32,208,Goodyear,593,Front Left,7.7,58,Tube-type,Summer,H,80,2023-05-17,Good,Highway,2025-06-04,Sedan,70.4,32,77,Yes,Center,25510,2028-05-15
+6,45336,185,32,236,Continental,706,Rear Right,7.1,77,Tubeless,All-season,H,86,2023-09-13,Misaligned,Mixed,2025-01-05,Sedan,65.6,34,77,Yes,Even,19476,2029-09-11
+3,50532,175,31,181,Pirelli,580,Front Right,4.6,42,Tube-type,All-season,V,94,2023-11-27,Misaligned,Highway,2024-08-11,SUV,72.8,34,67,No,Even,5510,2026-11-26
+4,70791,215,32,231,Continental,616,Front Left,2.1,33,Tube-type,All-season,Y,92,2023-06-15,Good,Mixed,2024-09-20,Sedan,65.4,28,45,Yes,Center,54845,2027-06-14
+7,44480,225,35,188,Goodyear,545,Front Left,5.7,75,Tubeless,Summer,V,108,2020-11-02,Misaligned,Highway,2025-02-12,Hatchback,67.6,32,62,No,Even,16227,2027-11-01
+3,33771,195,34,235,Goodyear,673,Front Right,2.5,54,Tubeless,Winter,W,95,2021-09-21,Misaligned,Off-road,2024-07-25,Truck,74.9,33,64,Yes,Even,33519,2024-09-20
+5,75905,175,32,218,MRF,737,Rear Right,4.2,61,Tubeless,Winter,H,89,2024-01-07,Needs Check,City,2024-11-23,SUV,66.7,32,71,No,Center,71140,2029-01-05
+3,49459,195,35,234,Goodyear,512,Front Right,2.2,69,Tube-type,Winter,T,106,2021-07-12,Good,Highway,2024-08-13,Hatchback,67.4,32,29,Yes,Center,23741,2024-07-11
+3,47443,215,32,238,Pirelli,714,Front Left,5.1,30,Tube-type,Winter,V,85,2021-06-21,Misaligned,City,2025-05-26,Sedan,73.7,35,40,No,Even,46419,2024-06-20
+4,52578,215,32,195,Pirelli,534,Front Left,3.2,74,Tubeless,All-season,H,86,2022-02-23,Misaligned,Highway,2024-07-28,Hatchback,68.1,31,71,Yes,Center,22587,2026-02-22
+4,34873,225,34,222,Pirelli,412,Rear Left,4.7,36,Tubeless,Winter,Y,107,2022-06-27,Misaligned,Highway,2025-06-15,Hatchback,69.1,34,47,No,Inner,10401,2026-06-26
+3,79929,165,35,221,Continental,522,Front Right,2.1,55,Tubeless,Summer,V,109,2025-01-05,Misaligned,Mixed,2024-09-28,Hatchback,74.1,36,66,Yes,Center,78433,2028-01-05
+5,61788,225,34,189,Continental,435,Front Left,3.8,50,Tube-type,Summer,Y,106,2025-01-19,Needs Check,City,2025-01-03,Sedan,67.7,30,54,No,Even,5628,2030-01-18
+3,32179,215,35,238,Bridgestone,473,Rear Left,5.0,77,Tubeless,All-season,H,109,2022-11-10,Misaligned,Off-road,2024-08-21,Truck,65.1,29,43,Yes,Outer,190,2025-11-09
+5,32250,215,31,233,MRF,554,Rear Left,4.8,31,Tubeless,Winter,V,87,2021-09-15,Good,Mixed,2025-04-03,Hatchback,65.5,28,30,Yes,Outer,28459,2026-09-14
+3,68952,225,30,231,Apollo,421,Rear Left,6.1,52,Tubeless,Summer,W,100,2023-04-09,Good,Off-road,2025-01-02,Sedan,65.5,34,30,No,Center,46759,2026-04-08
+7,54430,215,30,240,Michelin,657,Front Left,4.0,64,Tube-type,Winter,T,96,2021-10-06,Good,Highway,2024-12-25,SUV,69.2,29,34,Yes,Inner,36878,2028-10-04
+7,46083,215,30,190,Pirelli,740,Rear Right,3.3,36,Tube-type,Summer,W,94,2025-03-17,Good,Off-road,2025-03-28,Sedan,72.8,36,41,Yes,Even,25649,2032-03-15
+7,68378,165,33,185,Apollo,614,Rear Left,3.7,51,Tube-type,Winter,T,102,2022-05-31,Needs Check,Mixed,2024-07-25,SUV,69.0,28,64,Yes,Even,38922,2029-05-29
+3,72907,225,30,218,Goodyear,483,Rear Right,5.6,57,Tubeless,All-season,V,92,2025-01-31,Needs Check,Highway,2025-04-08,SUV,73.8,35,38,Yes,Outer,17474,2028-01-31
+3,39762,195,34,223,Bridgestone,660,Front Right,3.5,34,Tubeless,Summer,T,89,2020-10-19,Good,Off-road,2024-09-19,Hatchback,73.0,33,59,Yes,Even,2122,2023-10-19
+7,61831,205,33,201,Michelin,776,Front Right,3.8,55,Tube-type,All-season,V,96,2025-04-04,Needs Check,Off-road,2024-09-06,Hatchback,70.6,36,79,No,Inner,42109,2032-04-02
+3,30862,195,31,229,Pirelli,710,Front Left,3.3,58,Tube-type,Winter,H,85,2020-09-05,Good,Mixed,2024-10-20,Hatchback,69.0,32,55,No,Outer,11990,2023-09-05
+5,75486,205,31,230,MRF,667,Front Right,3.0,25,Tubeless,All-season,W,80,2023-12-23,Good,Highway,2024-10-18,Truck,67.9,33,46,No,Inner,2907,2028-12-21
+6,39836,165,32,210,Apollo,441,Front Left,4.5,65,Tube-type,Winter,V,92,2021-07-16,Misaligned,City,2025-05-11,Sedan,72.2,34,76,No,Center,39743,2027-07-15
+5,78817,225,35,193,Bridgestone,441,Rear Left,3.2,70,Tubeless,Winter,V,90,2021-08-07,Needs Check,Mixed,2025-04-16,SUV,72.0,31,62,Yes,Outer,72706,2026-08-06
+4,50520,205,35,189,Goodyear,498,Rear Right,4.1,74,Tubeless,Winter,Y,81,2024-02-21,Good,Highway,2025-01-26,Sedan,66.1,30,54,Yes,Center,9362,2028-02-20
+5,64644,165,34,187,Continental,496,Front Right,6.9,60,Tubeless,All-season,V,107,2024-12-09,Good,Highway,2025-06-02,Hatchback,66.2,32,74,No,Even,42529,2029-12-08
+6,71333,215,33,209,Continental,401,Front Right,4.6,37,Tube-type,All-season,W,93,2023-12-01,Needs Check,Highway,2024-08-19,Sedan,65.5,31,68,No,Center,43262,2029-11-29
+4,45317,225,35,206,Continental,472,Front Right,5.5,48,Tubeless,Summer,H,82,2025-02-11,Needs Check,City,2025-04-01,Sedan,73.6,28,29,No,Outer,42548,2029-02-10
+3,33264,175,34,230,Continental,773,Front Right,2.3,68,Tubeless,Winter,V,92,2021-03-13,Needs Check,Highway,2025-02-17,SUV,74.7,29,32,Yes,Even,6161,2024-03-12
+6,63623,225,31,239,Goodyear,732,Front Left,3.1,47,Tubeless,All-season,H,101,2024-07-09,Misaligned,Highway,2025-03-24,SUV,72.8,34,26,No,Inner,60446,2030-07-08
+6,68059,215,35,225,Continental,731,Front Left,6.4,46,Tube-type,Summer,V,84,2021-11-19,Misaligned,Mixed,2025-05-24,Sedan,67.0,36,26,No,Center,61206,2027-11-18
+6,55219,225,33,192,Apollo,597,Front Left,5.8,49,Tubeless,Winter,W,93,2022-02-07,Good,Mixed,2025-03-31,Truck,71.7,30,46,No,Even,973,2028-02-06
+4,55362,205,33,202,Pirelli,758,Front Right,2.8,50,Tubeless,Winter,W,97,2023-04-14,Misaligned,Off-road,2024-09-18,Hatchback,67.1,33,50,Yes,Inner,25076,2027-04-13
+7,50179,175,31,232,Michelin,776,Rear Right,5.9,73,Tubeless,Winter,W,102,2024-04-05,Good,City,2025-03-26,Truck,65.6,33,26,No,Outer,33083,2031-04-04
+3,61321,215,32,207,Apollo,492,Rear Right,7.8,62,Tube-type,All-season,H,109,2022-08-14,Misaligned,Off-road,2024-08-03,Truck,66.6,36,75,Yes,Outer,5918,2025-08-13
+6,50842,215,35,207,MRF,514,Rear Left,7.4,29,Tube-type,Winter,T,80,2022-07-21,Needs Check,Off-road,2024-10-28,Sedan,67.5,31,38,No,Even,21421,2028-07-19
+7,69975,225,34,199,Goodyear,795,Front Left,3.5,80,Tube-type,Summer,T,82,2021-01-14,Good,City,2025-02-21,Sedan,73.0,29,38,No,Center,65648,2028-01-13
+7,37740,175,33,240,Goodyear,694,Front Left,2.8,66,Tubeless,Winter,Y,95,2021-10-11,Needs Check,Mixed,2024-11-16,SUV,67.5,31,73,No,Inner,29731,2028-10-09
+3,46556,195,31,237,Goodyear,740,Rear Left,5.5,73,Tube-type,All-season,V,105,2023-03-02,Good,Mixed,2025-02-02,Sedan,65.0,28,70,No,Outer,30926,2026-03-01
+6,47067,195,31,238,Continental,583,Front Left,3.8,41,Tube-type,Winter,T,96,2021-11-25,Needs Check,City,2024-10-20,SUV,66.4,32,37,Yes,Center,12732,2027-11-24
+7,56512,205,32,235,Apollo,653,Front Right,7.0,40,Tube-type,Winter,V,86,2021-03-21,Good,Mixed,2024-10-19,SUV,74.5,33,56,No,Center,8915,2028-03-19
+5,65474,195,33,190,Continental,715,Rear Right,7.5,50,Tubeless,All-season,H,100,2022-06-25,Misaligned,City,2025-04-19,SUV,74.5,31,79,No,Even,20316,2027-06-24
+3,30105,195,35,219,Goodyear,554,Rear Left,2.2,48,Tube-type,Winter,W,100,2021-12-06,Misaligned,Off-road,2024-07-30,SUV,67.4,28,44,No,Outer,16973,2024-12-05
+7,59083,195,33,187,Goodyear,467,Front Left,6.4,54,Tube-type,Summer,T,108,2020-09-11,Misaligned,Highway,2024-11-04,Truck,72.4,35,27,No,Inner,25665,2027-09-10
+4,42411,185,31,209,Michelin,637,Front Right,5.2,36,Tubeless,Summer,V,101,2024-03-15,Needs Check,Highway,2024-10-24,Sedan,70.5,35,29,Yes,Outer,10966,2028-03-14
+5,67546,205,35,208,Bridgestone,640,Rear Right,2.4,50,Tubeless,All-season,H,95,2022-04-04,Good,City,2025-04-02,SUV,67.4,33,55,Yes,Outer,39400,2027-04-03
+6,61883,225,34,208,MRF,608,Front Right,5.5,47,Tube-type,Summer,Y,85,2025-01-01,Needs Check,Mixed,2025-01-22,SUV,65.5,30,35,Yes,Center,5038,2030-12-31
+6,56820,175,33,216,Apollo,743,Rear Left,6.6,48,Tube-type,Summer,H,102,2020-12-18,Good,Highway,2025-02-01,Sedan,66.0,36,55,No,Even,3526,2026-12-17
+4,77676,175,32,200,Goodyear,739,Rear Right,5.1,41,Tubeless,Winter,H,84,2021-06-30,Good,Off-road,2024-12-07,Hatchback,67.0,30,76,Yes,Inner,2235,2025-06-29
+5,52699,185,30,233,Goodyear,628,Front Right,2.1,70,Tubeless,All-season,Y,82,2020-11-20,Needs Check,City,2024-11-23,Sedan,71.9,34,47,Yes,Inner,32319,2025-11-19
+3,30524,205,33,232,Continental,782,Front Right,2.7,55,Tubeless,Summer,H,83,2023-03-02,Needs Check,Mixed,2025-06-01,SUV,66.1,35,35,No,Outer,30182,2026-03-01
+4,71248,165,34,229,MRF,434,Front Left,6.5,60,Tube-type,Summer,T,97,2024-09-24,Good,City,2025-01-10,Hatchback,69.7,30,37,No,Outer,68386,2028-09-23
+5,65631,165,34,183,MRF,410,Rear Right,6.5,56,Tubeless,Winter,T,82,2023-10-06,Good,Off-road,2025-06-23,Truck,73.4,31,79,Yes,Center,44342,2028-10-04
+4,31454,195,35,236,MRF,625,Rear Left,6.8,29,Tubeless,Summer,Y,105,2023-08-07,Misaligned,Off-road,2024-11-14,SUV,69.2,36,27,Yes,Center,28585,2027-08-06
+4,42098,195,31,231,Michelin,534,Front Right,3.4,68,Tubeless,Summer,Y,94,2024-05-22,Misaligned,Mixed,2025-04-05,Truck,66.4,34,33,Yes,Center,30000,2028-05-21
+7,43272,165,33,221,Continental,538,Front Right,4.9,68,Tubeless,Summer,T,102,2022-10-19,Misaligned,Off-road,2025-04-02,Sedan,66.3,31,29,Yes,Outer,27161,2029-10-17
+3,70294,175,31,197,Apollo,462,Front Left,4.0,60,Tubeless,Winter,Y,96,2023-09-19,Needs Check,Highway,2025-02-01,Hatchback,74.9,36,25,Yes,Outer,3364,2026-09-18
+7,48736,175,35,182,Michelin,626,Front Left,6.5,71,Tube-type,Winter,W,92,2022-10-03,Needs Check,Mixed,2024-08-15,SUV,71.0,29,28,No,Inner,42573,2029-10-01
+3,63033,225,35,225,Michelin,487,Front Left,5.8,57,Tubeless,Winter,H,82,2023-04-11,Needs Check,City,2025-02-21,SUV,65.5,34,39,Yes,Outer,31171,2026-04-10
+4,59046,175,33,215,Michelin,681,Rear Right,2.6,35,Tube-type,Summer,H,91,2023-04-12,Good,Mixed,2025-03-16,Hatchback,72.3,28,73,No,Center,33179,2027-04-11
+5,72673,225,34,211,Goodyear,647,Front Right,4.4,66,Tube-type,Summer,T,81,2022-06-12,Needs Check,Off-road,2024-12-20,SUV,69.5,30,26,No,Even,66078,2027-06-11
+4,53107,205,31,215,Bridgestone,757,Front Right,5.9,71,Tube-type,All-season,H,101,2024-11-09,Good,Off-road,2025-02-07,Sedan,68.1,28,74,Yes,Even,31306,2028-11-08
+3,47947,225,34,200,MRF,575,Rear Left,2.5,75,Tube-type,Winter,W,84,2021-01-23,Good,Off-road,2025-01-28,Sedan,73.8,35,33,Yes,Even,25708,2024-01-23
+4,66141,205,32,221,MRF,697,Front Left,5.8,42,Tubeless,Summer,V,105,2023-10-15,Misaligned,Mixed,2024-10-30,Sedan,70.3,36,50,Yes,Inner,17759,2027-10-14
+5,46643,195,33,187,MRF,473,Front Left,6.0,50,Tubeless,Summer,W,99,2025-04-13,Needs Check,City,2024-10-08,Sedan,73.0,34,38,Yes,Center,46015,2030-04-12
+3,43732,165,33,181,Bridgestone,651,Front Right,6.2,63,Tubeless,All-season,T,80,2024-04-09,Needs Check,Highway,2025-04-18,SUV,69.0,29,60,No,Center,1548,2027-04-09
+6,74297,185,30,223,Bridgestone,499,Rear Right,4.0,64,Tubeless,Winter,Y,91,2023-03-15,Misaligned,Mixed,2025-02-08,SUV,70.1,29,59,No,Inner,43697,2029-03-13
+3,67415,195,33,180,Apollo,720,Front Left,5.1,65,Tubeless,All-season,H,85,2022-06-02,Good,City,2025-01-25,Sedan,74.1,33,69,No,Even,6172,2025-06-01
+6,59774,195,33,200,Goodyear,410,Rear Right,5.3,71,Tube-type,All-season,H,98,2023-03-25,Misaligned,Mixed,2024-11-04,Truck,68.9,28,35,No,Outer,7354,2029-03-23
+5,76825,175,33,220,Pirelli,604,Rear Right,8.0,26,Tube-type,Winter,W,95,2023-04-02,Misaligned,Mixed,2024-08-04,Hatchback,70.4,28,64,Yes,Center,76743,2028-03-31
+5,54905,195,32,184,Michelin,723,Rear Right,4.2,26,Tubeless,Summer,V,108,2021-10-11,Good,City,2024-09-03,Truck,65.3,32,60,Yes,Center,41990,2026-10-10
+3,69559,215,31,222,MRF,740,Rear Right,3.0,77,Tube-type,Summer,W,83,2022-02-03,Good,Off-road,2025-05-01,Sedan,71.5,33,34,Yes,Inner,58607,2025-02-02
+5,72963,185,32,190,Apollo,620,Rear Left,7.9,69,Tube-type,All-season,W,93,2022-11-24,Good,Highway,2025-01-22,SUV,73.2,33,45,No,Inner,1111,2027-11-23
+7,63917,185,32,187,Apollo,667,Rear Left,4.8,52,Tubeless,Summer,Y,93,2021-12-25,Needs Check,Mixed,2025-01-15,Hatchback,73.3,33,68,Yes,Outer,43715,2028-12-23
+6,30848,215,30,216,Michelin,595,Front Left,6.0,53,Tube-type,Winter,V,109,2024-07-28,Good,Off-road,2025-04-30,Sedan,68.2,28,50,Yes,Inner,12830,2030-07-27
+5,75412,195,30,189,Bridgestone,787,Front Right,3.3,51,Tube-type,Winter,T,83,2020-11-07,Needs Check,Mixed,2025-02-09,Truck,66.4,28,36,No,Outer,8047,2025-11-06
+7,36581,185,30,233,Goodyear,739,Rear Right,4.4,43,Tube-type,Summer,Y,95,2022-04-19,Good,Highway,2025-04-20,Truck,72.0,32,61,No,Even,16078,2029-04-17
+6,47831,205,34,228,Bridgestone,643,Rear Left,3.6,51,Tubeless,Winter,H,92,2025-01-31,Needs Check,Highway,2024-08-08,SUV,68.2,30,61,Yes,Inner,45166,2031-01-30
+4,45314,215,34,232,Michelin,677,Rear Left,2.5,75,Tubeless,Winter,W,94,2024-04-22,Good,Mixed,2025-03-05,SUV,69.1,35,46,Yes,Outer,37258,2028-04-21
+4,53739,215,31,237,Michelin,540,Rear Right,7.8,77,Tube-type,Summer,W,90,2020-11-22,Needs Check,City,2024-11-10,SUV,72.3,35,38,No,Outer,24145,2024-11-21
+3,32207,175,30,188,Bridgestone,504,Rear Left,4.4,67,Tube-type,All-season,V,93,2024-01-20,Needs Check,City,2025-02-26,Truck,73.4,28,63,No,Center,27430,2027-01-19
+3,53735,205,32,219,Continental,454,Rear Right,5.9,68,Tube-type,Winter,V,110,2022-06-28,Misaligned,City,2025-05-20,Truck,67.8,34,31,No,Even,16426,2025-06-27
+3,36850,185,31,215,MRF,706,Front Right,6.2,76,Tubeless,Winter,H,103,2024-03-27,Needs Check,Off-road,2025-05-25,Hatchback,68.4,32,39,No,Inner,22899,2027-03-27
+3,43117,205,33,219,Bridgestone,439,Front Left,7.7,50,Tube-type,Winter,T,99,2021-05-24,Misaligned,Mixed,2024-09-14,Sedan,70.3,36,78,No,Outer,8925,2024-05-23
+7,46295,225,34,216,Michelin,612,Rear Left,2.4,74,Tubeless,Winter,W,83,2021-03-24,Good,Highway,2025-02-21,SUV,71.5,36,54,No,Inner,44799,2028-03-22
+3,64616,205,34,183,Apollo,486,Front Right,2.5,43,Tubeless,Summer,H,108,2021-11-15,Good,City,2025-03-22,Sedan,68.1,36,40,Yes,Inner,29899,2024-11-14
+4,66902,215,33,198,Bridgestone,560,Front Right,2.5,74,Tube-type,Winter,W,99,2024-08-09,Good,Highway,2024-11-08,SUV,67.5,31,79,Yes,Center,46865,2028-08-08
+5,77417,165,31,200,Continental,486,Rear Left,6.0,38,Tubeless,Summer,Y,89,2024-06-11,Good,Mixed,2025-01-16,SUV,74.8,32,34,Yes,Inner,73445,2029-06-10
+5,32600,215,30,207,Bridgestone,658,Front Right,4.3,70,Tubeless,Summer,W,101,2024-01-18,Needs Check,City,2025-01-09,SUV,73.8,30,51,No,Inner,27262,2029-01-16
+5,79695,195,34,206,Apollo,676,Front Right,5.7,30,Tube-type,Summer,Y,95,2020-10-21,Good,Highway,2025-02-12,Truck,69.6,28,47,Yes,Outer,76111,2025-10-20
+7,70965,175,30,186,Michelin,535,Rear Right,6.3,29,Tubeless,All-season,W,89,2021-01-24,Good,Mixed,2024-12-05,Hatchback,67.1,32,39,No,Even,27882,2028-01-23
+3,73965,185,33,228,Goodyear,641,Front Right,5.4,63,Tubeless,Winter,H,97,2022-06-28,Misaligned,City,2025-01-25,Hatchback,68.5,33,56,Yes,Outer,35404,2025-06-27
+4,34468,195,31,234,Michelin,436,Rear Left,6.0,66,Tube-type,All-season,Y,109,2024-09-29,Misaligned,Off-road,2024-10-17,SUV,74.6,29,67,Yes,Outer,21440,2028-09-28
+4,46867,195,32,203,Michelin,685,Front Right,4.7,30,Tubeless,All-season,T,98,2022-09-06,Good,Mixed,2024-08-29,SUV,68.4,28,71,Yes,Even,36671,2026-09-05
+6,37526,165,30,229,Goodyear,531,Rear Right,6.2,73,Tubeless,Summer,H,81,2021-03-15,Good,Mixed,2025-04-22,Sedan,70.2,30,64,Yes,Even,28102,2027-03-14
+4,74737,215,33,217,Michelin,449,Front Left,7.4,79,Tube-type,All-season,W,94,2024-04-16,Misaligned,City,2024-12-25,Hatchback,71.5,29,26,Yes,Inner,69022,2028-04-15
+7,70715,205,35,229,Continental,656,Front Right,2.7,50,Tubeless,All-season,T,94,2024-12-22,Good,Highway,2024-11-07,Truck,73.1,30,28,Yes,Even,11792,2031-12-21
+4,47745,165,32,228,MRF,517,Rear Right,7.8,42,Tubeless,Summer,H,107,2023-12-17,Good,City,2025-02-23,SUV,72.9,28,56,No,Inner,42499,2027-12-16
+5,32283,165,32,217,MRF,794,Front Right,7.0,28,Tubeless,Summer,Y,91,2024-05-27,Good,Highway,2024-10-20,SUV,74.9,34,62,Yes,Center,27847,2029-05-26
+6,35255,225,30,195,Continental,628,Rear Right,4.7,26,Tubeless,Summer,V,103,2025-04-01,Needs Check,City,2025-05-21,Truck,65.7,31,64,No,Even,31775,2031-03-31
+4,67607,195,31,185,Apollo,517,Front Left,5.8,51,Tube-type,All-season,Y,90,2022-11-02,Needs Check,Mixed,2025-01-20,Sedan,71.7,32,80,No,Inner,19545,2026-11-01
+3,40299,225,35,185,Michelin,505,Front Right,4.1,72,Tubeless,All-season,W,110,2025-02-26,Needs Check,Highway,2025-06-17,Sedan,70.7,34,77,No,Inner,18091,2028-02-26
+4,69332,165,35,219,Pirelli,716,Front Left,3.8,75,Tubeless,Winter,H,93,2021-09-08,Needs Check,Mixed,2024-10-17,Hatchback,65.3,36,44,Yes,Even,22107,2025-09-07
+4,66707,165,31,211,MRF,653,Rear Right,7.4,69,Tube-type,Summer,Y,97,2023-05-06,Good,Highway,2024-09-14,Hatchback,70.2,30,57,No,Even,40655,2027-05-05
+7,74148,175,34,202,Bridgestone,492,Rear Right,5.5,42,Tube-type,Winter,V,99,2022-12-15,Needs Check,Highway,2024-09-01,Truck,72.2,36,56,No,Inner,2200,2029-12-13
+3,32667,165,30,188,Pirelli,484,Rear Right,5.1,79,Tubeless,All-season,W,101,2020-11-02,Misaligned,Mixed,2025-02-02,Truck,67.4,35,49,No,Even,10099,2023-11-02
+3,77245,185,33,190,Continental,496,Front Left,2.7,48,Tube-type,Summer,Y,110,2024-09-02,Needs Check,City,2024-12-11,Truck,74.4,30,41,No,Inner,27849,2027-09-02
+3,79311,175,35,189,Pirelli,705,Rear Right,6.7,34,Tubeless,All-season,W,104,2021-02-28,Needs Check,Off-road,2025-06-07,Hatchback,72.6,36,66,Yes,Even,37249,2024-02-28
+4,69634,165,31,203,Apollo,659,Front Left,2.7,35,Tube-type,Winter,W,98,2022-11-01,Misaligned,City,2024-11-29,SUV,65.9,34,42,Yes,Center,50225,2026-10-31
+3,77974,205,34,236,Apollo,416,Front Right,3.5,71,Tubeless,Summer,Y,107,2023-08-04,Good,City,2025-03-30,Hatchback,67.8,32,76,Yes,Inner,51951,2026-08-03
+5,79213,215,32,234,Michelin,508,Front Right,7.4,75,Tube-type,All-season,V,107,2020-11-27,Good,Mixed,2025-05-25,Truck,70.7,35,39,Yes,Center,50198,2025-11-26
+5,48611,165,30,221,Continental,475,Front Left,7.4,48,Tubeless,Winter,V,105,2022-09-14,Good,City,2025-05-21,Sedan,73.4,32,61,No,Inner,19070,2027-09-13
+5,34773,185,34,227,Michelin,738,Rear Right,2.1,41,Tubeless,Summer,W,100,2021-08-10,Needs Check,City,2024-09-23,SUV,67.1,34,70,No,Outer,16421,2026-08-09
+4,59968,195,32,202,Goodyear,655,Rear Right,7.7,65,Tube-type,Winter,Y,92,2024-01-14,Good,Mixed,2025-05-04,SUV,67.0,29,60,No,Outer,59189,2028-01-13
+4,58809,205,31,215,Pirelli,751,Front Right,7.4,54,Tube-type,Summer,W,84,2025-02-03,Misaligned,Mixed,2025-03-27,Sedan,66.2,31,77,No,Inner,50278,2029-02-02
+4,70903,215,35,191,Continental,400,Rear Right,5.0,51,Tubeless,Summer,H,91,2021-07-16,Needs Check,City,2025-05-12,Truck,65.7,29,47,Yes,Outer,49062,2025-07-15
+4,46142,175,33,186,Michelin,636,Rear Left,6.0,65,Tubeless,Winter,H,107,2020-11-15,Misaligned,Off-road,2025-06-04,Truck,68.9,33,61,No,Outer,15610,2024-11-14
+6,67453,205,34,227,Goodyear,519,Rear Right,6.4,66,Tubeless,Summer,H,94,2024-11-22,Needs Check,Mixed,2025-04-20,Truck,74.4,33,49,No,Outer,40213,2030-11-21
+4,38190,195,35,191,MRF,713,Rear Right,6.6,62,Tubeless,Winter,T,95,2025-03-11,Needs Check,City,2024-12-10,SUV,67.5,30,45,No,Center,7286,2029-03-10
+6,71036,215,33,203,Continental,678,Rear Right,7.1,35,Tube-type,All-season,H,107,2024-12-23,Misaligned,Mixed,2025-03-29,Truck,69.3,36,50,No,Inner,52276,2030-12-22
+3,36802,225,35,204,Continental,718,Front Left,4.6,55,Tubeless,Summer,Y,84,2023-04-02,Misaligned,Highway,2025-01-10,Hatchback,72.0,29,45,No,Outer,22785,2026-04-01
+3,41495,195,30,189,MRF,637,Rear Left,3.9,43,Tube-type,Summer,Y,91,2025-01-19,Good,Highway,2024-08-21,Hatchback,74.3,33,42,No,Center,3570,2028-01-19
+3,61769,225,34,239,Michelin,770,Front Right,4.5,73,Tube-type,All-season,T,89,2020-10-04,Good,City,2024-11-12,SUV,74.9,32,30,No,Inner,14816,2023-10-04
+6,41425,215,34,199,MRF,721,Front Left,7.1,74,Tube-type,Summer,Y,94,2021-02-04,Needs Check,Off-road,2025-05-21,SUV,67.1,35,41,No,Even,16640,2027-02-03
+5,43993,175,34,213,MRF,745,Rear Right,6.8,32,Tubeless,Winter,V,108,2023-01-07,Misaligned,Highway,2025-02-09,SUV,65.2,30,63,Yes,Center,7570,2028-01-06
+4,55550,205,34,219,Goodyear,462,Rear Left,3.2,29,Tubeless,Winter,Y,83,2023-11-06,Misaligned,City,2024-08-05,Sedan,70.2,35,76,No,Inner,6549,2027-11-05
+7,78030,215,35,185,Michelin,637,Rear Left,5.5,62,Tubeless,Summer,T,86,2023-08-17,Good,Off-road,2025-01-02,Truck,68.4,28,50,Yes,Even,34344,2030-08-15
+6,46914,215,30,189,Continental,654,Rear Left,6.6,35,Tube-type,All-season,W,80,2024-11-07,Good,City,2025-04-18,Hatchback,67.3,36,33,Yes,Outer,44918,2030-11-06
+4,71250,195,30,221,MRF,495,Rear Left,3.3,60,Tubeless,All-season,Y,98,2023-12-11,Good,City,2024-11-23,Sedan,72.8,32,40,Yes,Outer,1053,2027-12-10
+7,33648,165,35,211,MRF,753,Front Left,4.9,44,Tubeless,Winter,H,87,2021-06-21,Misaligned,Mixed,2025-03-12,Sedan,65.7,31,50,No,Center,808,2028-06-19
+7,40997,195,34,211,Bridgestone,411,Rear Left,5.9,44,Tube-type,Winter,W,86,2024-07-27,Misaligned,City,2024-11-30,Sedan,65.1,33,35,No,Outer,1328,2031-07-26
+5,64158,175,31,234,Pirelli,538,Rear Right,4.3,80,Tube-type,Winter,T,96,2022-07-08,Needs Check,Mixed,2024-11-16,Sedan,65.7,31,32,Yes,Outer,278,2027-07-07
+6,58487,225,30,217,Goodyear,760,Rear Left,2.7,74,Tubeless,Summer,Y,100,2021-03-05,Misaligned,Mixed,2024-09-02,Sedan,69.3,32,68,No,Outer,27008,2027-03-04
+3,68108,165,31,189,Michelin,598,Rear Left,5.1,33,Tubeless,Winter,H,92,2021-11-03,Needs Check,Off-road,2025-04-25,SUV,74.2,28,57,Yes,Inner,28294,2024-11-02
+7,78869,225,33,186,Bridgestone,754,Rear Right,5.0,51,Tube-type,All-season,Y,107,2020-12-12,Needs Check,Highway,2025-03-26,SUV,70.2,29,69,Yes,Outer,77324,2027-12-11
+6,64768,225,30,216,Continental,448,Rear Left,7.9,31,Tubeless,Winter,T,89,2021-01-22,Needs Check,Off-road,2025-04-07,SUV,66.0,35,41,Yes,Center,62058,2027-01-21
+3,47610,195,31,191,MRF,456,Front Left,6.4,76,Tubeless,Summer,W,104,2024-07-28,Misaligned,City,2025-03-05,Truck,74.8,32,31,No,Inner,30016,2027-07-28
+4,55197,215,35,199,Michelin,528,Rear Right,7.8,63,Tubeless,All-season,V,89,2023-03-07,Misaligned,Highway,2024-09-22,Sedan,71.6,30,56,No,Outer,53031,2027-03-06
+6,39826,215,31,180,MRF,423,Front Left,7.6,43,Tube-type,Winter,W,101,2020-10-12,Misaligned,Mixed,2024-11-30,Hatchback,71.0,30,59,Yes,Inner,15467,2026-10-11
+6,75152,195,31,211,Goodyear,680,Rear Right,2.2,28,Tubeless,Winter,H,80,2021-02-19,Needs Check,Highway,2024-12-05,Truck,71.9,30,42,Yes,Inner,26140,2027-02-18
+4,71714,165,32,226,Goodyear,685,Rear Right,6.6,44,Tube-type,Summer,T,104,2021-09-08,Needs Check,Highway,2024-10-18,Truck,72.7,30,61,Yes,Center,33685,2025-09-07
+6,62985,185,32,221,Apollo,771,Front Right,6.9,71,Tubeless,Summer,Y,82,2022-03-23,Good,Highway,2025-02-20,Truck,71.9,33,28,Yes,Outer,11866,2028-03-21
+5,42645,225,35,226,Pirelli,539,Rear Left,5.7,53,Tube-type,All-season,T,104,2024-03-20,Misaligned,Highway,2024-12-03,Sedan,66.6,31,28,Yes,Outer,29480,2029-03-19
+6,74252,215,33,202,Apollo,778,Rear Right,4.4,25,Tube-type,Winter,H,93,2022-06-26,Misaligned,City,2025-05-27,Hatchback,65.4,28,40,Yes,Even,28385,2028-06-24
+7,32070,165,32,208,Apollo,414,Rear Left,4.3,46,Tube-type,Winter,V,103,2025-03-05,Good,City,2025-03-30,SUV,66.3,31,71,Yes,Even,19185,2032-03-03
+5,52082,205,30,235,Michelin,434,Front Left,2.7,51,Tubeless,Winter,T,106,2022-04-07,Needs Check,Off-road,2025-05-05,Hatchback,66.9,32,31,Yes,Inner,25499,2027-04-06
+7,54717,215,33,187,Pirelli,481,Rear Right,2.7,67,Tubeless,Winter,H,102,2021-10-23,Good,Off-road,2025-04-01,Truck,72.7,31,33,Yes,Outer,25178,2028-10-21
+6,64692,175,31,227,Pirelli,418,Front Right,4.8,58,Tube-type,All-season,V,95,2022-11-27,Needs Check,Off-road,2024-08-04,SUV,73.5,34,40,No,Outer,12462,2028-11-25
+7,64978,185,34,236,Pirelli,693,Rear Right,4.4,30,Tubeless,All-season,H,89,2020-11-18,Needs Check,Mixed,2025-01-23,Truck,67.1,30,43,No,Even,38150,2027-11-17
+6,34082,185,35,216,Apollo,618,Front Left,4.7,53,Tubeless,Summer,V,104,2022-12-29,Misaligned,Highway,2024-09-18,SUV,67.5,28,31,Yes,Even,9454,2028-12-27
+3,43366,165,32,208,Continental,746,Front Right,3.4,80,Tubeless,Winter,V,96,2023-04-10,Good,Off-road,2025-06-04,SUV,66.6,29,79,No,Even,28561,2026-04-09
+3,38705,175,30,199,Bridgestone,506,Rear Right,6.8,59,Tube-type,All-season,Y,97,2021-11-21,Good,Off-road,2025-01-06,Truck,67.1,30,58,No,Center,5553,2024-11-20
+5,35794,165,31,233,Apollo,784,Rear Right,3.4,70,Tubeless,Summer,W,99,2023-06-27,Needs Check,Highway,2025-06-13,Truck,74.0,34,29,No,Inner,6575,2028-06-25
+5,35579,165,33,229,Apollo,458,Rear Left,6.1,60,Tube-type,All-season,Y,87,2025-02-06,Good,Off-road,2024-09-16,Sedan,71.6,36,34,Yes,Even,18512,2030-02-05
+3,38658,185,35,232,Goodyear,475,Rear Left,4.4,79,Tube-type,All-season,W,94,2024-03-31,Good,City,2024-11-22,SUV,73.1,36,45,Yes,Even,25935,2027-03-31
+3,58937,225,33,187,Apollo,679,Front Right,6.1,60,Tubeless,Summer,H,90,2023-04-21,Good,Mixed,2025-05-07,Truck,68.8,35,65,No,Even,50726,2026-04-20
+5,40767,185,31,229,Bridgestone,503,Rear Right,2.6,29,Tubeless,Winter,W,89,2020-11-01,Needs Check,City,2024-10-07,Truck,72.2,30,44,No,Center,38977,2025-10-31
+6,32440,175,34,186,Goodyear,631,Rear Left,4.8,57,Tubeless,Summer,Y,88,2025-01-27,Good,Highway,2025-05-10,Sedan,66.0,33,64,Yes,Outer,28420,2031-01-26
+7,68544,225,31,223,Pirelli,742,Front Right,5.3,57,Tube-type,Winter,W,106,2021-03-15,Needs Check,Highway,2024-10-27,Sedan,66.7,31,49,No,Inner,13986,2028-03-13
+4,62618,225,30,223,Goodyear,750,Front Right,5.9,44,Tubeless,Winter,H,110,2024-01-24,Misaligned,Mixed,2025-03-04,SUV,65.2,28,72,Yes,Center,45383,2028-01-23
+4,71277,215,32,197,Goodyear,618,Rear Left,5.5,65,Tube-type,Winter,Y,87,2025-02-03,Good,City,2025-06-21,Hatchback,74.5,34,38,No,Outer,50604,2029-02-02
+4,58029,195,32,228,Continental,568,Front Left,2.4,51,Tubeless,All-season,T,81,2023-09-27,Good,Highway,2024-09-15,Sedan,68.8,30,67,Yes,Even,55477,2027-09-26
+7,58124,225,34,222,Goodyear,686,Front Right,5.9,71,Tube-type,All-season,T,94,2021-03-10,Good,City,2025-01-23,Sedan,73.4,30,73,No,Even,16746,2028-03-08
+6,77603,175,33,216,Bridgestone,525,Rear Left,7.9,74,Tubeless,Summer,V,98,2021-12-10,Needs Check,Highway,2024-12-07,Hatchback,70.6,32,44,No,Even,55180,2027-12-09
+4,72624,165,32,228,Goodyear,484,Rear Left,7.6,33,Tube-type,Winter,H,91,2022-08-25,Misaligned,Highway,2025-04-25,Truck,65.7,29,76,Yes,Center,66791,2026-08-24
+3,70115,175,32,180,Continental,669,Front Left,5.9,27,Tubeless,All-season,H,92,2024-04-09,Good,City,2025-02-21,Hatchback,68.9,36,71,No,Outer,35117,2027-04-09
+7,52934,175,35,211,Continental,480,Front Right,6.7,80,Tube-type,Summer,W,102,2021-06-07,Needs Check,City,2025-01-12,Sedan,65.7,35,76,No,Outer,11728,2028-06-05
+3,45002,185,33,228,Continental,699,Front Right,5.5,63,Tube-type,Winter,T,88,2021-05-30,Good,Highway,2025-05-05,Hatchback,71.0,30,27,Yes,Outer,29645,2024-05-29
+7,33449,225,34,213,Continental,793,Front Left,3.0,41,Tube-type,All-season,Y,95,2022-08-23,Misaligned,City,2025-05-12,Hatchback,66.9,36,32,Yes,Center,31196,2029-08-21
+3,48854,205,35,203,Bridgestone,754,Rear Right,3.7,50,Tube-type,Winter,W,109,2021-02-19,Misaligned,City,2025-01-09,Hatchback,72.0,33,60,Yes,Even,22646,2024-02-19
+7,55823,225,34,214,Michelin,456,Front Left,7.0,46,Tube-type,Winter,Y,102,2022-02-16,Needs Check,Highway,2025-06-17,Truck,74.6,36,62,No,Outer,48297,2029-02-14
+3,65416,225,35,188,Michelin,617,Front Left,2.7,65,Tube-type,All-season,W,95,2023-07-07,Needs Check,Off-road,2024-12-17,Truck,70.5,28,39,No,Center,64673,2026-07-06
+3,49878,165,35,202,Pirelli,713,Front Left,5.4,35,Tube-type,All-season,W,92,2022-04-23,Misaligned,Mixed,2025-03-27,SUV,66.4,31,53,No,Center,26325,2025-04-22
+4,75525,185,31,213,Apollo,400,Front Left,7.9,74,Tube-type,Summer,Y,95,2021-03-22,Good,Off-road,2025-03-02,Sedan,68.9,28,68,Yes,Center,30209,2025-03-21
+6,30491,225,32,194,Continental,617,Front Left,3.5,43,Tube-type,Winter,Y,104,2022-09-10,Misaligned,Highway,2024-09-10,Hatchback,69.3,36,77,Yes,Even,17716,2028-09-08
+7,30294,225,32,197,Continental,448,Rear Left,3.8,33,Tubeless,Winter,Y,106,2024-09-04,Good,Off-road,2025-05-26,Hatchback,67.1,32,74,Yes,Inner,25913,2031-09-03
+4,49256,165,34,197,Michelin,730,Front Right,5.8,40,Tube-type,Winter,Y,85,2021-02-02,Good,Highway,2024-09-27,Truck,67.9,34,42,Yes,Outer,14820,2025-02-01
+3,73896,165,32,195,Bridgestone,671,Rear Right,5.8,67,Tubeless,All-season,H,85,2024-01-02,Misaligned,Highway,2024-10-08,Truck,74.1,32,35,No,Center,38700,2027-01-01
+4,57285,215,34,208,Apollo,631,Front Right,4.9,30,Tube-type,All-season,T,103,2022-09-10,Misaligned,City,2025-02-22,SUV,69.1,29,58,No,Inner,6601,2026-09-09
+3,30539,195,30,237,Pirelli,409,Rear Right,6.1,75,Tubeless,Summer,W,104,2023-11-26,Needs Check,Highway,2025-01-12,Sedan,72.1,29,56,Yes,Center,11814,2026-11-25
+4,67780,205,31,187,Apollo,756,Front Left,2.4,58,Tube-type,Summer,H,89,2023-06-11,Needs Check,Highway,2024-12-06,Hatchback,67.7,35,54,No,Inner,17987,2027-06-10
+6,74412,225,31,238,Michelin,682,Rear Right,4.7,75,Tube-type,All-season,W,109,2020-12-20,Misaligned,City,2024-07-25,Sedan,70.2,28,53,Yes,Outer,7969,2026-12-19
+4,54775,195,33,237,Goodyear,720,Rear Left,7.5,27,Tube-type,Summer,Y,107,2024-10-31,Good,Off-road,2025-06-07,Hatchback,69.0,35,40,No,Even,41159,2028-10-30
+5,66663,215,30,227,MRF,548,Front Right,5.6,51,Tube-type,All-season,H,90,2021-03-19,Good,Highway,2025-06-08,Hatchback,70.1,30,76,No,Inner,52963,2026-03-18
+6,33420,205,32,195,Pirelli,775,Front Left,6.9,44,Tubeless,All-season,T,97,2022-05-13,Needs Check,Highway,2025-03-04,Sedan,68.7,33,57,No,Inner,20819,2028-05-11
+7,32578,195,35,216,Bridgestone,695,Rear Right,4.0,76,Tube-type,All-season,W,96,2023-03-07,Misaligned,Highway,2025-03-01,Hatchback,65.2,33,57,Yes,Inner,5858,2030-03-05
+4,59972,175,35,184,Pirelli,625,Front Right,7.7,44,Tube-type,All-season,W,110,2023-12-22,Needs Check,City,2025-05-28,Hatchback,73.2,34,31,Yes,Inner,31615,2027-12-21
+7,79913,185,31,187,Michelin,428,Rear Right,7.9,49,Tube-type,Winter,W,105,2025-03-03,Misaligned,Off-road,2024-11-26,Sedan,67.2,35,60,No,Even,15243,2032-03-01
+7,68740,195,31,197,Pirelli,638,Rear Right,7.0,80,Tube-type,All-season,H,85,2022-04-06,Needs Check,Highway,2025-03-22,Sedan,65.9,36,51,No,Inner,17482,2029-04-04
+5,78857,205,32,227,Michelin,762,Rear Right,3.4,45,Tube-type,Summer,Y,89,2024-05-17,Needs Check,City,2024-09-14,SUV,73.7,28,55,Yes,Center,47970,2029-05-16
+6,34260,205,34,183,Goodyear,718,Rear Left,4.9,61,Tube-type,Summer,V,85,2023-11-10,Misaligned,Mixed,2025-02-16,SUV,70.4,33,27,Yes,Outer,9916,2029-11-08
+3,34018,205,33,195,Apollo,789,Front Left,3.1,51,Tube-type,All-season,W,106,2022-08-06,Needs Check,City,2024-10-20,Truck,73.0,29,69,No,Outer,27861,2025-08-05
+7,52994,175,34,232,Goodyear,500,Rear Right,5.4,26,Tubeless,Winter,Y,93,2021-10-13,Needs Check,City,2025-04-07,Hatchback,72.2,32,47,Yes,Outer,22239,2028-10-11
+5,74586,165,33,229,MRF,478,Rear Right,3.1,31,Tube-type,Winter,W,100,2023-04-08,Good,Highway,2025-04-15,Sedan,71.8,35,77,No,Center,73004,2028-04-06
+7,33685,205,30,231,Michelin,498,Rear Left,2.3,75,Tubeless,All-season,W,88,2023-11-02,Good,City,2025-03-04,Sedan,67.1,34,63,No,Center,21165,2030-10-31
+3,63031,185,32,214,Bridgestone,701,Front Left,5.0,33,Tube-type,Summer,Y,80,2023-07-04,Good,Off-road,2025-02-08,Hatchback,69.6,32,78,Yes,Outer,36479,2026-07-03
+6,63961,195,33,221,Michelin,503,Rear Right,6.6,58,Tubeless,All-season,V,82,2023-06-30,Good,City,2024-09-21,Hatchback,67.9,34,50,No,Inner,3878,2029-06-28
+6,51855,205,35,208,Bridgestone,524,Front Right,5.1,62,Tubeless,Summer,V,81,2024-05-04,Misaligned,Off-road,2025-04-19,Sedan,73.5,33,28,No,Center,25949,2030-05-03
+3,30784,165,34,203,Michelin,563,Rear Right,5.3,64,Tube-type,Winter,V,100,2021-01-05,Needs Check,Off-road,2024-08-27,Hatchback,69.1,34,44,Yes,Inner,29791,2024-01-05
+4,46474,215,30,219,Bridgestone,683,Front Left,4.5,72,Tubeless,All-season,H,80,2025-02-23,Needs Check,Highway,2024-11-18,Truck,73.5,33,78,No,Center,3016,2029-02-22
+7,58783,205,33,185,Goodyear,649,Front Right,6.5,54,Tube-type,Winter,Y,81,2021-04-07,Misaligned,City,2024-09-13,Sedan,68.9,28,60,No,Inner,43331,2028-04-05
+5,53498,185,32,181,Michelin,756,Rear Left,2.8,66,Tube-type,Winter,W,99,2023-02-26,Good,Off-road,2025-04-28,Sedan,73.2,30,71,No,Center,28826,2028-02-25
+6,76478,225,35,224,Apollo,571,Rear Right,7.5,79,Tube-type,All-season,W,85,2025-01-02,Good,City,2025-01-22,Truck,65.9,34,55,Yes,Even,52916,2031-01-01
+4,78673,165,34,234,Bridgestone,498,Front Right,5.5,26,Tube-type,Summer,T,86,2020-12-26,Needs Check,Highway,2025-04-26,Sedan,70.8,34,63,No,Even,48884,2024-12-25
+6,70209,165,33,194,Pirelli,481,Rear Right,6.3,52,Tube-type,All-season,Y,94,2021-11-09,Misaligned,Off-road,2025-06-17,Hatchback,70.5,29,28,No,Inner,17743,2027-11-08
+6,42629,165,35,196,Bridgestone,470,Front Right,3.6,45,Tube-type,All-season,V,82,2022-11-02,Needs Check,Mixed,2024-09-28,SUV,67.7,35,27,No,Even,41303,2028-10-31
+4,42940,225,30,207,Apollo,753,Front Left,4.4,73,Tubeless,Summer,Y,98,2022-06-10,Good,Highway,2025-05-07,SUV,72.2,31,50,Yes,Inner,13138,2026-06-09
+4,74194,185,30,219,MRF,701,Rear Right,4.3,30,Tube-type,Winter,V,94,2022-06-01,Needs Check,Highway,2025-04-01,Sedan,73.8,29,34,Yes,Outer,25032,2026-05-31
+7,52728,185,32,237,Bridgestone,685,Rear Right,5.5,25,Tube-type,Summer,T,95,2021-05-29,Misaligned,Off-road,2025-06-07,Hatchback,67.6,34,65,No,Inner,47737,2028-05-27
+7,79021,165,35,206,Michelin,449,Rear Left,3.7,53,Tubeless,Summer,H,81,2021-02-05,Misaligned,Off-road,2024-08-11,Truck,69.7,30,54,Yes,Inner,1314,2028-02-04
+6,57445,205,34,217,MRF,405,Front Right,6.3,55,Tubeless,Summer,W,105,2021-10-22,Needs Check,Off-road,2025-05-14,Truck,74.8,35,40,No,Outer,21383,2027-10-21
+7,31368,205,31,216,Michelin,473,Front Right,5.9,62,Tube-type,All-season,Y,103,2021-09-04,Misaligned,Mixed,2024-09-08,Sedan,66.2,29,66,No,Center,11878,2028-09-02
+5,55719,215,30,221,Continental,491,Front Right,7.2,46,Tube-type,All-season,V,110,2025-03-11,Good,Off-road,2024-11-30,SUV,69.3,32,49,Yes,Even,35263,2030-03-10
+7,40546,195,34,196,Bridgestone,604,Front Left,2.1,44,Tubeless,All-season,T,106,2021-12-25,Needs Check,City,2025-06-11,SUV,66.7,28,52,Yes,Outer,12835,2028-12-23
+3,59880,175,30,188,Continental,776,Front Left,7.9,78,Tubeless,All-season,H,81,2022-12-24,Good,City,2025-05-20,Truck,68.4,32,57,No,Inner,43891,2025-12-23
+5,64219,175,31,190,Michelin,456,Front Left,2.8,73,Tube-type,All-season,V,109,2021-07-14,Good,Off-road,2024-07-31,SUV,73.6,35,77,Yes,Even,40206,2026-07-13
+3,54323,195,35,207,Continental,408,Rear Left,6.5,67,Tube-type,Summer,V,99,2021-02-05,Good,Highway,2024-09-02,Hatchback,74.8,33,27,No,Inner,39530,2024-02-05
+6,30022,225,31,203,MRF,786,Front Right,5.8,41,Tubeless,Winter,Y,101,2024-11-19,Good,Mixed,2025-06-19,Sedan,72.0,31,73,No,Even,4311,2030-11-18
+7,65223,175,32,235,Goodyear,686,Rear Right,7.9,62,Tube-type,All-season,V,108,2022-11-17,Needs Check,Mixed,2025-04-30,Sedan,73.3,32,49,Yes,Even,37826,2029-11-15
+3,46140,225,32,229,Apollo,759,Rear Right,7.7,50,Tube-type,Winter,Y,100,2021-04-02,Needs Check,Highway,2024-11-23,Truck,69.8,33,31,Yes,Center,7114,2024-04-01
+7,46679,215,35,201,Goodyear,440,Front Right,2.5,32,Tubeless,All-season,Y,85,2023-04-29,Good,Mixed,2025-01-01,Sedan,65.5,36,48,No,Even,3915,2030-04-27
+6,37404,165,32,200,Bridgestone,608,Front Right,5.8,66,Tube-type,Winter,Y,83,2020-11-10,Misaligned,City,2024-09-16,Hatchback,73.8,31,60,Yes,Outer,25018,2026-11-09
+6,57520,215,34,202,Continental,734,Front Right,6.1,78,Tubeless,All-season,W,102,2021-08-23,Needs Check,Mixed,2024-12-28,Truck,71.2,35,26,Yes,Center,6392,2027-08-22
+6,72505,195,31,230,Pirelli,433,Front Left,2.5,52,Tube-type,Winter,V,80,2023-05-01,Good,City,2024-09-26,Truck,68.1,31,77,Yes,Even,20854,2029-04-29
+3,37834,225,34,181,Bridgestone,657,Front Right,2.3,57,Tube-type,Summer,W,102,2021-09-22,Good,Mixed,2025-02-11,Sedan,71.3,31,39,No,Inner,7672,2024-09-21
+5,50295,195,32,225,Michelin,660,Rear Left,4.7,51,Tubeless,All-season,Y,109,2024-09-18,Good,City,2025-05-15,SUV,67.3,29,31,No,Inner,8701,2029-09-17
+6,38421,225,30,221,Michelin,753,Rear Right,5.3,68,Tube-type,Winter,V,99,2024-12-28,Good,Off-road,2025-05-20,Truck,67.8,32,56,No,Center,14125,2030-12-27
+3,56665,185,31,234,MRF,786,Front Right,4.5,75,Tube-type,Winter,V,105,2021-01-05,Misaligned,Highway,2024-08-15,Hatchback,69.6,30,41,No,Outer,33359,2024-01-05
+4,45451,205,35,220,MRF,657,Front Right,3.9,36,Tubeless,All-season,T,100,2021-03-30,Misaligned,Mixed,2025-05-15,Truck,70.6,34,78,No,Inner,9838,2025-03-29
+5,62377,175,34,187,Goodyear,484,Rear Left,3.1,25,Tubeless,Summer,H,106,2020-09-12,Needs Check,Off-road,2025-04-30,Sedan,70.3,28,28,Yes,Even,35966,2025-09-11
+6,76435,225,32,238,Apollo,655,Rear Left,5.4,70,Tubeless,Winter,T,103,2023-10-11,Good,Mixed,2025-05-15,Hatchback,69.0,31,55,Yes,Inner,56603,2029-10-09
+3,69531,195,34,195,Pirelli,681,Front Right,3.1,40,Tube-type,All-season,Y,93,2021-09-07,Good,Off-road,2024-12-08,Truck,74.6,33,50,Yes,Outer,24668,2024-09-06
+7,35954,215,33,210,Pirelli,587,Rear Left,2.1,67,Tube-type,Summer,W,94,2022-11-07,Good,City,2024-08-12,SUV,71.5,34,68,No,Outer,8880,2029-11-05
+4,53064,165,35,240,Continental,784,Front Left,7.4,77,Tube-type,All-season,W,86,2024-10-23,Good,City,2024-08-15,SUV,67.2,36,40,Yes,Inner,4435,2028-10-22
+5,57904,185,31,201,Michelin,777,Front Right,6.0,64,Tubeless,All-season,W,106,2021-10-31,Needs Check,Highway,2024-07-28,Truck,72.3,33,49,No,Center,10841,2026-10-30
+5,59478,195,34,235,Apollo,483,Front Right,5.0,56,Tube-type,Winter,V,91,2024-02-06,Good,Mixed,2025-01-31,Hatchback,71.4,32,37,Yes,Even,42584,2029-02-04
+3,34323,185,34,210,Bridgestone,596,Rear Right,3.1,62,Tubeless,Summer,H,83,2022-04-18,Needs Check,City,2025-05-20,Truck,67.0,31,42,No,Even,5298,2025-04-17
+4,31342,165,31,188,Apollo,434,Front Right,7.6,28,Tubeless,All-season,T,83,2024-05-22,Misaligned,Highway,2024-10-21,Hatchback,68.0,34,58,Yes,Center,23636,2028-05-21
+3,45510,175,34,195,Apollo,412,Front Left,6.0,36,Tubeless,All-season,T,80,2021-12-06,Good,Highway,2025-02-08,SUV,68.7,28,45,Yes,Even,14120,2024-12-05
+6,47286,215,31,180,Goodyear,610,Rear Left,3.7,57,Tube-type,All-season,W,101,2020-11-23,Good,Mixed,2024-11-25,Hatchback,66.8,33,51,Yes,Even,19419,2026-11-22
+6,53606,175,31,196,MRF,624,Front Left,3.8,37,Tubeless,All-season,W,80,2020-09-01,Needs Check,Highway,2025-02-12,Sedan,72.0,35,78,Yes,Even,30211,2026-08-31
+3,77449,205,31,188,Continental,698,Front Right,2.5,53,Tubeless,All-season,Y,90,2023-04-24,Good,Mixed,2024-11-17,Truck,65.7,36,36,No,Outer,8319,2026-04-23
+4,77709,165,30,205,Apollo,613,Front Left,7.7,57,Tube-type,Winter,V,91,2022-07-18,Misaligned,Highway,2024-09-26,SUV,71.3,28,64,Yes,Outer,24403,2026-07-17
+5,65671,205,32,235,Goodyear,713,Front Left,3.9,33,Tube-type,Winter,H,80,2022-02-05,Good,Highway,2025-02-23,Hatchback,67.3,34,54,No,Inner,40344,2027-02-04
+6,70949,205,31,201,Michelin,451,Front Right,4.3,43,Tubeless,Summer,T,97,2024-07-27,Needs Check,Mixed,2024-10-15,Hatchback,67.4,30,25,Yes,Outer,35513,2030-07-26
+5,33703,185,33,192,Michelin,484,Rear Right,3.5,76,Tube-type,Summer,V,103,2021-07-04,Misaligned,Mixed,2024-10-22,SUV,68.7,36,53,No,Even,30050,2026-07-03
+6,35803,215,34,239,Pirelli,725,Rear Right,7.6,79,Tubeless,All-season,T,90,2023-03-30,Needs Check,Highway,2025-05-19,Sedan,73.3,31,37,No,Outer,11684,2029-03-28
+4,64519,195,30,203,Pirelli,513,Rear Right,6.0,68,Tubeless,Summer,H,93,2022-05-19,Misaligned,Highway,2025-02-12,Truck,69.6,34,69,Yes,Inner,6958,2026-05-18
+7,38902,205,31,190,Michelin,531,Rear Right,3.0,40,Tubeless,All-season,H,101,2023-01-04,Misaligned,Mixed,2025-03-07,SUV,73.9,33,27,Yes,Outer,28201,2030-01-02
+3,66268,185,34,200,Goodyear,634,Front Right,6.7,64,Tubeless,Winter,V,101,2020-11-23,Good,City,2025-05-25,Sedan,75.0,28,54,Yes,Outer,1072,2023-11-23
+5,46135,195,31,224,MRF,494,Front Left,2.1,40,Tubeless,Winter,H,80,2022-01-14,Needs Check,Mixed,2025-04-20,SUV,66.2,35,61,No,Outer,44207,2027-01-13
+7,35896,205,32,216,Continental,438,Rear Right,3.9,59,Tubeless,All-season,T,110,2024-10-30,Needs Check,Mixed,2024-12-29,SUV,70.0,28,75,Yes,Center,5763,2031-10-29
+3,51695,165,30,197,Continental,592,Front Right,7.5,33,Tubeless,Winter,T,96,2024-07-26,Needs Check,Mixed,2025-05-08,Truck,72.1,35,79,Yes,Even,21157,2027-07-26
+6,42256,215,32,239,Michelin,571,Rear Right,3.5,25,Tubeless,All-season,Y,80,2023-02-10,Good,Mixed,2024-08-01,Hatchback,73.2,33,69,Yes,Even,22838,2029-02-08
+3,57658,215,30,233,Apollo,570,Rear Right,4.3,80,Tubeless,Winter,W,108,2022-10-01,Good,Highway,2024-10-19,SUV,68.1,33,55,Yes,Even,3630,2025-09-30
+4,51743,185,30,215,Continental,422,Front Right,7.2,55,Tube-type,Summer,W,99,2023-09-03,Good,Off-road,2025-05-25,SUV,66.1,32,65,Yes,Inner,14502,2027-09-02
+3,62172,185,35,194,Bridgestone,778,Front Right,8.0,27,Tube-type,All-season,T,98,2024-11-15,Needs Check,Highway,2025-02-26,Hatchback,73.2,36,66,No,Center,35492,2027-11-15
+6,37923,205,34,231,Continental,663,Front Left,4.3,30,Tube-type,All-season,H,90,2022-01-08,Good,Mixed,2024-10-09,Sedan,68.1,36,39,No,Even,12310,2028-01-07
+7,59738,215,31,224,Apollo,529,Rear Left,4.6,56,Tube-type,Summer,W,80,2023-09-03,Misaligned,City,2025-04-21,Truck,73.7,29,72,Yes,Center,56991,2030-09-01
+4,54075,215,34,185,Apollo,705,Front Right,5.9,33,Tubeless,Summer,W,110,2024-12-13,Needs Check,City,2025-03-19,SUV,74.7,31,70,Yes,Even,39158,2028-12-12
+5,76858,185,30,204,Pirelli,504,Rear Left,6.1,79,Tube-type,Summer,V,89,2022-10-29,Misaligned,Highway,2024-11-24,SUV,70.7,28,41,Yes,Center,45866,2027-10-28
+4,36827,175,35,209,Continental,682,Rear Right,3.8,54,Tube-type,All-season,T,104,2021-10-22,Good,Highway,2025-05-03,Sedan,72.8,36,79,Yes,Outer,27384,2025-10-21
+3,62525,175,33,203,Goodyear,483,Front Left,7.6,31,Tube-type,Winter,V,90,2021-03-11,Misaligned,Mixed,2024-12-01,SUV,66.3,33,30,No,Inner,24972,2024-03-10
+7,32711,195,34,225,Michelin,479,Front Right,7.8,48,Tube-type,All-season,T,86,2021-10-10,Needs Check,City,2025-03-28,Sedan,74.3,30,47,Yes,Outer,17715,2028-10-08
+6,75747,165,32,232,Pirelli,521,Rear Left,4.8,60,Tube-type,Winter,Y,110,2021-12-08,Needs Check,Off-road,2024-11-13,SUV,67.5,32,31,Yes,Center,69050,2027-12-07
+3,72327,205,33,228,Bridgestone,640,Rear Left,4.2,68,Tube-type,Winter,V,102,2021-07-29,Good,Off-road,2025-04-20,Hatchback,73.3,31,25,Yes,Even,20453,2024-07-28
+6,30669,175,30,195,Bridgestone,652,Rear Right,7.0,51,Tube-type,All-season,Y,95,2024-10-02,Misaligned,Highway,2024-12-07,SUV,71.7,36,53,Yes,Center,26383,2030-10-01
+4,54661,205,34,198,Michelin,765,Rear Right,3.5,37,Tubeless,Summer,V,110,2022-10-12,Needs Check,Off-road,2025-05-31,Hatchback,74.6,35,41,No,Even,7789,2026-10-11
+4,65772,215,32,211,Continental,468,Front Right,7.3,52,Tubeless,Winter,W,85,2023-01-07,Misaligned,Highway,2024-11-29,Truck,66.9,36,33,Yes,Outer,59553,2027-01-06
+7,30041,195,34,197,Apollo,694,Front Right,3.7,47,Tube-type,All-season,Y,90,2024-11-22,Misaligned,Highway,2024-08-05,Truck,72.7,36,77,No,Even,18865,2031-11-21
+3,51644,165,31,187,Continental,546,Front Right,5.6,66,Tubeless,Winter,Y,108,2024-05-14,Needs Check,Mixed,2025-04-12,Truck,74.3,31,77,Yes,Center,1192,2027-05-14
+6,37419,195,30,207,Goodyear,500,Rear Right,3.8,30,Tube-type,Winter,T,107,2023-05-15,Misaligned,Mixed,2025-02-21,Truck,70.5,32,51,Yes,Inner,19257,2029-05-13
+4,69506,225,31,231,Pirelli,503,Front Left,5.4,45,Tubeless,All-season,H,108,2025-03-24,Good,Off-road,2024-12-21,Hatchback,67.3,34,52,Yes,Even,59236,2029-03-23
+6,79815,205,33,209,Continental,509,Rear Right,3.8,46,Tubeless,Winter,T,99,2023-05-08,Misaligned,Off-road,2024-12-21,Truck,65.6,29,48,Yes,Center,9142,2029-05-06
+6,73696,195,35,206,Bridgestone,617,Rear Left,4.0,43,Tube-type,Summer,T,108,2020-12-06,Needs Check,Off-road,2024-08-31,Truck,68.9,28,26,Yes,Inner,18886,2026-12-05
+7,39648,215,33,220,Goodyear,582,Rear Left,4.4,34,Tubeless,All-season,H,105,2022-03-31,Misaligned,Mixed,2024-08-06,SUV,71.4,31,32,No,Inner,19938,2029-03-29
+5,67103,205,30,238,Pirelli,614,Rear Left,3.9,77,Tubeless,All-season,W,91,2020-12-19,Misaligned,City,2025-01-24,Sedan,67.6,33,28,No,Outer,44763,2025-12-18
+5,30986,185,31,201,Pirelli,491,Rear Right,3.1,38,Tubeless,Winter,Y,110,2024-03-14,Needs Check,City,2025-06-18,Sedan,73.4,29,27,Yes,Inner,29403,2029-03-13
+7,34203,195,30,182,MRF,577,Front Left,6.7,72,Tube-type,All-season,Y,96,2024-04-02,Good,Mixed,2024-10-24,Sedan,70.1,33,67,No,Outer,28130,2031-04-01
+6,76234,165,30,195,MRF,426,Front Right,5.7,72,Tubeless,All-season,V,98,2025-04-13,Misaligned,Mixed,2024-08-13,Sedan,65.6,32,53,No,Outer,11932,2031-04-12
+4,55755,165,32,205,Pirelli,753,Front Right,5.9,69,Tubeless,Summer,Y,84,2021-11-17,Misaligned,Off-road,2024-08-22,Sedan,69.5,32,26,No,Center,6569,2025-11-16
+5,42202,195,33,228,Continental,755,Rear Left,4.1,46,Tube-type,Summer,Y,105,2024-09-01,Good,City,2025-06-05,Sedan,69.6,29,68,Yes,Even,29230,2029-08-31
+4,55570,195,32,205,Pirelli,484,Rear Left,5.9,74,Tubeless,Summer,H,107,2022-03-21,Misaligned,City,2024-08-23,Truck,68.0,29,78,Yes,Inner,43998,2026-03-20
+7,69138,185,33,240,Continental,462,Rear Left,4.0,51,Tubeless,Summer,T,110,2022-06-24,Good,City,2025-03-31,Sedan,66.3,34,56,Yes,Center,61182,2029-06-22
+4,79745,225,30,191,Goodyear,527,Rear Left,5.2,30,Tubeless,Winter,H,84,2020-12-14,Misaligned,Off-road,2024-08-12,Truck,66.1,31,56,No,Outer,70595,2024-12-13
+5,69741,175,33,206,Michelin,699,Front Left,5.9,62,Tubeless,Summer,Y,86,2022-02-03,Good,Highway,2024-12-19,Hatchback,70.1,30,38,No,Even,61750,2027-02-02
+7,41146,195,33,196,Continental,784,Front Left,3.6,61,Tube-type,Summer,W,103,2024-09-15,Misaligned,Mixed,2024-12-04,Sedan,72.2,34,25,Yes,Even,28862,2031-09-14
+3,41972,225,32,183,MRF,563,Rear Left,6.0,73,Tube-type,All-season,W,83,2021-08-10,Needs Check,Mixed,2024-09-11,Truck,68.7,33,77,Yes,Inner,29135,2024-08-09
+6,54937,165,32,196,Apollo,411,Rear Right,6.9,46,Tubeless,Winter,H,105,2021-04-17,Needs Check,Off-road,2025-06-06,SUV,73.7,28,35,No,Even,11064,2027-04-16
+5,34765,215,33,216,Apollo,760,Front Right,3.7,45,Tube-type,Summer,T,90,2023-09-10,Misaligned,Highway,2025-04-20,Truck,74.5,35,36,No,Inner,33505,2028-09-08
+6,70260,185,33,226,Pirelli,626,Front Left,4.5,27,Tubeless,Summer,W,87,2021-06-25,Misaligned,Highway,2025-05-14,Hatchback,67.7,30,65,Yes,Center,16713,2027-06-24
+6,40929,175,33,185,Pirelli,712,Rear Right,4.5,55,Tubeless,All-season,T,108,2021-09-09,Needs Check,City,2025-04-25,Sedan,67.4,34,65,No,Center,39777,2027-09-08
+7,57229,195,34,191,Bridgestone,658,Front Right,5.9,75,Tubeless,Summer,Y,98,2021-07-28,Good,City,2025-05-24,Sedan,74.9,35,34,Yes,Inner,43190,2028-07-26
+4,69914,175,35,225,Michelin,623,Front Left,5.0,28,Tubeless,Summer,H,90,2023-11-07,Misaligned,Highway,2025-05-11,Truck,65.3,32,45,No,Center,39854,2027-11-06
+4,55913,215,35,184,Bridgestone,447,Front Right,7.5,32,Tubeless,All-season,W,86,2022-05-04,Good,Off-road,2024-10-03,Hatchback,65.3,29,63,No,Outer,21846,2026-05-03
+5,72486,185,31,209,MRF,571,Front Left,7.9,76,Tube-type,Winter,T,108,2024-02-20,Needs Check,Highway,2024-12-19,Truck,71.9,35,69,No,Outer,15033,2029-02-18
+5,36400,185,34,218,Bridgestone,517,Front Right,8.0,41,Tubeless,Winter,Y,101,2021-03-05,Good,City,2024-12-05,Sedan,69.7,29,27,Yes,Center,36250,2026-03-04
+4,46803,165,33,225,Pirelli,738,Front Left,2.6,67,Tubeless,Winter,Y,98,2020-10-07,Good,Off-road,2024-12-03,Truck,69.7,33,32,No,Inner,8351,2024-10-06
+4,62263,205,31,193,MRF,784,Front Left,2.8,64,Tubeless,All-season,V,103,2024-04-22,Good,Mixed,2024-10-03,Sedan,74.2,31,32,Yes,Even,9026,2028-04-21
+3,42863,205,31,184,Pirelli,591,Rear Right,7.3,56,Tube-type,Winter,W,99,2022-03-15,Good,City,2025-06-19,Truck,66.5,28,61,Yes,Center,26143,2025-03-14
+5,75619,175,31,240,Bridgestone,767,Rear Right,7.3,31,Tube-type,Summer,W,96,2023-08-31,Misaligned,Highway,2024-09-30,Sedan,69.5,35,25,No,Inner,16580,2028-08-29
+5,48110,225,35,192,Apollo,557,Rear Right,5.7,34,Tube-type,Summer,Y,84,2021-06-21,Good,Highway,2024-12-14,Truck,67.1,36,71,No,Inner,10426,2026-06-20
+5,42181,205,34,200,Goodyear,755,Rear Left,5.1,43,Tube-type,Winter,H,81,2024-08-08,Good,Highway,2024-10-08,Truck,72.4,33,52,No,Outer,17576,2029-08-07
+4,39457,195,35,191,Apollo,799,Rear Left,2.9,38,Tube-type,Summer,V,80,2021-03-06,Misaligned,Highway,2024-10-02,Truck,72.2,35,37,No,Center,9975,2025-03-05
+6,35614,175,31,182,Continental,658,Rear Right,5.0,45,Tube-type,All-season,Y,87,2025-02-02,Good,Mixed,2024-10-09,Hatchback,67.0,31,42,Yes,Even,24209,2031-02-01
+6,75312,165,30,231,Pirelli,530,Front Right,7.3,71,Tube-type,Summer,W,93,2023-03-22,Misaligned,Highway,2024-09-01,Sedan,65.7,33,54,No,Even,58249,2029-03-20
+5,38576,215,30,208,MRF,712,Front Right,4.9,63,Tube-type,Winter,W,97,2025-01-28,Good,City,2024-12-30,Truck,69.3,36,77,Yes,Center,12424,2030-01-27
+6,69287,205,30,223,Pirelli,518,Rear Left,7.7,74,Tube-type,Winter,Y,94,2023-05-26,Misaligned,Off-road,2024-10-02,Sedan,65.4,32,35,No,Center,22292,2029-05-24
+4,78542,165,32,206,Pirelli,643,Front Right,2.7,66,Tubeless,Summer,Y,88,2021-08-17,Needs Check,Highway,2025-01-26,SUV,72.9,29,77,Yes,Even,18916,2025-08-16
+4,71460,195,32,207,Michelin,438,Rear Right,6.0,32,Tubeless,All-season,T,84,2023-08-17,Misaligned,Mixed,2024-10-05,Sedan,73.5,29,36,No,Outer,35421,2027-08-16
+5,54747,205,34,236,Continental,474,Front Right,6.6,45,Tubeless,All-season,T,101,2024-05-25,Good,City,2025-01-17,Truck,74.2,31,51,No,Inner,27767,2029-05-24
+7,43508,215,32,217,Goodyear,595,Rear Left,5.1,61,Tube-type,Winter,H,86,2024-06-06,Misaligned,Off-road,2024-08-09,Hatchback,66.9,35,41,No,Inner,18263,2031-06-05
+5,73211,175,30,208,Pirelli,703,Rear Right,7.7,78,Tubeless,Summer,V,89,2021-08-06,Misaligned,Highway,2024-09-12,Truck,67.1,36,75,No,Inner,46304,2026-08-05
+4,48680,215,35,230,Apollo,459,Rear Right,3.9,70,Tube-type,All-season,T,100,2023-07-29,Needs Check,Highway,2024-08-05,Sedan,66.4,30,27,No,Even,45466,2027-07-28
+6,49113,195,35,210,Apollo,740,Front Left,3.1,76,Tube-type,Winter,Y,100,2022-04-11,Misaligned,Highway,2025-04-08,SUV,72.2,34,78,Yes,Inner,8403,2028-04-09
+7,51866,185,30,230,Pirelli,737,Front Left,7.6,63,Tube-type,Summer,H,90,2021-04-11,Needs Check,Off-road,2024-10-02,SUV,65.6,33,30,Yes,Even,26778,2028-04-09
+4,51362,195,31,240,Bridgestone,663,Front Right,3.1,62,Tube-type,Winter,Y,83,2023-09-22,Needs Check,Mixed,2024-12-06,SUV,74.8,32,50,No,Even,26535,2027-09-21
+7,54766,165,33,217,Bridgestone,424,Front Right,5.7,34,Tube-type,Summer,H,86,2022-02-18,Misaligned,Mixed,2025-01-29,Sedan,68.1,35,76,Yes,Center,26875,2029-02-16
+3,30565,175,31,228,Continental,451,Front Right,6.4,69,Tubeless,Winter,T,90,2022-05-04,Good,Mixed,2025-06-09,SUV,73.9,34,30,Yes,Inner,25004,2025-05-03
+6,31525,225,34,203,Apollo,772,Front Right,7.0,72,Tubeless,All-season,W,110,2021-02-16,Good,Highway,2024-11-26,Sedan,71.0,31,77,Yes,Inner,9844,2027-02-15
+3,60818,225,32,228,Continental,667,Front Left,2.3,46,Tube-type,Summer,T,101,2020-12-13,Misaligned,Highway,2025-03-24,SUV,67.3,30,37,Yes,Center,55383,2023-12-13
+6,77575,225,35,227,Bridgestone,501,Front Right,5.8,57,Tube-type,Winter,H,109,2024-08-28,Good,Mixed,2024-11-28,Truck,65.8,30,66,No,Even,65769,2030-08-27
+3,37539,165,34,192,Apollo,537,Rear Right,3.2,29,Tube-type,Summer,V,101,2021-12-28,Needs Check,City,2025-05-13,Hatchback,67.7,36,66,No,Outer,34830,2024-12-27
+3,49657,205,35,184,MRF,749,Rear Left,2.2,78,Tubeless,Winter,T,84,2021-04-15,Needs Check,City,2025-03-28,Truck,73.4,30,74,No,Inner,37919,2024-04-14
+6,34695,205,34,189,MRF,785,Front Right,6.3,36,Tube-type,Winter,W,91,2025-02-17,Needs Check,Mixed,2024-09-16,Sedan,74.3,35,50,No,Inner,30225,2031-02-16
+4,79169,205,35,189,Bridgestone,587,Front Left,3.5,31,Tube-type,All-season,W,100,2024-04-11,Good,Highway,2025-03-04,SUV,74.0,28,78,No,Outer,37593,2028-04-10
+5,43888,205,30,185,Pirelli,591,Front Right,7.6,43,Tubeless,All-season,W,89,2022-03-06,Misaligned,City,2025-06-16,SUV,67.2,32,53,Yes,Inner,14935,2027-03-05
+7,62601,175,30,187,Pirelli,601,Front Right,6.0,66,Tube-type,Summer,V,101,2024-02-19,Needs Check,City,2025-04-16,Truck,72.1,33,51,Yes,Inner,46486,2031-02-17
+4,64794,225,30,207,Goodyear,749,Front Left,3.6,53,Tube-type,All-season,T,87,2021-01-02,Good,Off-road,2024-10-19,Sedan,73.3,36,67,No,Outer,53412,2025-01-01
+4,65229,185,32,212,Pirelli,787,Rear Left,3.4,72,Tube-type,Winter,W,98,2023-01-29,Needs Check,Highway,2025-06-24,Hatchback,68.0,32,80,Yes,Outer,15844,2027-01-28
+5,70375,225,32,205,Bridgestone,713,Front Right,2.2,43,Tube-type,Summer,V,90,2022-01-25,Good,Off-road,2025-01-16,SUV,69.7,34,74,No,Inner,25820,2027-01-24
+6,49490,185,30,202,Apollo,795,Rear Left,6.8,61,Tube-type,All-season,H,80,2024-04-11,Good,Mixed,2025-02-18,SUV,73.2,31,38,No,Outer,8227,2030-04-10
+5,36409,165,34,234,Goodyear,685,Rear Right,4.9,35,Tubeless,Winter,H,84,2020-10-10,Misaligned,Mixed,2025-01-14,SUV,71.9,31,45,Yes,Outer,9570,2025-10-09
+3,48482,205,30,238,Bridgestone,709,Rear Left,4.9,57,Tubeless,Winter,W,104,2022-03-31,Good,Off-road,2025-06-14,Sedan,67.4,32,34,Yes,Outer,3708,2025-03-30
+5,73664,195,32,219,Apollo,705,Front Left,5.9,48,Tube-type,Summer,H,91,2023-12-17,Needs Check,Off-road,2025-04-03,Truck,71.5,28,47,Yes,Even,51002,2028-12-15
+4,77505,185,30,197,Michelin,795,Rear Right,3.7,31,Tube-type,All-season,Y,101,2022-01-12,Needs Check,Highway,2024-12-02,Truck,73.1,28,80,No,Inner,4955,2026-01-11
+5,39060,175,33,192,MRF,470,Rear Right,4.2,38,Tube-type,Summer,W,86,2021-12-04,Good,Mixed,2024-10-24,Hatchback,70.3,34,36,No,Even,24549,2026-12-03
+4,74756,215,30,194,Goodyear,692,Rear Right,2.3,42,Tubeless,All-season,V,85,2023-03-30,Needs Check,City,2025-06-06,Truck,66.1,33,68,Yes,Center,72130,2027-03-29
+3,51027,215,30,184,Apollo,473,Front Left,5.0,50,Tubeless,All-season,T,80,2020-12-07,Needs Check,Mixed,2024-09-02,Sedan,74.2,31,77,Yes,Even,326,2023-12-07
+4,31190,165,33,211,MRF,476,Rear Right,4.1,54,Tubeless,Winter,V,106,2024-01-07,Misaligned,Mixed,2025-04-20,Hatchback,70.8,30,56,No,Inner,10678,2028-01-06
+4,51612,165,35,223,Michelin,569,Front Right,5.4,36,Tubeless,Winter,V,108,2022-03-09,Good,Off-road,2025-05-07,Truck,66.3,29,32,Yes,Even,25070,2026-03-08
+7,72270,175,30,227,MRF,657,Rear Right,2.7,49,Tube-type,All-season,Y,98,2021-07-27,Misaligned,Highway,2024-09-23,Hatchback,68.1,34,34,Yes,Outer,23829,2028-07-25
+3,58042,175,32,206,Michelin,717,Front Left,2.2,52,Tube-type,Winter,H,106,2020-12-19,Misaligned,Mixed,2025-02-13,Sedan,66.1,35,71,No,Center,54957,2023-12-19
+7,55297,185,34,185,Michelin,800,Front Right,6.3,47,Tube-type,All-season,T,106,2024-06-24,Needs Check,Off-road,2025-05-18,Sedan,65.6,31,55,No,Even,45105,2031-06-23
+5,56493,185,35,198,Bridgestone,599,Front Left,6.7,41,Tubeless,Winter,Y,93,2022-03-11,Misaligned,Off-road,2025-01-10,Sedan,72.6,31,44,Yes,Center,25108,2027-03-10
+3,32733,205,32,221,MRF,507,Rear Left,5.8,54,Tube-type,Summer,Y,93,2023-06-09,Misaligned,Off-road,2024-11-08,Hatchback,70.7,34,43,No,Center,27903,2026-06-08
+3,42758,175,31,207,Bridgestone,426,Front Left,5.2,60,Tubeless,Summer,W,82,2023-08-06,Needs Check,City,2024-12-29,Sedan,74.0,29,52,Yes,Outer,38248,2026-08-05
+6,62365,175,35,181,Goodyear,638,Rear Right,4.1,36,Tubeless,All-season,Y,90,2022-10-11,Misaligned,Off-road,2025-06-01,SUV,65.7,30,39,Yes,Center,59880,2028-10-09
+5,35108,175,30,222,Continental,451,Front Right,5.9,79,Tubeless,All-season,V,82,2022-10-05,Good,Off-road,2025-06-04,Sedan,67.5,33,40,Yes,Even,8592,2027-10-04
+3,75169,195,33,202,Pirelli,791,Rear Right,6.7,29,Tubeless,Summer,T,89,2023-04-27,Good,Highway,2024-08-16,SUV,71.3,35,52,No,Inner,68617,2026-04-26
+3,63301,205,34,184,Bridgestone,711,Front Right,5.5,56,Tube-type,Winter,Y,84,2023-01-24,Good,Off-road,2024-09-17,Sedan,74.9,30,27,No,Outer,49727,2026-01-23
+4,43347,185,32,238,Apollo,647,Front Right,3.6,30,Tubeless,Winter,H,89,2023-05-20,Good,City,2024-10-15,SUV,74.4,34,65,No,Outer,6032,2027-05-19
+6,41079,175,31,216,Apollo,504,Front Left,7.3,31,Tubeless,All-season,T,94,2022-01-13,Needs Check,Mixed,2024-11-20,Truck,65.6,32,30,No,Outer,18382,2028-01-12
+3,30049,205,31,206,MRF,732,Rear Left,2.8,48,Tube-type,Winter,V,101,2024-03-02,Good,Mixed,2025-02-14,SUV,73.0,28,33,Yes,Inner,13390,2027-03-02
+4,78398,165,35,193,Apollo,425,Rear Left,4.1,55,Tube-type,Summer,H,88,2024-02-19,Good,Mixed,2025-03-26,Sedan,65.7,34,33,No,Center,52846,2028-02-18
+7,54766,175,32,231,Apollo,612,Front Right,7.8,32,Tube-type,All-season,V,89,2024-11-10,Needs Check,City,2025-03-25,Hatchback,74.1,29,30,Yes,Even,8327,2031-11-09
+6,37061,205,32,197,Bridgestone,646,Rear Right,4.4,79,Tubeless,Winter,V,93,2023-11-24,Misaligned,Mixed,2024-09-21,SUV,74.4,30,63,Yes,Even,638,2029-11-22
+7,34119,195,34,233,Apollo,423,Front Right,3.6,44,Tube-type,All-season,H,102,2021-12-16,Needs Check,City,2025-02-05,Sedan,65.6,30,27,Yes,Inner,13410,2028-12-14
+5,76383,185,33,218,Continental,425,Rear Right,4.8,49,Tubeless,Winter,W,87,2024-08-03,Good,City,2025-02-18,SUV,66.5,36,80,No,Center,40988,2029-08-02
+5,46253,175,35,201,Pirelli,520,Rear Right,2.0,64,Tube-type,Summer,W,94,2023-06-19,Good,Highway,2024-09-02,Truck,65.6,36,48,No,Center,3071,2028-06-17
+7,74998,215,34,183,MRF,582,Front Right,6.3,77,Tube-type,All-season,H,87,2023-08-27,Good,City,2025-02-14,Sedan,74.4,31,60,Yes,Inner,24979,2030-08-25
+7,35354,215,30,195,MRF,763,Rear Right,5.2,76,Tubeless,Winter,V,103,2023-05-11,Good,Off-road,2024-10-09,Truck,68.3,31,67,No,Outer,23035,2030-05-09
+3,45261,195,31,228,Michelin,457,Rear Left,5.7,54,Tubeless,Summer,T,100,2021-02-17,Needs Check,Highway,2024-09-11,Hatchback,72.7,33,52,No,Outer,22298,2024-02-17
+3,72261,225,32,192,Bridgestone,445,Rear Left,8.0,51,Tubeless,All-season,V,81,2022-08-05,Good,City,2024-11-14,SUV,71.9,30,61,No,Outer,42853,2025-08-04
+4,72081,215,33,212,Continental,702,Front Left,7.2,54,Tube-type,All-season,V,105,2021-02-28,Needs Check,City,2024-08-23,Hatchback,68.5,30,79,No,Outer,8918,2025-02-27
+5,64336,215,32,199,Goodyear,560,Front Left,4.1,62,Tubeless,Winter,W,104,2024-06-21,Misaligned,Highway,2024-10-27,SUV,66.5,35,40,Yes,Inner,19376,2029-06-20
+4,34415,175,32,182,Goodyear,426,Rear Left,3.9,41,Tubeless,Summer,Y,101,2024-03-31,Good,Off-road,2025-03-27,SUV,72.6,31,39,Yes,Inner,27228,2028-03-30
+5,79633,225,31,231,Goodyear,465,Rear Left,5.2,67,Tube-type,Summer,Y,103,2020-12-20,Needs Check,Off-road,2025-05-13,Truck,67.2,36,72,Yes,Even,61,2025-12-19
+6,35369,195,34,211,Bridgestone,426,Rear Left,7.9,33,Tubeless,Summer,Y,100,2021-07-14,Misaligned,Mixed,2025-02-28,Truck,69.2,30,34,No,Outer,12805,2027-07-13
+5,71036,225,30,231,Continental,456,Front Right,2.1,54,Tube-type,Winter,H,100,2023-12-10,Needs Check,City,2024-09-18,Hatchback,65.8,35,32,No,Even,5927,2028-12-08
+7,45510,205,34,230,Pirelli,559,Rear Left,3.9,25,Tubeless,All-season,Y,108,2024-06-23,Misaligned,Off-road,2024-08-09,SUV,73.3,31,55,No,Center,33003,2031-06-22
+5,68561,175,34,220,Pirelli,434,Front Right,6.7,70,Tube-type,Winter,V,84,2022-02-20,Needs Check,City,2025-05-02,Hatchback,66.8,31,48,No,Inner,46447,2027-02-19
+4,45376,195,31,201,Apollo,714,Front Left,3.6,53,Tube-type,All-season,H,89,2023-06-23,Misaligned,City,2025-05-15,Sedan,69.9,30,71,No,Center,3866,2027-06-22
+3,30258,185,34,236,Bridgestone,477,Front Right,6.7,69,Tubeless,Summer,W,97,2021-04-21,Good,Mixed,2025-06-08,Truck,70.9,34,34,No,Inner,14180,2024-04-20
+3,46997,225,33,228,Bridgestone,717,Rear Right,4.1,48,Tube-type,Summer,H,98,2021-04-12,Misaligned,Off-road,2024-09-30,SUV,72.9,28,44,Yes,Outer,27840,2024-04-11
+7,39687,225,32,237,Goodyear,692,Front Right,4.0,54,Tubeless,Summer,T,82,2021-01-04,Needs Check,Mixed,2024-12-26,Truck,71.8,31,46,Yes,Outer,8471,2028-01-03
+4,38158,175,33,226,Continental,598,Front Right,7.9,71,Tube-type,Winter,Y,101,2023-12-20,Misaligned,City,2025-04-25,Sedan,73.9,36,58,Yes,Outer,23438,2027-12-19
+5,56457,195,33,218,Continental,660,Front Left,5.5,71,Tubeless,Summer,V,98,2021-05-28,Needs Check,Mixed,2025-02-23,SUV,67.0,33,45,Yes,Even,8327,2026-05-27
+4,39913,165,32,184,Continental,633,Front Right,2.5,37,Tubeless,All-season,Y,81,2021-06-20,Misaligned,Mixed,2025-03-20,SUV,70.7,32,50,Yes,Outer,25605,2025-06-19
+5,38762,195,33,233,Apollo,442,Rear Left,6.1,29,Tube-type,Summer,T,81,2021-05-19,Good,Off-road,2024-08-23,Truck,73.0,33,63,No,Outer,10667,2026-05-18
+3,30555,215,31,203,Bridgestone,636,Front Right,7.7,52,Tube-type,Summer,V,93,2023-05-26,Misaligned,Off-road,2025-02-18,SUV,73.0,32,79,Yes,Even,21225,2026-05-25
+5,53693,225,31,218,Apollo,518,Rear Left,5.7,36,Tube-type,Winter,V,92,2022-01-17,Needs Check,Highway,2024-10-11,Truck,67.6,36,46,No,Outer,1900,2027-01-16
+4,67454,175,33,192,Continental,655,Rear Right,4.3,75,Tubeless,Summer,T,99,2023-08-28,Misaligned,Highway,2025-05-29,Hatchback,73.2,28,33,Yes,Center,1326,2027-08-27
+3,55687,225,31,190,Apollo,786,Rear Right,5.6,33,Tube-type,Winter,V,98,2025-01-12,Needs Check,Mixed,2025-05-02,Truck,69.6,30,41,No,Inner,29644,2028-01-12
+7,53899,225,34,211,Michelin,673,Rear Right,4.4,61,Tubeless,Summer,V,98,2020-10-14,Good,Highway,2025-04-02,SUV,71.8,28,29,Yes,Outer,39458,2027-10-13
+5,72466,185,34,226,Pirelli,645,Front Left,6.7,29,Tube-type,All-season,V,93,2023-08-15,Misaligned,Highway,2025-06-05,Truck,72.8,34,80,No,Outer,33368,2028-08-13
+7,64696,165,32,180,MRF,556,Front Right,3.9,47,Tubeless,All-season,Y,106,2023-02-11,Misaligned,Off-road,2024-12-30,SUV,72.7,29,53,Yes,Center,23997,2030-02-09
+7,44225,195,31,188,Continental,510,Rear Right,7.6,51,Tubeless,All-season,Y,102,2023-10-03,Misaligned,City,2024-12-13,Truck,73.3,35,55,Yes,Center,7650,2030-10-01
+4,70968,175,35,180,Apollo,768,Front Right,3.3,28,Tubeless,Summer,W,105,2024-01-07,Good,Mixed,2025-02-20,Sedan,73.1,29,67,No,Center,68491,2028-01-06
+4,51458,205,32,221,Pirelli,471,Front Left,7.3,79,Tube-type,Winter,W,108,2023-02-18,Misaligned,Mixed,2024-09-19,Truck,73.8,31,72,Yes,Inner,24661,2027-02-17
+3,58797,195,31,220,Goodyear,596,Front Left,7.2,42,Tube-type,Summer,V,95,2024-02-28,Misaligned,Highway,2024-09-06,Hatchback,65.8,33,46,Yes,Outer,30002,2027-02-27
+5,57969,175,32,214,MRF,716,Rear Right,5.1,38,Tubeless,Winter,Y,97,2022-10-27,Good,City,2025-01-08,SUV,67.0,28,36,Yes,Even,1919,2027-10-26
+3,66246,165,33,219,Apollo,413,Front Right,3.0,37,Tube-type,Winter,T,90,2024-11-16,Misaligned,Highway,2024-09-21,SUV,66.7,32,25,Yes,Outer,2474,2027-11-16
+4,68487,225,33,212,Continental,591,Rear Right,6.4,26,Tubeless,All-season,Y,95,2022-01-17,Misaligned,Mixed,2025-04-28,Sedan,71.9,28,32,Yes,Even,66349,2026-01-16
+5,56307,165,34,230,Continental,497,Rear Left,7.9,43,Tubeless,All-season,V,86,2021-01-31,Misaligned,Highway,2024-09-09,Truck,69.5,36,78,No,Even,10359,2026-01-30
+5,52602,215,30,229,Michelin,524,Front Right,5.5,68,Tube-type,All-season,V,108,2023-08-28,Misaligned,City,2025-06-08,Truck,69.7,34,27,Yes,Center,2,2028-08-26
+3,74961,185,35,188,Goodyear,644,Front Right,4.9,36,Tube-type,Summer,T,102,2022-06-27,Good,City,2025-04-22,SUV,68.8,32,47,No,Outer,48876,2025-06-26
+3,38651,215,34,197,Pirelli,783,Front Right,7.4,74,Tubeless,Summer,T,102,2023-11-14,Good,City,2024-08-27,SUV,65.6,30,54,Yes,Even,20654,2026-11-13
+7,70441,195,34,236,Goodyear,613,Rear Left,3.0,77,Tube-type,Winter,H,93,2024-07-28,Good,Highway,2025-02-08,Hatchback,74.0,34,38,Yes,Inner,53656,2031-07-27
+4,39888,185,34,198,Goodyear,752,Rear Right,3.1,51,Tube-type,Winter,W,101,2023-06-05,Misaligned,City,2025-02-08,Sedan,67.2,31,36,No,Inner,15563,2027-06-04
+3,34280,215,33,233,MRF,538,Front Left,3.3,44,Tube-type,Summer,V,85,2024-10-14,Good,Highway,2025-05-16,SUV,72.7,29,69,Yes,Even,6286,2027-10-14
+5,68526,225,35,220,Bridgestone,689,Front Left,5.9,53,Tubeless,Winter,V,97,2022-11-03,Needs Check,Mixed,2024-09-08,SUV,69.2,33,64,Yes,Outer,66898,2027-11-02
+3,61142,215,35,208,Apollo,702,Front Left,4.2,37,Tubeless,All-season,Y,103,2021-11-07,Good,Highway,2024-11-13,Hatchback,69.0,33,29,Yes,Outer,18835,2024-11-06
+5,34254,195,35,228,Bridgestone,602,Front Left,5.1,25,Tubeless,Summer,T,101,2023-11-16,Needs Check,Off-road,2025-02-15,Sedan,70.8,36,46,No,Inner,12402,2028-11-14
+6,34386,185,32,197,Bridgestone,483,Front Left,5.2,65,Tube-type,All-season,T,84,2021-05-07,Needs Check,Mixed,2025-01-31,Truck,71.7,31,77,Yes,Center,14815,2027-05-06
+7,52053,195,32,220,Goodyear,792,Front Right,4.3,47,Tube-type,Summer,H,90,2023-01-29,Misaligned,Off-road,2025-05-16,Truck,74.5,34,40,Yes,Outer,36814,2030-01-27
+5,52788,195,33,217,MRF,452,Rear Right,4.2,73,Tube-type,Winter,Y,91,2024-07-21,Needs Check,City,2025-02-25,SUV,71.0,35,42,No,Even,11968,2029-07-20
+4,38258,225,31,238,MRF,595,Rear Right,7.0,67,Tubeless,Winter,V,100,2021-11-11,Needs Check,Highway,2024-10-15,Truck,71.8,36,55,No,Inner,37243,2025-11-10
+6,45560,195,33,203,Michelin,437,Front Right,6.5,80,Tubeless,All-season,W,81,2022-08-21,Good,City,2024-11-11,Truck,67.6,29,53,No,Outer,17764,2028-08-19
+4,51409,175,35,212,Michelin,714,Front Left,3.2,33,Tube-type,Summer,T,82,2023-09-01,Misaligned,Mixed,2025-02-01,Truck,69.7,36,56,No,Center,9030,2027-08-31
+4,50728,175,34,184,MRF,782,Front Right,4.6,62,Tube-type,Summer,W,102,2021-09-19,Misaligned,Mixed,2025-05-19,Hatchback,69.4,34,35,Yes,Center,49227,2025-09-18
+3,34771,225,33,191,Continental,669,Rear Left,6.6,79,Tube-type,Summer,H,108,2024-06-18,Needs Check,Mixed,2024-09-13,SUV,70.6,28,35,Yes,Even,5142,2027-06-18
+7,37219,195,35,226,MRF,540,Front Left,4.4,56,Tube-type,Summer,H,101,2021-04-17,Good,Mixed,2024-08-18,Sedan,69.8,35,41,Yes,Center,26707,2028-04-15
+5,55899,205,32,211,Continental,792,Rear Left,3.8,77,Tubeless,All-season,T,80,2021-10-02,Needs Check,City,2024-10-28,Hatchback,72.0,32,73,No,Outer,8388,2026-10-01
+7,61716,185,31,199,Goodyear,767,Rear Left,7.3,44,Tubeless,Winter,Y,109,2023-07-21,Misaligned,Highway,2025-06-24,Truck,75.0,29,57,Yes,Even,52316,2030-07-19
+7,48254,225,31,187,Apollo,723,Rear Left,7.6,40,Tube-type,All-season,H,97,2023-10-08,Good,Mixed,2025-01-18,Sedan,71.7,32,35,No,Outer,33733,2030-10-06
+3,54706,185,33,239,Bridgestone,523,Rear Left,7.4,32,Tube-type,All-season,Y,88,2022-06-11,Good,Off-road,2024-09-04,SUV,70.8,33,31,No,Outer,47487,2025-06-10
+3,53247,205,32,205,Bridgestone,441,Front Right,6.7,35,Tube-type,Summer,H,94,2022-05-13,Needs Check,Mixed,2024-10-16,Truck,66.1,29,63,No,Center,31264,2025-05-12
+3,62761,195,32,238,Apollo,695,Rear Right,2.5,58,Tube-type,All-season,W,90,2021-12-21,Good,City,2024-11-29,Truck,65.2,32,54,No,Outer,13188,2024-12-20
+3,45281,185,32,193,MRF,775,Front Left,7.2,49,Tubeless,All-season,Y,104,2024-12-17,Needs Check,Off-road,2025-03-16,Truck,74.1,31,58,Yes,Inner,1263,2027-12-17
+5,76401,165,31,187,Pirelli,584,Rear Right,2.6,31,Tube-type,Summer,Y,97,2024-09-06,Good,Off-road,2024-11-23,Sedan,68.3,28,58,Yes,Even,18476,2029-09-05
+5,60679,225,30,236,Bridgestone,698,Rear Left,5.5,49,Tube-type,All-season,V,94,2021-12-02,Misaligned,City,2025-03-12,SUV,67.7,29,59,No,Outer,44036,2026-12-01
+4,66430,175,35,182,Michelin,463,Front Left,3.8,75,Tubeless,Summer,Y,82,2022-10-02,Good,Highway,2025-04-03,Truck,71.1,32,33,Yes,Even,58564,2026-10-01
+6,46977,185,34,217,MRF,783,Front Left,5.0,57,Tubeless,Summer,Y,106,2024-05-23,Needs Check,Off-road,2025-03-27,SUV,68.3,30,57,No,Inner,38823,2030-05-22
+7,65412,215,31,234,Michelin,710,Front Right,4.0,66,Tubeless,Winter,V,83,2021-08-27,Good,City,2024-10-23,Truck,65.5,36,66,Yes,Outer,13854,2028-08-25
+7,31133,195,31,238,Pirelli,695,Rear Right,7.0,64,Tubeless,All-season,W,81,2021-05-07,Misaligned,City,2024-10-06,Truck,72.7,36,44,No,Even,4100,2028-05-05
+7,38657,205,31,229,Apollo,672,Rear Left,5.2,33,Tube-type,Summer,T,83,2025-03-30,Misaligned,Off-road,2024-08-17,Hatchback,70.7,33,31,Yes,Even,13829,2032-03-28
+7,33385,225,34,181,Pirelli,543,Rear Right,7.4,38,Tubeless,Winter,V,94,2022-10-27,Misaligned,Off-road,2024-10-08,Hatchback,67.9,35,42,No,Inner,25146,2029-10-25
+3,56981,165,30,208,Pirelli,757,Front Right,4.5,54,Tube-type,Summer,T,100,2024-04-08,Needs Check,City,2024-11-01,SUV,69.8,34,42,No,Inner,27543,2027-04-08
+4,31299,225,33,237,Apollo,518,Front Right,3.5,44,Tube-type,All-season,Y,99,2023-12-15,Needs Check,Off-road,2025-02-13,Hatchback,68.8,36,44,No,Even,7546,2027-12-14
+3,63834,175,30,198,Continental,735,Front Left,2.9,80,Tube-type,Winter,W,97,2021-12-23,Misaligned,Off-road,2025-03-11,SUV,67.0,29,48,No,Center,55754,2024-12-22
+3,76161,175,30,234,Apollo,584,Rear Left,2.3,38,Tube-type,Winter,Y,103,2023-01-04,Good,Highway,2025-02-21,Sedan,71.2,30,75,No,Inner,73083,2026-01-03
+3,33758,185,34,224,Pirelli,727,Rear Right,4.9,58,Tubeless,Summer,H,95,2020-11-29,Good,City,2025-02-18,Truck,66.7,35,56,Yes,Inner,16187,2023-11-29
+5,54725,215,35,203,Pirelli,675,Front Left,2.5,45,Tube-type,Winter,W,94,2022-12-27,Good,Off-road,2025-05-19,Truck,69.5,34,56,Yes,Even,32861,2027-12-26
+4,60293,165,31,192,Bridgestone,696,Front Left,2.7,73,Tube-type,Summer,Y,101,2023-05-03,Needs Check,City,2024-10-19,SUV,70.7,30,46,Yes,Even,19887,2027-05-02
+3,47412,165,30,237,Continental,597,Front Right,7.1,28,Tubeless,All-season,T,110,2021-04-01,Good,Off-road,2025-05-25,Hatchback,66.0,29,58,No,Even,43478,2024-03-31
+4,58032,225,32,207,Continental,414,Rear Left,6.1,39,Tube-type,Summer,T,109,2023-05-08,Needs Check,Highway,2024-09-04,Truck,73.6,36,26,Yes,Center,10148,2027-05-07
+5,48220,225,32,227,Goodyear,536,Rear Left,7.3,43,Tube-type,All-season,V,83,2022-03-30,Misaligned,City,2024-12-23,Truck,70.7,33,67,Yes,Center,24790,2027-03-29
+5,40332,185,32,210,Pirelli,555,Front Left,6.5,68,Tubeless,Summer,T,109,2020-09-04,Needs Check,City,2025-05-06,SUV,73.4,28,48,Yes,Outer,22340,2025-09-03
+5,42301,205,30,199,Bridgestone,783,Rear Right,3.1,32,Tube-type,Winter,V,90,2022-01-24,Good,City,2024-12-16,SUV,73.8,31,28,Yes,Outer,14086,2027-01-23
+6,39851,205,31,226,Goodyear,408,Front Left,2.5,59,Tubeless,Winter,H,80,2024-06-13,Misaligned,Mixed,2025-01-28,SUV,69.5,33,68,No,Even,7430,2030-06-12
+3,39932,175,32,221,Michelin,532,Rear Right,4.6,43,Tubeless,All-season,W,94,2021-02-12,Misaligned,City,2025-01-04,Truck,74.3,31,45,Yes,Even,13197,2024-02-12
